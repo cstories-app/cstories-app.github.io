@@ -22,7 +22,7 @@ listing:
     type: grid
     field-display-names:
       title: "App"
-    categories: true
+    # categories: true
 ---
 
 ***Empowering Communities with Easy-to-Use Digital Tools to Participate in Marine Renewable Energy Planning & Development***
