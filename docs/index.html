@@ -67,9 +67,9 @@ ul.task-list{list-style: none;}
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-workshop-date','listing-title','listing-workshop-host','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-title-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author"],
+      searchColumns: ["listing-title","listing-author"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -196,30 +196,39 @@ gtag('config', 'G-9Z3CG75J46', { 'anonymize_ip': true});
 Date
 </th>
 <th>
-Workshop
+Title
+</th>
+<th>
+Host
 </th>
 <th>
 </th>
 </tr>
 </thead>
 <tbody class="list">
-<tr data-index="0" data-listing-date-sort="1663743600000" data-listing-num-sort="1" data-listing-title-sort="Santa Barbara Maritime Museum" data-listing-filename-sort="sbmm.qmd">
-<td class="listing-date">
+<tr data-index="0" data-listing-workshop-date-sort="2022-09-21" data-listing-title-sort="Workshop #1 at SBMM" data-listing-filename-sort="sbmm.qmd">
+<td class="listing-workshop-date">
 Sep 21, 2022
 </td>
 <td class="listing-title">
-<a href="./workshops/sbmm.html" class="title">Santa Barbara Maritime Museum</a>
+<a href="./workshops/sbmm.html" class="title">Workshop #1 at SBMM</a>
+</td>
+<td class="listing-workshop-host">
+Santa Barbara Maritime Museum
 </td>
 <td class="listing-image">
 <img src="./images/place/SBMM.jpg" style="height: 40px;">
 </td>
 </tr>
-<tr data-index="1" data-listing-date-sort="1664348400000" data-listing-num-sort="2" data-listing-title-sort="Redwood Community Action Agency" data-listing-filename-sort="rcaa.qmd">
-<td class="listing-date">
+<tr data-index="1" data-listing-workshop-date-sort="2022-09-28" data-listing-title-sort="Workshop #2 at RCAA" data-listing-filename-sort="rcaa.qmd">
+<td class="listing-workshop-date">
 Sep 28, 2022
 </td>
 <td class="listing-title">
-<a href="./workshops/rcaa.html" class="title">Redwood Community Action Agency</a>
+<a href="./workshops/rcaa.html" class="title">Workshop #2 at RCAA</a>
+</td>
+<td class="listing-workshop-host">
+Redwood Community Action Agency
 </td>
 <td class="listing-image">
 <img src="./images/place/RCAA.jpg" style="height: 40px;">

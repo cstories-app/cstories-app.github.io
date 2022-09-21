@@ -1,8 +1,56 @@
 ---
-num: 1
-title: "Santa Barbara Maritime Museum"
-date: "2022-09-21"
+title: "Workshop #1 at SBMM"
+workshop-num: 1
+workshop-date: "2022-09-21"
+workshop-time: "5-7 pm"
+workshop-host: "Santa Barbara Maritime Museum"
+host-url: "https://sbmm.org"
+host-address: "113 Harbor Way, Ste 190, Santa Barbara, CA 93109"
+host-gmap: "https://goo.gl/maps/zriwEEghz36YZDyv5"
 image: "../images/place/SBMM.jpg"
 ---
 
-swap ellipses
+- {{< meta workshop-time >}}, {{< meta workshop-date >}}\
+  [{{< meta workshop-host >}}]({{< meta host-url >}})\
+  [{{< meta host-address >}}]({{< meta host-gmap >}})
+
+![](`r rmarkdown::metadata$image[1]`)
+
+## Quick Links
+
+-   **Slides**:\
+    [CStories_SBMM.pdf](files/CStories_SBMM.pdf)
+
+-   **Poll**:\
+    [pollev.com/rupertsmudge433](pollev.com/rupertsmudge433)
+
+-   **Video**:\
+    [BOEM Renewable Energy Whiteboard - YouTube](https://www.youtube.com/watch?v=GEAiyd4Yi5M&t=195s)
+
+-   **Input Tools**
+
+    -   Portals
+
+        -   [caoffshorewind.databasin.org](https://caoffshorewind.databasin.org)
+
+        -   [marinecadastre.gov/oceanreports](https://marinecadastre.gov/oceanreports)
+
+    -   Infographic
+
+        -   [sanctuarywatch.ioos.us/webcr-channelislands](https://sanctuarywatch.ioos.us/webcr-channelislands/)
+
+-   **Output Tools**
+
+    -   Infographic
+
+        -   [sanctuarywatch.ioos.us/webcr-channelislands](https://sanctuarywatch.ioos.us/webcr-channelislands/)
+
+    -   Weighted Map\
+        [ecoquants.shinyapps.io/nrel-uses](https://ecoquants.shinyapps.io/nrel-uses)
+
+    -   Tradeoff App\
+        [shiny.marinebon.app/siting](https://shiny.marinebon.app/siting)
+
+-   **Feedback**\
+    [forms.gle/Sf1QAnAaUBPyaZZBA](https://forms.gle/Sf1QAnAaUBPyaZZBA)
+

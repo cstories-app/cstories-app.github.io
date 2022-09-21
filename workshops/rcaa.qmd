@@ -1,8 +1,18 @@
 ---
-num: 2
-title: "Redwood Community Action Agency"
-date: "2022-09-28"
+title: "Workshop #2 at RCAA"
+workshop-num: 2
+workshop-date: "2022-09-28"
+workshop-time: "5-7 pm"
+workshop-host: "Redwood Community Action Agency"
+host-url: "http://rcaa.org/"
+host-address: "904 G St, Eureka, CA 95501"
+host-gmap: "https://goo.gl/maps/nW6g2Z2DFbsJjSqe8"
 image: "../images/place/RCAA.jpg"
 ---
 
-hey there
+- {{< meta workshop-time >}}, {{< meta workshop-date >}}\
+  [{{< meta workshop-host >}}]({{< meta host-url >}})\
+  [{{< meta host-address >}}]({{< meta host-gmap >}})
+
+![](`r rmarkdown::metadata$image[1]`)
+

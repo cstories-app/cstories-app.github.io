@@ -8,14 +8,15 @@ listing:
     sort-ui: false
     filter-ui: false
     field-types:
-      date: date
+      workshop-date: date
       num: number
-    fields: [date, title, image]
+    fields: [workshop-date, title, workshop-host, image]
     #field-required: [num, title, date]
     date-format: "medium"
-    sort: "date"
+    sort: "workshop-date"
     field-display-names:
-      title: "Workshop"
+      workshop-date: "Date"
+      workshop-host: "Host"
   - id: list-apps
     contents:
       - "apps/*.qmd"
@@ -33,6 +34,7 @@ listing:
 :::
 
 ::: screen-inset-shaded
+
 ### Quick Links
 
 for Workshop at Santa Barbara Maritime Museum (Sep 21, 2022):
@@ -72,6 +74,8 @@ for Workshop at Santa Barbara Maritime Museum (Sep 21, 2022):
 
 -   **Feedback**\
     [forms.gle/Sf1QAnAaUBPyaZZBA](https://forms.gle/Sf1QAnAaUBPyaZZBA)
+  
+    
 :::
 
 ## Applications
