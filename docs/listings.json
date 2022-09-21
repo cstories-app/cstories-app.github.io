@@ -12,6 +12,7 @@
       "/workshops/sbmm.html",
       "/workshops/rcaa.html",
       "/apps/infographics.html",
+      "/apps/reporting.html",
       "/apps/tradeoffs.html",
       "/apps/triage.html",
       "/apps/weighted.html"
@@ -21,6 +22,7 @@
     "listing": "/apps.html",
     "items": [
       "/apps/infographics.html",
+      "/apps/reporting.html",
       "/apps/tradeoffs.html",
       "/apps/triage.html",
       "/apps/weighted.html"

@@ -46,14 +46,14 @@
     "href": "index.html#applications",
     "title": "CStories.app",
     "section": "Applications",
-    "text": "Applications\n\n\n\n\n\n\n\n\n\n\nInfographics\n\n\nVisualize the ecosystem with icons clickable to popup windows with data and details.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTradeoffs\n\n\nA tradeoff plot can visualizes two objectives at once. Selecting win-win areas in the plot, such as high wind and low seabird sensitivity, highlights those places on the map.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTriage\n\n\nPrioritize issues requiring mitigation. Communicate between entities and produce a timeline with status.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeighted Map\n\n\nAssign weights to human uses, species distributions and habitats. Sum them up to determine most sensitive areas.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Applications\n\n\n\n\n\n\n\n\n\n\nInfographics\n\n\nVisualize the ecosystem with icons clickable to popup windows with data and details.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReporting\n\n\nSelect tags (technology, stressor, and/or receptor), draw location and generate a report.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTradeoffs\n\n\nA tradeoff plot can visualizes two objectives at once. Selecting win-win areas in the plot, such as high wind and low seabird sensitivity, highlights those places on the map.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTriage\n\n\nPrioritize issues requiring mitigation. Communicate between entities and produce a timeline with status.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeighted Map\n\n\nAssign weights to human uses, species distributions and habitats. Sum them up to determine most sensitive areas.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "apps.html",
     "href": "apps.html",
     "title": "Applications",
     "section": "",
-    "text": "Visualize the ecosystem with icons clickable to popup windows with data and details.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA tradeoff plot can visualizes two objectives at once. Selecting win-win areas in the plot, such as high wind and low seabird sensitivity, highlights those places on the map.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrioritize issues requiring mitigation. Communicate between entities and produce a timeline with status.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAssign weights to human uses, species distributions and habitats. Sum them up to determine most sensitive areas.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Visualize the ecosystem with icons clickable to popup windows with data and details.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSelect tags (technology, stressor, and/or receptor), draw location and generate a report.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA tradeoff plot can visualizes two objectives at once. Selecting win-win areas in the plot, such as high wind and low seabird sensitivity, highlights those places on the map.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrioritize issues requiring mitigation. Communicate between entities and produce a timeline with status.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAssign weights to human uses, species distributions and habitats. Sum them up to determine most sensitive areas.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -96,6 +96,13 @@
     "title": "About",
     "section": "Team",
     "text": "Team"
+  },
+  {
+    "objectID": "apps/reporting.html",
+    "href": "apps/reporting.html",
+    "title": "Reporting",
+    "section": "",
+    "text": "Live app: https://marineenergy.app"
   },
   {
     "objectID": "apps/tradeoffs.html",
