@@ -41,10 +41,10 @@ This Phase 1 project is active Aug 2022 to Apr 2023. We will conduct a series of
 for Workshop at Santa Barbara Maritime Museum (Sep 21, 2022):
 
 -   **Slides**:\
-    [CStories_SBMM.pdf](files/CStories_SBMM.pdf)
+    [CStories_SBMM.pdf](./files/CStories_SBMM.pdf)
 
 -   **Poll**:\
-    [pollev.com/rupertsmudge433](pollev.com/rupertsmudge433)
+    [pollev.com/rupertsmudge433](https://pollev.com/rupertsmudge433)
 
 -   **Video**:\
     [BOEM Renewable Energy Whiteboard - YouTube](https://www.youtube.com/watch?v=GEAiyd4Yi5M&t=195s)
