@@ -4,6 +4,7 @@ project:
 
 website:
   title: "CStories.app"
+  google-analytics: "G-9Z3CG75J46"
   navbar:
     left:
       - apps.qmd
