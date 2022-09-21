@@ -1,19 +1,22 @@
 ---
 title: "Workshops"
 listing:
-  id: list-workshops
-  contents:
-    - "workshops/*.qmd"
-  type: grid
-  field-types:
-    date: date
-    num: number
-  fields: [date, title, image]
-  #field-required: [num, title, date]
-  date-format: "medium"
-  sort: "date"
-  field-display-names:
-    title: "Workshop"
+  - id: list-workshops
+    contents:
+      - "workshops/*.qmd"
+    type: table
+    sort-ui: false
+    filter-ui: false
+    field-types:
+      workshop-date: date
+      num: number
+    fields: [workshop-date, title, workshop-host, image]
+    #field-required: [num, title, date]
+    date-format: "medium"
+    sort: "workshop-date"
+    field-display-names:
+      workshop-date: "Date"
+      workshop-host: "Host"
 ---
 
 ::: {#list-workshops}

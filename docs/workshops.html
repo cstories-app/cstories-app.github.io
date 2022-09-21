@@ -67,9 +67,9 @@ ul.task-list{list-style: none;}
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] }],
+      valueNames: ['listing-workshop-date','listing-title','listing-workshop-host','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-title-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+      searchColumns: ["listing-title","listing-author"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -160,37 +160,56 @@ gtag('config', 'G-9Z3CG75J46', { 'anonymize_ip': true});
 
 </header>
 
-<div id="listing-list-workshops" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0">
-<a href="./workshops/rcaa.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./images/place/RCAA.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Workshop #2 at RCAA
-</h5>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1">
-<a href="./workshops/sbmm.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./images/place/SBMM.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Workshop #1 at SBMM
-</h5>
-</div>
-</div>
-</a>
-</div>
-</div>
+<div id="listing-list-workshops" class="quarto-listing quarto-listing-container-table">
+
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+<th>
+Date
+</th>
+<th>
+Title
+</th>
+<th>
+Host
+</th>
+<th>
+</th>
+</tr>
+</thead>
+<tbody class="list">
+<tr data-index="0" data-listing-workshop-date-sort="2022-09-21" data-listing-title-sort="Workshop #1 at SBMM" data-listing-filename-sort="sbmm.qmd">
+<td class="listing-workshop-date">
+Sep 21, 2022
+</td>
+<td class="listing-title">
+<a href="./workshops/sbmm.html" class="title">Workshop #1 at SBMM</a>
+</td>
+<td class="listing-workshop-host">
+Santa Barbara Maritime Museum
+</td>
+<td class="listing-image">
+<img src="./images/place/SBMM.jpg" style="height: 40px;">
+</td>
+</tr>
+<tr data-index="1" data-listing-workshop-date-sort="2022-09-28" data-listing-title-sort="Workshop #2 at RCAA" data-listing-filename-sort="rcaa.qmd">
+<td class="listing-workshop-date">
+Sep 28, 2022
+</td>
+<td class="listing-title">
+<a href="./workshops/rcaa.html" class="title">Workshop #2 at RCAA</a>
+</td>
+<td class="listing-workshop-host">
+Redwood Community Action Agency
+</td>
+<td class="listing-image">
+<img src="./images/place/RCAA.jpg" style="height: 40px;">
+</td>
+</tr>
+</tbody>
+
+</table>
 <div class="listing-no-matching d-none">
 No matching items
 </div>
