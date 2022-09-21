@@ -1,5 +1,5 @@
 ---
-pagetitle: "Home"
+pagetitle: "CStories.app - Home"
 listing:
   - id: list-workshops
     contents:
