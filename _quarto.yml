@@ -15,9 +15,8 @@ website:
 format:
   html:
     theme:
-      light: flatly
-      dark: darkly
-    css: styles.css
+      light: [flatly, flatly.scss]
+      dark: [darkly, darkly.scss]
     toc: true
 
 editor: source
