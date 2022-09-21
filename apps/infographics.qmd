@@ -1,0 +1,10 @@
+---
+title: "Infographics"
+image: "/images/app/infographic.png"
+description: "Visualize the ecosystem with icons clickable to popup windows with data and details."
+app-url: "https://sanctuarywatch.ioos.us/webcr-channelislands"
+---
+
+Live app: [{{< meta app-url >}}]({{< meta app-url >}})
+
+![](`r rmarkdown::metadata$image[1]`)

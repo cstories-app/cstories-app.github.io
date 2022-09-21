@@ -1,0 +1,8 @@
+---
+num: 1
+title: "Santa Barbara Maritime Museum"
+date: "2022-09-21"
+image: "../images/place/SBMM.jpg"
+---
+
+swap ellipses

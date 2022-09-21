@@ -1,0 +1,33 @@
+---
+title: "About"
+---
+
+## Goal
+
+The goal of this project is to design a community-driven story building tool to inform the marine renewable energy planning and development process. We aim to make data easy to visualize for communicating community concerns and priorities.
+
+## Overview
+
+The marine environment is a vast resource that has great potential for meeting the world's growing en- ergy demand. Increasing the abundance of marine renewable energy (MRE) projects would expand a clean and renewable energy portfolio that supports job creation, economic prosperity, and energy se- curity, reduces greenhouse gases, and contributes to climate change mitigation. However, as is the case with any development process, MRE projects require informed and collaborative project planning to overcome significant sociocultural, ecological and environmental, and economic barriers that may limit responsible and accelerated deployment. This challenge is exacerbated by competing values held by a diverse set of communities.
+
+## Objectives
+
+1.  Engage with community members and incorporate community-driven ideas on how best to design digital tools for education, communication, and influencing MRE project development.
+
+2.  Develop prototype digital tools (e.g., digital storyboards to communicate community priorities through a series of interactive drawings) as informed by community input.
+
+3.  Test prototype digital tools with community members in regions affected by MRE project planning, focusing on offshore wind along the northern and central coasts of California.
+
+## Impact
+
+Ocean multi-use and blue justice concerns are ex- panding; therefore, conflicts over marine resources and spatial competition between marine industries and the general public are projected to increase. Collaborative planning is critical to any offshore de- velopment, as well as for upgrades to existing infra- structure and construction of new infrastructure to support expanding and emerging marine activities.
+
+This community-driven story building tool will con- tribute to effective and equitable offshore develop- ment planning processes for a number of maritime sectors, and will benefit sociocultural, ecological and environmental, regulatory, and technological challenges, all of which will contribute to economic benefits to communities while respecting environmental justice issues.
+
+## Funding
+
+Department of Energy (DOE) Small Business Innovation Research (SBIR): [Thirteen Small Businesses Receive Funding to Advance Hydropower and Marine Energy Research and Development \| Department of Energy](https://www.energy.gov/eere/water/articles/thirteen-small-businesses-receive-funding-advance-hydropower-and-marine-energy?utm_source=Tethys&utm_campaign=022f52a609-Tethys+Blast+27+May+2022&utm_medium=email&utm_term=0_2d9450ca22-022f52a609-413955729).
+
+## Team
+
+## ![](images/team.png)

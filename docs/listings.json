@@ -1,0 +1,29 @@
+[
+  {
+    "listing": "/workshops.html",
+    "items": [
+      "/workshops/sbmm.html",
+      "/workshops/rcaa.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/workshops/sbmm.html",
+      "/workshops/rcaa.html",
+      "/apps/infographics.html",
+      "/apps/tradeoffs.html",
+      "/apps/triage.html",
+      "/apps/weighted.html"
+    ]
+  },
+  {
+    "listing": "/apps.html",
+    "items": [
+      "/apps/infographics.html",
+      "/apps/tradeoffs.html",
+      "/apps/triage.html",
+      "/apps/weighted.html"
+    ]
+  }
+]

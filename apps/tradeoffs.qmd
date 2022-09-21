@@ -1,0 +1,10 @@
+---
+title: "Tradeoffs"
+image: "/images/app/siting-tradeoffs.png"
+description: "A tradeoff plot can visualizes two objectives at once. Selecting win-win areas in the plot, such as high wind and low seabird sensitivity, highlights those places on the map."
+app-url: "https://shiny.marinebon.app/siting"
+---
+
+Live app: [{{< meta app-url >}}]({{< meta app-url >}})
+
+![](`r rmarkdown::metadata$image[1]`)

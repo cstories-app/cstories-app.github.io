@@ -1,0 +1,10 @@
+---
+title: "Triage"
+image: "../images/app/triage-snh.png"
+description: "Prioritize issues requiring mitigation. Communicate between entities and produce a timeline with status."
+app-url: "https://ecoquants.shinyapps.io/snh-report"
+---
+
+Live app: [{{< meta app-url >}}]({{< meta app-url >}})
+
+![](`r rmarkdown::metadata$image[1]`)

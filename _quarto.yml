@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "CStories.app"
+  navbar:
+    left:
+      - apps.qmd
+      - workshops.qmd
+    right:
+      - about.qmd
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+
+editor: source
+
