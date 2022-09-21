@@ -1,6 +1,6 @@
 ---
 title: "Reporting"
-image: "/images/app/marineenergy.png"
+image: "../images/app/marineenergy.png"
 description: "Select tags (technology, stressor, and/or receptor), draw location and generate a report."
 app-url: "https://marineenergy.app"
 ---

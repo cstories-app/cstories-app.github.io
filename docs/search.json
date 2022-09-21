@@ -39,21 +39,21 @@
     "href": "index.html#workshops",
     "title": "CStories.app",
     "section": "Workshops",
-    "text": "Workshops\n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nHost\n\n\n\n\n\n\n\n\nSep 21, 2022\n\n\nWorkshop #1 at SBMM\n\n\nSanta Barbara Maritime Museum\n\n\n\n\n\n\n\nSep 28, 2022\n\n\nWorkshop #2 at RCAA\n\n\nRedwood Community Action Agency\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\nQuick Links\nfor Workshop at Santa Barbara Maritime Museum (Sep 21, 2022):\n\nSlides:\nCStories_SBMM.pdf\nPoll:\npollev.com/rupertsmudge433\nVideo:\nBOEM Renewable Energy Whiteboard - YouTube\nInput Tools\n\nPortals\n\ncaoffshorewind.databasin.org\nmarinecadastre.gov/oceanreports\n\nInfographic\n\nsanctuarywatch.ioos.us/webcr-channelislands\n\n\nOutput Tools\n\nInfographic\n\nsanctuarywatch.ioos.us/webcr-channelislands\n\nWeighted Map\necoquants.shinyapps.io/nrel-uses\nTradeoff App\nshiny.marinebon.app/siting\n\nFeedback\nforms.gle/Sf1QAnAaUBPyaZZBA"
+    "text": "Workshops\nThis Phase 1 project is active Aug 2022 to Apr 2023. We will conduct a series of workshops in California to solicit feedback for building out tool(s) for Phase 2 to follow.\n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nHost\n\n\n\n\n\n\n\n\nSep 21, 2022\n\n\nWorkshop #1 at SBMM\n\n\nSanta Barbara Maritime Museum\n\n\n\n\n\n\n\nSep 28, 2022\n\n\nWorkshop #2 at RCAA\n\n\nRedwood Community Action Agency\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\nQuick Links\nfor Workshop at Santa Barbara Maritime Museum (Sep 21, 2022):\n\nSlides:\nCStories_SBMM.pdf\nPoll:\npollev.com/rupertsmudge433\nVideo:\nBOEM Renewable Energy Whiteboard - YouTube\nInput Tools\n\nPortals\n\ncaoffshorewind.databasin.org\nmarinecadastre.gov/oceanreports\n\nInfographic\n\nsanctuarywatch.ioos.us/webcr-channelislands\n\n\nOutput Tools\n\nInfographic\n\nsanctuarywatch.ioos.us/webcr-channelislands\n\nWeighted Map\necoquants.shinyapps.io/nrel-uses\nTradeoff App\nshiny.marinebon.app/siting\n\nFeedback\nforms.gle/Sf1QAnAaUBPyaZZBA"
   },
   {
     "objectID": "index.html#applications",
     "href": "index.html#applications",
     "title": "CStories.app",
     "section": "Applications",
-    "text": "Applications\n\n\n\n\n\n\n\n\n\n\nInfographics\n\n\nVisualize the ecosystem with icons clickable to popup windows with data and details.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReporting\n\n\nSelect tags (technology, stressor, and/or receptor), draw location and generate a report.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTradeoffs\n\n\nA tradeoff plot can visualizes two objectives at once. Selecting win-win areas in the plot, such as high wind and low seabird sensitivity, highlights those places on the map.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTriage\n\n\nPrioritize issues requiring mitigation. Communicate between entities and produce a timeline with status.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeighted Map\n\n\nAssign weights to human uses, species distributions and habitats. Sum them up to determine most sensitive areas.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Applications\nHere are a few existing applications from other past projects that we developed with functionality from which we’ll ask for feedback based on what does and does not work for development of a future new application oriented around informing and empowering community voices.\n\n\n\n\n\n\n\n\n\n\nIndex Map\n\n\nThe Ocean Health Index uses a framework of 10 broad goals with status, pressures, trend and status. The flower plot visualizes the score of each goal as its extent, and the…\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInfographics\n\n\nVisualize the ecosystem with icons clickable to popup windows with data and details.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReporting\n\n\nSelect tags (technology, stressor, and/or receptor), draw location and generate a report.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTradeoffs\n\n\nA tradeoff plot can visualizes two objectives at once. Selecting win-win areas in the plot, such as high wind and low seabird sensitivity, highlights those places on the map.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTriage\n\n\nPrioritize issues requiring mitigation. Communicate between entities and produce a timeline with status.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeighted Map\n\n\nAssign weights to human uses, species distributions and habitats. Sum them up to determine most sensitive areas.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "apps.html",
     "href": "apps.html",
     "title": "Applications",
     "section": "",
-    "text": "Visualize the ecosystem with icons clickable to popup windows with data and details.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSelect tags (technology, stressor, and/or receptor), draw location and generate a report.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA tradeoff plot can visualizes two objectives at once. Selecting win-win areas in the plot, such as high wind and low seabird sensitivity, highlights those places on the map.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrioritize issues requiring mitigation. Communicate between entities and produce a timeline with status.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAssign weights to human uses, species distributions and habitats. Sum them up to determine most sensitive areas.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "The Ocean Health Index uses a framework of 10 broad goals with status, pressures, trend and status. The flower plot visualizes the score of each goal as its extent, and the…\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVisualize the ecosystem with icons clickable to popup windows with data and details.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSelect tags (technology, stressor, and/or receptor), draw location and generate a report.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA tradeoff plot can visualizes two objectives at once. Selecting win-win areas in the plot, such as high wind and low seabird sensitivity, highlights those places on the map.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrioritize issues requiring mitigation. Communicate between entities and produce a timeline with status.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAssign weights to human uses, species distributions and habitats. Sum them up to determine most sensitive areas.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -98,6 +98,20 @@
     "text": "Team"
   },
   {
+    "objectID": "apps/index-map.html",
+    "href": "apps/index-map.html",
+    "title": "Index Map",
+    "section": "",
+    "text": "Live app: https://ecoquants.shinyapps.io/ohi-global"
+  },
+  {
+    "objectID": "apps/weighted-map.html",
+    "href": "apps/weighted-map.html",
+    "title": "Weighted Map",
+    "section": "",
+    "text": "Live app: https://ecoquants.shinyapps.io/nrel-uses"
+  },
+  {
     "objectID": "apps/reporting.html",
     "href": "apps/reporting.html",
     "title": "Reporting",
@@ -112,13 +126,6 @@
     "text": "Live app: https://shiny.marinebon.app/siting"
   },
   {
-    "objectID": "apps/weighted.html",
-    "href": "apps/weighted.html",
-    "title": "Weighted Map",
-    "section": "",
-    "text": "Live app: https://ecoquants.shinyapps.io/nrel-uses"
-  },
-  {
     "objectID": "apps/infographics.html",
     "href": "apps/infographics.html",
     "title": "Infographics",
@@ -131,5 +138,12 @@
     "title": "Triage",
     "section": "",
     "text": "Live app: https://ecoquants.shinyapps.io/snh-report"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "CStories.app",
+    "section": "Contact",
+    "text": "Contact\n\nBen Best (ben@ecoquants.com; 805.705-9770)"
   }
 ]

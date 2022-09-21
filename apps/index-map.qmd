@@ -1,0 +1,10 @@
+---
+title: "Index Map"
+image: "../images/app/ohi.png"
+description: "The Ocean Health Index uses a framework of 10 broad goals with status, pressures, trend and status. The flower plot visualizes the score of each goal as its extent, and the weighted value to the overall score as the petal width."
+app-url: "https://ecoquants.shinyapps.io/ohi-global"
+---
+
+Live app: [{{< meta app-url >}}]({{< meta app-url >}})
+
+![](`r rmarkdown::metadata$image[1]`)

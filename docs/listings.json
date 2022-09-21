@@ -11,21 +11,23 @@
     "items": [
       "/workshops/sbmm.html",
       "/workshops/rcaa.html",
+      "/apps/index-map.html",
       "/apps/infographics.html",
       "/apps/reporting.html",
       "/apps/tradeoffs.html",
       "/apps/triage.html",
-      "/apps/weighted.html"
+      "/apps/weighted-map.html"
     ]
   },
   {
     "listing": "/apps.html",
     "items": [
+      "/apps/index-map.html",
       "/apps/infographics.html",
       "/apps/reporting.html",
       "/apps/tradeoffs.html",
       "/apps/triage.html",
-      "/apps/weighted.html"
+      "/apps/weighted-map.html"
     ]
   }
 ]
