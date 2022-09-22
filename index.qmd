@@ -30,7 +30,7 @@ listing:
 
 ## Workshops
 
-This Phase 1 project is active Aug 2022 to Apr 2023. We will conduct a series of workshops in California to solicit feedback for building out tool(s) for Phase 2 to follow.
+This Phase 1 project is active June, 2022 to March, 2023. We will conduct a series of workshops in California to solicit feedback for building out a prototype tool and solicit for Phase 2 to follow.
 
 ::: {#list-workshops}
 :::
@@ -79,7 +79,7 @@ for Workshop at Santa Barbara Maritime Museum (Sep 21, 2022):
 
 ## Applications
 
-Here are a few existing applications from other past projects that we developed with functionality from which we'll ask for feedback based on what ***does*** and ***does [not]{.underline}*** work for development of a future new application oriented around informing and empowering community voices.
+Here are a few existing applications from other  projects that we developed with functionality from which we'll ask for feedback based on what ***does*** and ***does [not]{.underline}*** work for development of a new application oriented around informing and empowering community voices.
 
 ::: {#list-apps}
 :::
