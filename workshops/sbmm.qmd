@@ -2,7 +2,7 @@
 title: "Workshop #1 at SBMM"
 workshop-num: 1
 workshop-date: "2022-09-21"
-workshop-time: "5-7 pm"
+workshop-time: "5 - 7 pm"
 workshop-host: "Santa Barbara Maritime Museum"
 host-url: "https://sbmm.org"
 host-address: "113 Harbor Way, Ste 190, Santa Barbara, CA 93109"
