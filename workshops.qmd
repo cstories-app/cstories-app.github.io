@@ -19,6 +19,8 @@ listing:
       workshop-host: "Host"
 ---
 
+This Phase 1 project is active June 2022 to March 2023. We will conduct a series of workshops in California to solicit feedback for building out a prototype tool and apply for Phase 2 funding to build out a commercial application.
+
 ::: {#list-workshops}
 :::
 

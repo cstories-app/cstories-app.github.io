@@ -4,7 +4,7 @@
     "href": "workshops/rcaa.html",
     "title": "Workshop #2 at RCAA",
     "section": "",
-    "text": "5:30 - 7:30 pm, 2022-09-28\nRedwood Community Action Agency\n\nEureka Woman’s Club\n1531 J St, Eureka, CA 95501"
+    "text": "Time: 5:30 - 7:30 pm, 2022-09-28\nHost: Redwood Community Action Agency\nLocation: Eureka Woman’s Club\n1531 J St, Eureka, CA 95501"
   },
   {
     "objectID": "workshops/sbmm.html",
@@ -49,11 +49,18 @@
     "text": "Applications\nHere are a few existing applications from other projects that we developed with functionality from which we’ll ask for feedback based on what does and does not work for development of a new application oriented around informing and empowering community voices.\n\n\n\n\n\n\n\n\n\n\nIndex Map\n\n\nThe Ocean Health Index uses a framework of 10 broad goals with status, pressures, trend and status. The flower plot visualizes the score of each goal as its extent, and the…\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInfographics\n\n\nVisualize the ecosystem with icons clickable to popup windows with data and details.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReporting\n\n\nSelect tags (technology, stressor, and/or receptor), draw location and generate a report.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTradeoffs\n\n\nA tradeoff plot can visualizes two objectives at once. Selecting win-win areas in the plot, such as high wind and low seabird sensitivity, highlights those places on the map.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTriage\n\n\nPrioritize issues requiring mitigation. Communicate between entities and produce a timeline with status.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeighted Map\n\n\nAssign weights to human uses, species distributions and habitats. Sum them up to determine most sensitive areas.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "CStories.app",
+    "section": "Contact",
+    "text": "Contact\n\nGrace Chang (gchang@integral-corp.com; 831-576-2881)\nBen Best (ben@ecoquants.com; 805-705-9770)"
+  },
+  {
     "objectID": "apps.html",
     "href": "apps.html",
     "title": "Applications",
     "section": "",
-    "text": "The Ocean Health Index uses a framework of 10 broad goals with status, pressures, trend and status. The flower plot visualizes the score of each goal as its extent, and the…\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVisualize the ecosystem with icons clickable to popup windows with data and details.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSelect tags (technology, stressor, and/or receptor), draw location and generate a report.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA tradeoff plot can visualizes two objectives at once. Selecting win-win areas in the plot, such as high wind and low seabird sensitivity, highlights those places on the map.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrioritize issues requiring mitigation. Communicate between entities and produce a timeline with status.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAssign weights to human uses, species distributions and habitats. Sum them up to determine most sensitive areas.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Index Map\n\n\nThe Ocean Health Index uses a framework of 10 broad goals with status, pressures, trend and status. The flower plot visualizes the score of each goal as its extent, and the…\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInfographics\n\n\nVisualize the ecosystem with icons clickable to popup windows with data and details.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReporting\n\n\nSelect tags (technology, stressor, and/or receptor), draw location and generate a report.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTradeoffs\n\n\nA tradeoff plot can visualizes two objectives at once. Selecting win-win areas in the plot, such as high wind and low seabird sensitivity, highlights those places on the map.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTriage\n\n\nPrioritize issues requiring mitigation. Communicate between entities and produce a timeline with status.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeighted Map\n\n\nAssign weights to human uses, species distributions and habitats. Sum them up to determine most sensitive areas.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -138,12 +145,5 @@
     "title": "Triage",
     "section": "",
     "text": "Live app: https://ecoquants.shinyapps.io/snh-report"
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "CStories.app",
-    "section": "Contact",
-    "text": "Contact\n\nGrace Chang (gchang@integral-corp.com; 831-576-2881)\nBen Best (ben@ecoquants.com; 805-705-9770)"
   }
 ]

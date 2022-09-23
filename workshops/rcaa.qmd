@@ -11,10 +11,9 @@ host-gmap: "https://goo.gl/maps/CxYhPY7LsprDSwkr6"
 image: "../images/place/RCAA_EurekaWomensClub.jpg"
 ---
 
-- {{< meta workshop-time >}}, {{< meta workshop-date >}}\
-  [{{< meta workshop-host >}}]({{< meta host-url >}})\
-  {{< meta venue-name >}}
-  [{{< meta venue-address >}}]({{< meta host-gmap >}})
-
-![](`r rmarkdown::metadata$image[1]`)
+- Time: {{< meta workshop-time >}}, {{< meta workshop-date >}}
+- Host: [{{< meta workshop-host >}}]({{< meta host-url >}})
+- Location: {{< meta venue-name >}}\
+  [{{< meta venue-address >}}]({{< meta host-gmap >}})\
+  ![](`r rmarkdown::metadata$image[1]`)
 

@@ -19,7 +19,7 @@ image: "../images/place/SBMM.jpg"
 ## Quick Links
 
 -   **Slides**:\
-    [CStories_SBMM.pdf](./files/CStories_SBMM.pdf)
+    [CStories_SBMM.pdf](../files/CStories_SBMM.pdf)
 
 -   **Poll**:\
     [pollev.com/rupertsmudge433](https://pollev.com/rupertsmudge433)
