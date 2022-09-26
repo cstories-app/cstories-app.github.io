@@ -1,7 +1,7 @@
 ---
 title: "Workshop #2 at RCAA"
 workshop-num: 2
-workshop-date: "2022-09-28"
+workshop-date: "2022-09-29"
 workshop-time: "5:30 - 7:30 pm"
 workshop-host: "Redwood Community Action Agency"
 host-url: "http://rcaa.org/"
