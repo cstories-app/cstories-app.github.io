@@ -30,7 +30,7 @@ listing:
 
 ## Workshops
 
-This Phase 1 project is active June 2022 to March 2023. We will conduct a series of workshops in California to solicit feedback for building out a prototype tool and apply for Phase 2 funding to build out a commercial application.
+This Phase 1 project is active June 2022 to March 2023. We will conduct a series of workshops in California to solicit feedback for building out a prototype tool.
 
 ::: {#list-workshops}
 :::
@@ -40,7 +40,7 @@ This Phase 1 project is active June 2022 to March 2023. We will conduct a series
 for [Workshop #2 at RCAA](./workshops/rcaa.qmd), Thursday Sep 29, 2022
 
 -   **Slides**:\
-    [CStories_RCAA.pdf](../files/CStories_RCAA.pdf)
+    [CStories_RCAA.pdf](./files/CStories_RCAA.pdf)
 
 -   **Poll**:\
     [pollev.com/rupertsmudge433](https://pollev.com/rupertsmudge433)
