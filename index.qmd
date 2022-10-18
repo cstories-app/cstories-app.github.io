@@ -35,48 +35,6 @@ This Phase 1 project is active June 2022 to March 2023. We will conduct a series
 ::: {#list-workshops}
 :::
 
-## Quick Links
-
-for [Workshop #2 at RCAA](./workshops/rcaa.qmd), Thursday Sep 29, 2022
-
--   **Slides**:\
-    [CStories_RCAA.pdf](./files/CStories_RCAA.pdf)
-
--   **Poll**:\
-    [pollev.com/rupertsmudge433](https://pollev.com/rupertsmudge433)
-
--   **Video**:\
-    [BOEM Renewable Energy Whiteboard - YouTube](https://www.youtube.com/watch?v=GEAiyd4Yi5M&t=195s)
-
--   **Input Tools**
-
-    -   Portals
-
-        -   [caoffshorewind.databasin.org](https://caoffshorewind.databasin.org)
-
-        -   [marinecadastre.gov/oceanreports](https://marinecadastre.gov/oceanreports)
-
-    -   Infographic
-
-        -   [sanctuarywatch.ioos.us/webcr-channelislands](https://sanctuarywatch.ioos.us/webcr-channelislands/)
-
--   **Output Tools**
-
-    -   Infographic
-
-        -   [sanctuarywatch.ioos.us/webcr-channelislands](https://sanctuarywatch.ioos.us/webcr-channelislands/)
-
-    -   Weighted Map\
-        [ecoquants.shinyapps.io/nrel-uses](https://ecoquants.shinyapps.io/nrel-uses)
-
-    -   Tradeoff App\
-        [shiny.marinebon.app/siting](https://shiny.marinebon.app/siting)
-    
-    - ... and more at [cstories.app/apps.html](https://cstories.app/apps.html)
-
--   **Feedback**\
-    [forms.gle/Sf1QAnAaUBPyaZZBA](https://forms.gle/Sf1QAnAaUBPyaZZBA)
-
 ## Applications
 
 Here are a few existing applications from other projects that we developed with functionality from which we'll ask for feedback based on what does and does not work for development of a new application oriented around informing and empowering community voices.
