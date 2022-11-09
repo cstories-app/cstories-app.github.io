@@ -1,0 +1,170 @@
+[
+  {
+    "objectID": "workshops/rcaa.html",
+    "href": "workshops/rcaa.html",
+    "title": "Workshop #2 at RCAA",
+    "section": "",
+    "text": "Time: 5:30 - 7:30 pm, 2022-09-29\nHost: Redwood Community Action Agency\nLocation: Eureka Woman’s Club\n1531 J St, Eureka, CA 95501"
+  },
+  {
+    "objectID": "workshops/rcaa.html#quick-links",
+    "href": "workshops/rcaa.html#quick-links",
+    "title": "Workshop #2 at RCAA",
+    "section": "Quick Links",
+    "text": "Quick Links\n\nSlides:\nCStories_RCAA.pdf\nPoll:\npollev.com/rupertsmudge433\nVideo:\nBOEM Renewable Energy Whiteboard - YouTube\nInput Tools\n\nPortals\n\ncaoffshorewind.databasin.org\nmarinecadastre.gov/oceanreports\n\nInfographic\n\nsanctuarywatch.ioos.us/webcr-channelislands\n\n\nOutput Tools\n\nInfographic\n\nsanctuarywatch.ioos.us/webcr-channelislands\n\nWeighted Map\necoquants.shinyapps.io/nrel-uses\nTradeoff App\nshiny.marinebon.app/siting\n… and more at cstories.app/apps.html\n\nFeedback\nforms.gle/Sf1QAnAaUBPyaZZBA"
+  },
+  {
+    "objectID": "workshops/sbmm.html",
+    "href": "workshops/sbmm.html",
+    "title": "Workshop #1 at SBMM",
+    "section": "",
+    "text": "5 - 7 pm, 2022-09-21\nSanta Barbara Maritime Museum\n113 Harbor Way, Ste 190, Santa Barbara, CA 93109"
+  },
+  {
+    "objectID": "workshops/sbmm.html#quick-links",
+    "href": "workshops/sbmm.html#quick-links",
+    "title": "Workshop #1 at SBMM",
+    "section": "Quick Links",
+    "text": "Quick Links\n\nSlides:\nCStories_SBMM.pdf\nPoll:\npollev.com/rupertsmudge433\nVideo:\nBOEM Renewable Energy Whiteboard - YouTube\nInput Tools\n\nPortals\n\ncaoffshorewind.databasin.org\nmarinecadastre.gov/oceanreports\n\nInfographic\n\nsanctuarywatch.ioos.us/webcr-channelislands\n\n\nOutput Tools\n\nInfographic\n\nsanctuarywatch.ioos.us/webcr-channelislands\n\nWeighted Map\necoquants.shinyapps.io/nrel-uses\nTradeoff App\nshiny.marinebon.app/siting\n\nFeedback\nforms.gle/Sf1QAnAaUBPyaZZBA"
+  },
+  {
+    "objectID": "workshops.html",
+    "href": "workshops.html",
+    "title": "Workshops",
+    "section": "",
+    "text": "This Phase 1 project is active June 2022 to March 2023. We will conduct a series of workshops in California to solicit feedback for building out a prototype tool and apply for Phase 2 funding to build out a commercial application.\n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nHost\n\n\n\n\n\n\n\n\nSep 21, 2022\n\n\nWorkshop #1 at SBMM\n\n\nSanta Barbara Maritime Museum\n\n\n\n\n\n\n\nSep 29, 2022\n\n\nWorkshop #2 at RCAA\n\n\nRedwood Community Action Agency\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "infographics/viewshed.html",
+    "href": "infographics/viewshed.html",
+    "title": "Viewshed",
+    "section": "",
+    "text": "OverviewHumboldtMorro Bay"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "CStories.app",
+    "section": "",
+    "text": "Empowering Communities with Easy-to-Use Digital Tools to Participate in Marine Renewable Energy Planning & Development"
+  },
+  {
+    "objectID": "index.html#workshops",
+    "href": "index.html#workshops",
+    "title": "CStories.app",
+    "section": "Workshops",
+    "text": "Workshops\nThis Phase 1 project is active June 2022 to March 2023. We will conduct a series of workshops in California to solicit feedback for building out a prototype tool.\n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nHost\n\n\n\n\n\n\n\n\nSep 21, 2022\n\n\nWorkshop #1 at SBMM\n\n\nSanta Barbara Maritime Museum\n\n\n\n\n\n\n\nSep 29, 2022\n\n\nWorkshop #2 at RCAA\n\n\nRedwood Community Action Agency\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#applications",
+    "href": "index.html#applications",
+    "title": "CStories.app",
+    "section": "Applications",
+    "text": "Applications\nHere are a few existing applications from other projects that we developed with functionality from which we’ll ask for feedback based on what does and does not work for development of a new application oriented around informing and empowering community voices.\n\n\n\n\n\n\n\n\n\n\nIndex Map\n\n\nThe Ocean Health Index uses a framework of 10 broad goals with status, pressures, trend and status. The flower plot visualizes the score of each goal as its extent, and the…\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInfographics\n\n\nVisualize the ecosystem with icons clickable to popup windows with data and details.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReporting\n\n\nSelect tags (technology, stressor, and/or receptor), draw location and generate a report.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTradeoffs\n\n\nA tradeoff plot can visualizes two objectives at once. Selecting win-win areas in the plot, such as high wind and low seabird sensitivity, highlights those places on the map.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTriage\n\n\nPrioritize issues requiring mitigation. Communicate between entities and produce a timeline with status.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeighted Map\n\n\nAssign weights to human uses, species distributions and habitats. Sum them up to determine most sensitive areas.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "CStories.app",
+    "section": "Contact",
+    "text": "Contact\n\nGrace Chang (gchang@integral-corp.com; 831-576-2881)\nBen Best (ben@ecoquants.com; 805-705-9770)"
+  },
+  {
+    "objectID": "apps.html",
+    "href": "apps.html",
+    "title": "Applications",
+    "section": "",
+    "text": "Here are a few existing applications from other projects that we developed with functionality from which we’ll ask for feedback based on what does and does not work for development of a new application oriented around informing and empowering community voices.\n\n\n\n\n\n\n\n\n\n\nIndex Map\n\n\nThe Ocean Health Index uses a framework of 10 broad goals with status, pressures, trend and status. The flower plot visualizes the score of each goal as its extent, and the…\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInfographics\n\n\nVisualize the ecosystem with icons clickable to popup windows with data and details.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReporting\n\n\nSelect tags (technology, stressor, and/or receptor), draw location and generate a report.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTradeoffs\n\n\nA tradeoff plot can visualizes two objectives at once. Selecting win-win areas in the plot, such as high wind and low seabird sensitivity, highlights those places on the map.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTriage\n\n\nPrioritize issues requiring mitigation. Communicate between entities and produce a timeline with status.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeighted Map\n\n\nAssign weights to human uses, species distributions and habitats. Sum them up to determine most sensitive areas.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "The goal of this project is to design a community-driven story building tool to inform the marine renewable energy planning and development process. We aim to make data easy to visualize for communicating community concerns and priorities."
+  },
+  {
+    "objectID": "about.html#overview",
+    "href": "about.html#overview",
+    "title": "About",
+    "section": "Overview",
+    "text": "Overview\nThe marine environment is a vast resource that has great potential for meeting the world’s growing en- ergy demand. Increasing the abundance of marine renewable energy (MRE) projects would expand a clean and renewable energy portfolio that supports job creation, economic prosperity, and energy se- curity, reduces greenhouse gases, and contributes to climate change mitigation. However, as is the case with any development process, MRE projects require informed and collaborative project planning to overcome significant sociocultural, ecological and environmental, and economic barriers that may limit responsible and accelerated deployment. This challenge is exacerbated by competing values held by a diverse set of communities."
+  },
+  {
+    "objectID": "about.html#objectives",
+    "href": "about.html#objectives",
+    "title": "About",
+    "section": "Objectives",
+    "text": "Objectives\n\nEngage with community members and incorporate community-driven ideas on how best to design digital tools for education, communication, and influencing MRE project development.\nDevelop prototype digital tools (e.g., digital storyboards to communicate community priorities through a series of interactive drawings) as informed by community input.\nTest prototype digital tools with community members in regions affected by MRE project planning, focusing on offshore wind along the northern and central coasts of California."
+  },
+  {
+    "objectID": "about.html#impact",
+    "href": "about.html#impact",
+    "title": "About",
+    "section": "Impact",
+    "text": "Impact\nOcean multi-use and blue justice concerns are ex- panding; therefore, conflicts over marine resources and spatial competition between marine industries and the general public are projected to increase. Collaborative planning is critical to any offshore de- velopment, as well as for upgrades to existing infra- structure and construction of new infrastructure to support expanding and emerging marine activities.\nThis community-driven story building tool will con- tribute to effective and equitable offshore develop- ment planning processes for a number of maritime sectors, and will benefit sociocultural, ecological and environmental, regulatory, and technological challenges, all of which will contribute to economic benefits to communities while respecting environmental justice issues."
+  },
+  {
+    "objectID": "about.html#funding",
+    "href": "about.html#funding",
+    "title": "About",
+    "section": "Funding",
+    "text": "Funding\nDepartment of Energy (DOE) Small Business Innovation Research (SBIR): Thirteen Small Businesses Receive Funding to Advance Hydropower and Marine Energy Research and Development | Department of Energy."
+  },
+  {
+    "objectID": "about.html#team",
+    "href": "about.html#team",
+    "title": "About",
+    "section": "Team",
+    "text": "Team"
+  },
+  {
+    "objectID": "infographics.html",
+    "href": "infographics.html",
+    "title": "Infographics",
+    "section": "",
+    "text": "Interactive infographics allow for easy navigation of core concepts and information in a visual manner.\n\n\n\n\n\n\n\n\n\n\nOverview Infographic\n\n\ninitial infographic of community, whales and turbines\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nViewshed\n\n\nHow will wind turbines affect your view?\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "apps/index-map.html",
+    "href": "apps/index-map.html",
+    "title": "Index Map",
+    "section": "",
+    "text": "Live app: https://ecoquants.shinyapps.io/ohi-global"
+  },
+  {
+    "objectID": "apps/weighted-map.html",
+    "href": "apps/weighted-map.html",
+    "title": "Weighted Map",
+    "section": "",
+    "text": "Live app: https://ecoquants.shinyapps.io/nrel-uses"
+  },
+  {
+    "objectID": "apps/reporting.html",
+    "href": "apps/reporting.html",
+    "title": "Reporting",
+    "section": "",
+    "text": "Live app: https://marineenergy.app"
+  },
+  {
+    "objectID": "apps/tradeoffs.html",
+    "href": "apps/tradeoffs.html",
+    "title": "Tradeoffs",
+    "section": "",
+    "text": "Live app: https://shiny.marinebon.app/siting"
+  },
+  {
+    "objectID": "apps/infographics.html",
+    "href": "apps/infographics.html",
+    "title": "Infographics",
+    "section": "",
+    "text": "Live app: https://sanctuarywatch.ioos.us/webcr-channelislands"
+  },
+  {
+    "objectID": "apps/triage.html",
+    "href": "apps/triage.html",
+    "title": "Triage",
+    "section": "",
+    "text": "Live app: https://ecoquants.shinyapps.io/snh-report"
+  }
+]

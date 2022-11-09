@@ -28,6 +28,8 @@ format:
       light: [flatly, flatly.scss]
       dark: [darkly, darkly.scss]
     toc: true
+    comments:
+      hypothesis: true
     execute:
       echo: false
       warning: false
