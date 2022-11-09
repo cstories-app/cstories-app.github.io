@@ -3,7 +3,7 @@ title: "Infographics"
 listing:
   id: list-infographics
   contents:
-    - "infographics/info1.qmd"
+    - "infographics/*.qmd"
   type: grid
   categories: true
 ---

@@ -116,7 +116,7 @@
     "href": "infographics.html",
     "title": "Infographics",
     "section": "",
-    "text": "Interactive infographics allow for easy navigation of core concepts and information in a visual manner.\n\n\n\n\n\n\n\n\n\n\nOverview Infographic\n\n\ninitial infographic of community, whales and turbines\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Interactive infographics allow for easy navigation of core concepts and information in a visual manner.\n\n\n\n\n\n\n\n\n\n\nOverview Infographic\n\n\ninitial infographic of community, whales and turbines\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nViewshed\n\n\nHow will wind turbines affect your view?\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "apps/index-map.html",
@@ -159,5 +159,33 @@
     "title": "Triage",
     "section": "",
     "text": "Live app: https://ecoquants.shinyapps.io/snh-report"
+  },
+  {
+    "objectID": "infographics/viewshed.html",
+    "href": "infographics/viewshed.html",
+    "title": "Viewshed",
+    "section": "",
+    "text": "OverviewHumboldtMorro Bay"
+  },
+  {
+    "objectID": "infographics/viewshed.html#overview",
+    "href": "infographics/viewshed.html#overview",
+    "title": "Viewshed",
+    "section": "Overview",
+    "text": "Overview"
+  },
+  {
+    "objectID": "infographics/viewshed.html#humboldt",
+    "href": "infographics/viewshed.html#humboldt",
+    "title": "Viewshed",
+    "section": "Humboldt",
+    "text": "Humboldt"
+  },
+  {
+    "objectID": "infographics/viewshed.html#morro-bay",
+    "href": "infographics/viewshed.html#morro-bay",
+    "title": "Viewshed",
+    "section": "Morro Bay",
+    "text": "Morro Bay"
   }
 ]
