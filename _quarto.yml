@@ -3,10 +3,13 @@ project:
   output-dir: docs
   resources:
   - "/.nojekyll"
+  - "/infographics/lib/_info_header.html"
+  - "/infographics/lib/_info_modal.html"
+  - "/infographics/lib/infographiq.css"
+  - "/infographics/lib/infographiq.js"
   - "/infographics/icon_links.csv"
   - "/infographics/info1.svg"
-  - "/infographics/info1/_whales.html"
-  - "/infographics/info1/_whales_files/*"
+  - "/infographics/info1_modals/*"
 
 website:
   title: "CStories.app"

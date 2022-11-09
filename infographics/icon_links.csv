@@ -1,4 +1,4 @@
 svg,icon,title,link,section,not_modal
-info1.svg,people-group,Community,modals/community.html,,F
-info1.svg,whale,Whales,info1/_whales.html,,F
-info1.svg,wind-turbine,Wind Turbines,modals/wind-turbines.html,,F
+info1.svg,people-group,Community,info1_modals/_community.html,,F
+info1.svg,whale,Whales,info1_modals/_whales.html,,F
+info1.svg,wind-turbine,Wind Turbines,info1_modals/_turbines.html,,F

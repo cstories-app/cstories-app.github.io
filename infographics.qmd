@@ -8,7 +8,7 @@ listing:
   categories: true
 ---
 
-Here are a few existing applications from other projects that we developed with functionality from which we'll ask for feedback based on what does and does not work for development of a new application oriented around informing and empowering community voices.
+Interactive infographics allow for easy navigation of core concepts and information in a visual manner.
 
 ::: {#list-infographics}
 :::

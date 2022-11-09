@@ -16,26 +16,24 @@ this.tooltip_internal = true;
 // globally scope the svg elements to be modified when highlighted
 var svg_elements = ["circle", "ellipse", "line", "mesh", "path", "polygon", "polyline", "rect", "text"];
 
-//globally scope the variable that defines the properties of the modal window
-//var modal_html = '<div aria-labelledby="modal-title" class="modal fade bs-example-modal-lg" id="modal" role="dialog" tabindex="-1"><div class="modal-dialog modal-lg" role="document"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button><h4 class="modal-title" id="modal-title">title</h4></div><div class="modal-body"><iframe data-src="" allow="fullscreen" height="100%" width="100%" frameborder="0"></iframe></div><div class="modal-footer"><button class="btn btn-default btn-sm" data-dismiss="modal">Close</button></div></div></div></div>'
-//var modal_html = '<div class="modal-dialog fade" id="modaliq" tabindex="-1" aria-labelledby="ModalInfographiqLabel" aria-hidden="true"><div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><h5 class="modal-title" id="modaliq-title">Modal title</h5><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div><div class="modal-body"><iframe data-src="" allow="fullscreen" height="100%" width="100%" frameborder="0"></iframe></div><div class="modal-footer"><button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button><button type="button" class="btn btn-primary">Save changes</button></div></div></div></div>';
-
-//var modal_html;
-fetch('/infographics/_info_modal.html')
-  .then(res => res.text())
-  .then(data => {
-    var modal_html = data;
-   })
+// function to fetch modal html as string
+async function getText(url) {
+  let response = await fetch(url);
+  let data = await response.text()
+  return data;
+}
 
 function basename(path) {
      return path.replace(/.*\//, '');
 }
 
 // main function to link svg elements to modal popups with data in csv
-function link_svg({svg, csv, svg_id = 'svg', toc_id = 'toc', hover_color = 'yellow', width = '100%',
+function link_svg({svg, csv, modal_html, modal_id = 'modaliq', svg_id = 'svg', toc_id = 'toc', hover_color = 'yellow', width = '100%',
   height = '100%', modal_url_pfx, toc_style = "list", colored_sections = false,
   section_colors = ['LightGreen', 'MediumOrchid', 'Orange'], text_toggle = 'none',
   svg_filter, full_screen_button = true, button_text = "Full Screen", tooltip = true} = {}) {
+
+  var modal_id = modal_id;
 
   // basic error checking to see if there are elementary errors in the arguments provided to the function
   if (svg == null | csv == null){
@@ -54,7 +52,7 @@ function link_svg({svg, csv, svg_id = 'svg', toc_id = 'toc', hover_color = 'yell
   tooltip_internal = tooltip;
 
   // open up the svg in d3
-  d3.xml(svg).then((f) => {
+  d3.xml(svg).then(async (f) => {
 
     // check to see if full screen is possible on this browser, if so create full screen option for svg
     // (but only if the function parameter full_screen_button is set to true)
@@ -98,6 +96,7 @@ function link_svg({svg, csv, svg_id = 'svg', toc_id = 'toc', hover_color = 'yell
     var f_child = div.node().appendChild(f.documentElement);
 
     // attach modal window into html document, into the svg_id container
+    modal_html = await getText(modal_html)
     appendHtml(div.node(), modal_html);
 
     // append div for svg tooltip
@@ -309,7 +308,7 @@ function element_highlight_add(icon_id, svg_id, hover_color){
   catch {}
 }
 
-function icon_append(d, h, modal_url_pfx, svg_id, hover_color, section_content, text_column = true){
+function icon_append(d, h, modal_url_pfx, svg_id, hover_color, section_content, text_column = true, modal_id = "modaliq"){
   if(d.link == null){ // no hyperlink given for modal window
     if(modal_url_pfx != null){ // does value exist for modal_url_pfx
       if(modal_url_pfx.charAt(modal_url_pfx.length-1) != "/"){ // ensure backslash is last character of variable modal_url_pfx
@@ -342,22 +341,19 @@ function icon_append(d, h, modal_url_pfx, svg_id, hover_color, section_content, 
 
       // https://www.drupal.org/node/756722#using-jquery
       (function ($) {
-        $('#modaliq').find('iframe')
+        $('#' + modal_id).find('iframe')
           .prop('src', function(){ return d.link });
 
-        $('#modaliq' + '-title').html( d.title );
+        $('#' + modal_id + '-title').html( d.title );
 
-        // $('#modaliq').on('show.bs.modal', function () {
-        //   $('.modal-content').css('height',$( window ).height()*0.9);
-        //   $('.modal-body').css('height','calc(100% - 65px - 55.33px)');
-        // });
-
-        //$('#modaliq').show();
-        
+        $('#' + modal_id).on('show.bs.modal', function () {
+          $('.modal-content').css('height',$( window ).height()*0.9);
+          $('.modal-body').css('height','calc(100% - 65px - 55.33px)');
+        });
       }(jQuery));
 
-      // mdl = new bootstrap.Modal(document.getElementById('modaliq'))
-      // mdl.show()
+      mdl = new bootstrap.Modal(document.getElementById(modal_id))
+      mdl.show()
     }
   }
 
@@ -420,7 +416,7 @@ function icon_append(d, h, modal_url_pfx, svg_id, hover_color, section_content, 
 // main function to link table elements to modal popups.
 // The only argument taken is 'csvLink' which is a link to a csv file with the following columns:
 // EPU, indicator_name, indicator_chunk_title, image_url, caption, alt_text, data_link, time_min, time_max, methods_link
-function link_table(csvLink) {
+function link_table(csvLink, modal_id = "modaliq") {
   // load in csv file
   d3.csv(csvLink).then(function(dataSet) {
 
@@ -493,18 +489,9 @@ function link_table(csvLink) {
             .attr("target", "_blank")
             .html(" Graph Methodology.");
         }
-        //document.getElementById('modaliq').style.display='block';
+        //document.getElementById(modal_id).style.display='block';
       } );
 
     } );
   });
-  // Get the modal
-  // var modaliq = document.getElementById('modaliq');
-
-  // // When the user clicks anywhere outside of the modal, close it
-  // window.onclick = function(event) {
-  //     if (event.target == modaliq) {
-  //       modaliq.style.display = "none";
-  //     }
-  // }
 }

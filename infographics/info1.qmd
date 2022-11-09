@@ -1,10 +1,10 @@
 ---
-title: "Infographic 1"
+title: "Overview Infographic"
 image: "./info1.svg"
-description: "initial infographic"
+description: "initial infographic of community, whales and turbines"
 format:
   html:
-    include-in-header: _info_header.html
+    include-in-header: lib/_info_header.html
 ---
 
 <!-- https://quarto.org/docs/output-formats/page-layout.html#css-grid -->
@@ -24,15 +24,11 @@ format:
   link_svg({
     svg:         "info1.svg", 
     csv:         "./icon_links.csv", 
+    modal_html:  "./lib/_info_modal.html",
+    modal_id:    "modaliq",
     svg_id:      "svg", 
     toc_id:      "toc",
-    toc_style:   "sectioned_list",
+    toc_style:   "list",
     text_toggle: "toggle_off",
     svg_filter:  "info1.svg"});
 </script>
-
-<!-- Button trigger modal -->
-<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
-  Launch demo modal
-</button>
-
