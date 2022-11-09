@@ -29,5 +29,11 @@
       "/apps/triage.html",
       "/apps/weighted-map.html"
     ]
+  },
+  {
+    "listing": "/infographics.html",
+    "items": [
+      "/infographics/info1.html"
+    ]
   }
 ]

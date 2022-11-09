@@ -3,6 +3,10 @@ project:
   output-dir: docs
   resources:
   - "/.nojekyll"
+  - "/infographics/icon_links.csv"
+  - "/infographics/info1.svg"
+  - "/infographics/info1/_whales.html"
+  - "/infographics/info1/_whales_files/*"
 
 website:
   title: "CStories.app"
@@ -10,6 +14,7 @@ website:
   navbar:
     left:
       - apps.qmd
+      - infographics.qmd
       - workshops.qmd
     right:
       - about.qmd

@@ -32,7 +32,7 @@
     "href": "workshops.html",
     "title": "Workshops",
     "section": "",
-    "text": "Date\n\n\nTitle\n\n\nHost\n\n\n\n\n\n\n\n\nSep 21, 2022\n\n\nWorkshop #1 at SBMM\n\n\nSanta Barbara Maritime Museum\n\n\n\n\n\n\n\nSep 29, 2022\n\n\nWorkshop #2 at RCAA\n\n\nRedwood Community Action Agency\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "This Phase 1 project is active June 2022 to March 2023. We will conduct a series of workshops in California to solicit feedback for building out a prototype tool and apply for Phase 2 funding to build out a commercial application.\n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nHost\n\n\n\n\n\n\n\n\nSep 21, 2022\n\n\nWorkshop #1 at SBMM\n\n\nSanta Barbara Maritime Museum\n\n\n\n\n\n\n\nSep 29, 2022\n\n\nWorkshop #2 at RCAA\n\n\nRedwood Community Action Agency\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -47,13 +47,6 @@
     "title": "CStories.app",
     "section": "Workshops",
     "text": "Workshops\nThis Phase 1 project is active June 2022 to March 2023. We will conduct a series of workshops in California to solicit feedback for building out a prototype tool.\n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nHost\n\n\n\n\n\n\n\n\nSep 21, 2022\n\n\nWorkshop #1 at SBMM\n\n\nSanta Barbara Maritime Museum\n\n\n\n\n\n\n\nSep 29, 2022\n\n\nWorkshop #2 at RCAA\n\n\nRedwood Community Action Agency\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html#quick-links",
-    "href": "index.html#quick-links",
-    "title": "CStories.app",
-    "section": "Quick Links",
-    "text": "Quick Links\nfor Workshop #2 at RCAA, Thursday Sep 29, 2022\n\nSlides:\nCStories_RCAA.pdf\nPoll:\npollev.com/rupertsmudge433\nVideo:\nBOEM Renewable Energy Whiteboard - YouTube\nInput Tools\n\nPortals\n\ncaoffshorewind.databasin.org\nmarinecadastre.gov/oceanreports\n\nInfographic\n\nsanctuarywatch.ioos.us/webcr-channelislands\n\n\nOutput Tools\n\nInfographic\n\nsanctuarywatch.ioos.us/webcr-channelislands\n\nWeighted Map\necoquants.shinyapps.io/nrel-uses\nTradeoff App\nshiny.marinebon.app/siting\n… and more at cstories.app/apps.html\n\nFeedback\nforms.gle/Sf1QAnAaUBPyaZZBA"
   },
   {
     "objectID": "index.html#applications",
@@ -74,7 +67,7 @@
     "href": "apps.html",
     "title": "Applications",
     "section": "",
-    "text": "Index Map\n\n\nThe Ocean Health Index uses a framework of 10 broad goals with status, pressures, trend and status. The flower plot visualizes the score of each goal as its extent, and the…\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInfographics\n\n\nVisualize the ecosystem with icons clickable to popup windows with data and details.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReporting\n\n\nSelect tags (technology, stressor, and/or receptor), draw location and generate a report.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTradeoffs\n\n\nA tradeoff plot can visualizes two objectives at once. Selecting win-win areas in the plot, such as high wind and low seabird sensitivity, highlights those places on the map.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTriage\n\n\nPrioritize issues requiring mitigation. Communicate between entities and produce a timeline with status.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeighted Map\n\n\nAssign weights to human uses, species distributions and habitats. Sum them up to determine most sensitive areas.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Here are a few existing applications from other projects that we developed with functionality from which we’ll ask for feedback based on what does and does not work for development of a new application oriented around informing and empowering community voices.\n\n\n\n\n\n\n\n\n\n\nIndex Map\n\n\nThe Ocean Health Index uses a framework of 10 broad goals with status, pressures, trend and status. The flower plot visualizes the score of each goal as its extent, and the…\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInfographics\n\n\nVisualize the ecosystem with icons clickable to popup windows with data and details.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReporting\n\n\nSelect tags (technology, stressor, and/or receptor), draw location and generate a report.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTradeoffs\n\n\nA tradeoff plot can visualizes two objectives at once. Selecting win-win areas in the plot, such as high wind and low seabird sensitivity, highlights those places on the map.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTriage\n\n\nPrioritize issues requiring mitigation. Communicate between entities and produce a timeline with status.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeighted Map\n\n\nAssign weights to human uses, species distributions and habitats. Sum them up to determine most sensitive areas.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -117,6 +110,13 @@
     "title": "About",
     "section": "Team",
     "text": "Team"
+  },
+  {
+    "objectID": "infographics.html",
+    "href": "infographics.html",
+    "title": "Infographics",
+    "section": "",
+    "text": "Here are a few existing applications from other projects that we developed with functionality from which we’ll ask for feedback based on what does and does not work for development of a new application oriented around informing and empowering community voices.\n\n\n\n\n\n\n\n\n\n\nInfographic 1\n\n\ninitial infographic\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "apps/index-map.html",
