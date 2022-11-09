@@ -1,5 +1,5 @@
 ---
-title: "Whales"
+pagetitle: "Whales"
 format:
   html:
     embed-resources: false

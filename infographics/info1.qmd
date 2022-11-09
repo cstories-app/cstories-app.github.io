@@ -4,7 +4,6 @@ image: "./info1.svg"
 description: "initial infographic"
 format:
   html:
-    include-before-body: _bs5modal.html
     include-in-header: _info_header.html
 ---
 

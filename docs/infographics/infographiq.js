@@ -18,7 +18,14 @@ var svg_elements = ["circle", "ellipse", "line", "mesh", "path", "polygon", "pol
 
 //globally scope the variable that defines the properties of the modal window
 //var modal_html = '<div aria-labelledby="modal-title" class="modal fade bs-example-modal-lg" id="modal" role="dialog" tabindex="-1"><div class="modal-dialog modal-lg" role="document"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button><h4 class="modal-title" id="modal-title">title</h4></div><div class="modal-body"><iframe data-src="" allow="fullscreen" height="100%" width="100%" frameborder="0"></iframe></div><div class="modal-footer"><button class="btn btn-default btn-sm" data-dismiss="modal">Close</button></div></div></div></div>'
-var modal_html = '<div class="modal-dialog fade" id="modaliq" tabindex="-1" aria-labelledby="ModalInfographiqLabel" aria-hidden="true"><div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><h5 class="modal-title" id="modaliq-title">Modal title</h5><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div><div class="modal-body"><iframe data-src="" allow="fullscreen" height="100%" width="100%" frameborder="0"></iframe></div><div class="modal-footer"><button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button></div></div></div></div>';
+//var modal_html = '<div class="modal-dialog fade" id="modaliq" tabindex="-1" aria-labelledby="ModalInfographiqLabel" aria-hidden="true"><div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><h5 class="modal-title" id="modaliq-title">Modal title</h5><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div><div class="modal-body"><iframe data-src="" allow="fullscreen" height="100%" width="100%" frameborder="0"></iframe></div><div class="modal-footer"><button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button><button type="button" class="btn btn-primary">Save changes</button></div></div></div></div>';
+
+//var modal_html;
+fetch('/infographics/_info_modal.html')
+  .then(res => res.text())
+  .then(data => {
+    var modal_html = data;
+   })
 
 function basename(path) {
      return path.replace(/.*\//, '');
@@ -349,8 +356,8 @@ function icon_append(d, h, modal_url_pfx, svg_id, hover_color, section_content, 
         
       }(jQuery));
 
-      mdl = new bootstrap.Modal(document.getElementById('modaliq'))
-      mdl.show()
+      // mdl = new bootstrap.Modal(document.getElementById('modaliq'))
+      // mdl.show()
     }
   }
 
@@ -486,18 +493,18 @@ function link_table(csvLink) {
             .attr("target", "_blank")
             .html(" Graph Methodology.");
         }
-        document.getElementById('modaliq').style.display='block';
+        //document.getElementById('modaliq').style.display='block';
       } );
 
     } );
   });
   // Get the modal
-  var modaliq = document.getElementById('modaliq');
+  // var modaliq = document.getElementById('modaliq');
 
-  // When the user clicks anywhere outside of the modal, close it
-  window.onclick = function(event) {
-      if (event.target == modaliq) {
-        modaliq.style.display = "none";
-      }
-  }
+  // // When the user clicks anywhere outside of the modal, close it
+  // window.onclick = function(event) {
+  //     if (event.target == modaliq) {
+  //       modaliq.style.display = "none";
+  //     }
+  // }
 }
