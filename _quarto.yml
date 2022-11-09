@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: docs
+  output-dir: _site
   resources:
   - "/.nojekyll"
   - "/infographics/lib/_info_header.html"
