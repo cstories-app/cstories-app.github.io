@@ -29,7 +29,8 @@ format:
       dark: [darkly, darkly.scss]
     toc: true
     comments:
-      hypothesis: true
+      hypothesis:
+        showHighlights: false
     execute:
       echo: false
       warning: false
