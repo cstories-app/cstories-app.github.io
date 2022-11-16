@@ -2,3 +2,6 @@ svg,icon,title,link,section,not_modal
 info1.svg,people-group,Community,info1_modals/_community.html,,F
 info1.svg,whale,Whales,info1_modals/_whales.html,,F
 info1.svg,wind-turbine,Wind Turbines,info1_modals/_turbines.html,,F
+cetaceans.svg,people-group,Community,cetacean_modals/_community.html,,
+cetaceans.svg,whale,Whales,cetacean_modals/_whales.html,,
+cetaceans.svg,wind-turbine,Wind Turbines,cetacean_modals/_turbines.html,,

@@ -1,0 +1,11 @@
+---
+pagetitle: "Turbines"
+---
+
+{{< video https://youtu.be/yfmkjocnbgM >}}
+
+Source: [The largest offshore wind farm in the world | 60 Minutes - CBS News](https://www.cbsnews.com/video/wind-energy-grimsby-england-60-minutes-video-2022-10-16/)
+
+
+
+

@@ -10,6 +10,8 @@ project:
   - "/infographics/icon_links.csv"
   - "/infographics/info1.svg"
   - "/infographics/info1_modals/*"
+  - "/infographics/cetaceans.svg"
+  - "/infographics/cetacean_modals/*"
 
 website:
   title: "CStories.app"

@@ -1,7 +1,7 @@
 ---
-title: "Overview Infographic"
-image: "./info1.svg"
-description: "initial infographic of community, whales and turbines"
+title: "Cetacean Interactions"
+image: "../images/infographic/cetacean-interactions.jpg"
+description: "How do whales and dolphins interact with the cables?"
 format:
   html:
     include-in-header: lib/_info_header.html
@@ -22,7 +22,7 @@ format:
 <!-- run infographiq function to link the svg with the svg_list -->
 <script>
   link_svg({
-    svg:         "./info1.svg", 
+    svg:         "./cetaceans.svg", 
     csv:         "./icon_links.csv", 
     modal_html:  "./lib/_info_modal.html",
     modal_id:    "modaliq",
@@ -30,5 +30,5 @@ format:
     toc_id:      "toc",
     toc_style:   "list",
     text_toggle: "toggle_off",
-    svg_filter:  "info1.svg"});
+    svg_filter:  "cetaceans.svg"});
 </script>
