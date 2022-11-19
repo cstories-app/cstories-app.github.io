@@ -2,6 +2,15 @@ svg,icon,title,link,section,not_modal
 info1.svg,people-group,Community,info1_modals/_community.html,,F
 info1.svg,whale,Whales,info1_modals/_whales.html,,F
 info1.svg,wind-turbine,Wind Turbines,info1_modals/_turbines.html,,F
-cetaceans.svg,people-group,Community,cetacean_modals/_community.html,,
-cetaceans.svg,whale,Whales,cetacean_modals/_whales.html,,
-cetaceans.svg,wind-turbine,Wind Turbines,cetacean_modals/_turbines.html,,
+cetaceans.svg,turbine,Wind Turbines,cetacean_modals/_turbines.html,,
+cetaceans.svg,substation,Wind Turbines,cetacean_modals/_turbines.html,,
+cetaceans.svg,cetacean-1,Whales,cetacean_modals/_whales.html,,
+cetaceans.svg,cetacean-2,Whales,cetacean_modals/_whales.html,,
+cetaceans.svg,cable-1,Whales,cetacean_modals/_whales.html,,
+cetaceans.svg,cable-2,Whales,cetacean_modals/_whales.html,,
+cetaceans.svg,cable-3,Whales,cetacean_modals/_whales.html,,
+cetaceans.svg,cable-4,Whales,cetacean_modals/_whales.html,,
+cetaceans.svg,anchor-1,Whales,cetacean_modals/_whales.html,,
+cetaceans.svg,anchor-2,Whales,cetacean_modals/_whales.html,,
+cetaceans.svg,anchor-3,Whales,cetacean_modals/_whales.html,,
+cetaceans.svg,anchor-4,Whales,cetacean_modals/_whales.html,,
