@@ -1,8 +1,5 @@
 ---
 pagetitle: "Cetacean Sounds"
-format:
-  html:
-    embed-resources: true
 ---
 
 ::: {.grid}

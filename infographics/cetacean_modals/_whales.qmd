@@ -1,8 +1,5 @@
 ---
 pagetitle: "Whales"
-format:
-  html:
-    embed-resources: true
 ---
 
 {{< video https://youtu.be/G8bKpuSNUZ0 >}}

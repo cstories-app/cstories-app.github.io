@@ -1,8 +1,5 @@
 ---
 pagetitle: "Turbine Sounds"
-format:
-  html:
-    embed-resources: true
 ---
 
 ::: {#turbine-sound-info}

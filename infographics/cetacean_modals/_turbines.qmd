@@ -1,8 +1,5 @@
 ---
 pagetitle: "Turbines"
-format:
-  html:
-    embed-resources: true
 ---
 
 ::: {#turbine-info}

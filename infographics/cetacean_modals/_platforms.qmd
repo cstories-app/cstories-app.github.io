@@ -1,8 +1,5 @@
 ---
 pagetitle: "Offshore Platforms"
-format:
-  html:
-    embed-resources: true
 ---
 
 ::: {.grid}

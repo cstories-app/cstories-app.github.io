@@ -1,8 +1,5 @@
 ---
 pagetitle: "Subsea Cables"
-format:
-  html:
-    embed-resources: true
 ---
 
 ::: {.grid}
