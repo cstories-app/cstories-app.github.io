@@ -1,6 +1,6 @@
 ---
 title: "Cetacean Interactions"
-image: "../images/infographic/cetacean-interactions.jpg"
+image: "../images/infographic/cetacean-interactions.png"
 description: "How do whales and dolphins interact with the cables?"
 format:
   html:
