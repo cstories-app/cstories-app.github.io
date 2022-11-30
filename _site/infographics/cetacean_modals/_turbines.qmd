@@ -1,10 +1,18 @@
 ---
 pagetitle: "Turbines"
+format:
+  html:
+    embed-resources: true
 ---
 
+::: {#turbine-info}
+The offshore wind turbines that will be deployed in the California Offshore Wind Energy Areas will need to be mounted on floating platforms. This is because the California Offshore Wind Energy Areas off Humboldt and Morro Bay are located in very deep water – up to 4,200 feet deep. That’s 35% more than the tallest building in the world, and more than double the height of the second tallest building in the world!
+:::
+::: {#turbine-video layout-nrow=1}
 {{< video https://youtu.be/yfmkjocnbgM >}}
 
 Source: [The largest offshore wind farm in the world | 60 Minutes - CBS News](https://www.cbsnews.com/video/wind-energy-grimsby-england-60-minutes-video-2022-10-16/)
+:::
 
 
 

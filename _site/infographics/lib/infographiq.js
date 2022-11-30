@@ -24,7 +24,7 @@ async function getText(url) {
 }
 
 function basename(path) {
-     return path.replace(/.*\//, '');
+    return path.replace(/.*\//, '');
 }
 
 // main function to link svg elements to modal popups with data in csv

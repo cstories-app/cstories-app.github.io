@@ -1,0 +1,24 @@
+---
+pagetitle: "Subsea Cables"
+format:
+  html:
+    embed-resources: true
+---
+
+::: {.grid}
+::::: {.g-col-12}
+::::::: {#cable-info}
+Subsea cables that connect individual wind turbines to a substation are likely to be suspended relatively loosely in the water column using floats. The size of these cables is large enough that they are unlikely to entangle wildlife.
+:::::::
+:::::
+::::: {.g-col-5}
+::::::: {#cross-section}
+![](../../images/infographic/cable-cross-section.jpg)
+:::::::
+:::::
+::::: {.g-col-5}
+::::::: {#balmoral}
+![](../../images/infographic/balmoral.jpg)
+:::::::
+:::::
+:::

@@ -1,0 +1,19 @@
+---
+pagetitle: "Offshore Platforms"
+format:
+  html:
+    embed-resources: true
+---
+
+::: {.grid}
+::::: {.g-col-12}
+::::::: {#platform-info}
+A floating offshore wind platform is a concrete, steel, or hybrid-material structure on which a wind turbine is installed. The floating platform provides the turbine with buoyancy and stability – essentially to keep it above water and in its correct operational orientation. Because a floating offshore wind platform itself is not attached to the seabed, it requires moorings and anchors to distribute its mass and keep it in place.
+:::::::
+:::::
+::::: {.g-col-12}
+::::::: {#platform-types}
+![](../../images/infographic/platform-types.jpg)
+:::::::
+:::::
+:::

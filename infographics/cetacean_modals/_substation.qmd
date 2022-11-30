@@ -1,0 +1,8 @@
+---
+pagetitle: "Offshore Substation"
+format:
+  html:
+    embed-resources: true
+---
+
+No content here yet. Check back soon.

@@ -2,16 +2,17 @@ project:
   type: website
   output-dir: _site
   resources:
-  - "/.nojekyll"
-  - "/infographics/lib/_info_header.html"
-  - "/infographics/lib/_info_modal.html"
-  - "/infographics/lib/infographiq.css"
-  - "/infographics/lib/infographiq.js"
-  - "/infographics/icon_links.csv"
-  - "/infographics/info1.svg"
-  - "/infographics/info1_modals/*"
-  - "/infographics/cetaceans.svg"
-  - "/infographics/cetacean_modals/*"
+    - "/.nojekyll"
+    - "/infographics/lib/_info_header.html"
+    - "/infographics/lib/_info_modal.html"
+    - "/infographics/lib/infographiq.css"
+    - "/infographics/lib/infographiq.js"
+    - "/infographics/icon_links.csv"
+    - "/infographics/info1.svg"
+    - "/infographics/info1_modals/*"
+    - "/infographics/cetaceans.svg"
+    - "/infographics/cetacean_modals/*"
+    - "/images/infographic/*"
 
 website:
   title: "CStories.app"
@@ -38,4 +39,3 @@ format:
       warning: false
 
 editor: source
-
