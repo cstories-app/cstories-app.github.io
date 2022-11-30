@@ -1,11 +1,10 @@
 ---
 pagetitle: "Whales"
+format:
+  html:
+    embed-resources: true
 ---
 
 {{< video https://youtu.be/G8bKpuSNUZ0 >}}
 
 Source: [Exploring Encounters between Humpback and Floating Wind Farms | PNNL](https://www.pnnl.gov/news-media/exploring-encounters-between-humpback-and-floating-wind-farms)
-
-
-
-

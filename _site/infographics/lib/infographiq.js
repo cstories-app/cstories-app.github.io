@@ -24,7 +24,7 @@ async function getText(url) {
 }
 
 function basename(path) {
-     return path.replace(/.*\//, '');
+    return path.replace(/.*\//, '');
 }
 
 // main function to link svg elements to modal popups with data in csv
@@ -359,8 +359,12 @@ function icon_append(d, h, modal_url_pfx, svg_id, hover_color, section_content, 
 
   function handleMouseOver(){
     // determine x and y position of svg
-    var svg_position = document.getElementById(svg_id).getBoundingClientRect();
-    var y_offset = -28;
+    // var svg_position = document.getElementById(svg_id).getBoundingClientRect();
+    // var y_offset = -28;
+
+    // Hard code tooltip offset
+    var y_offset = -20;
+    var x_offset = 20;
 
     d3.selectAll("#" + svg_id).selectAll("#" + d.icon).style("opacity", "0");
     d3.selectAll("#" + svg_id).selectAll("#" + d.icon + "_highlight").style("opacity", "100");
@@ -369,8 +373,13 @@ function icon_append(d, h, modal_url_pfx, svg_id, hover_color, section_content, 
         .duration(200)
         .style("opacity", 1.0);
       tooltip_div.html(d.title + "<br/>")
-        .style("left", (d3.event.pageX - svg_position.x) + "px")
-        .style("top", (d3.event.pageY - svg_position.y + y_offset) + "px");
+        // Original method
+        // .style("left", (d3.event.pageX - svg_position.x) + "px")
+        // .style("top", (d3.event.pageY - svg_position.y + y_offset) + "px");
+        // Set tooltip text to top right of event
+        .style("left", (d3.event.pageX + x_offset) + "px")
+        .style("top", (d3.event.pageY + y_offset) + "px")
+        .style("text-shadow", "-1px -1px 0px #fff, 0px -1px 0px #fff, 1px -1px 0px #fff,-1px  0px 0px #fff, 1px  0px 0px #fff,-1px  1px 0px #fff,0px  1px 0px #fff,1px  1px 0px #fff"); // 1px white border around tooltip text for contrast
     }
   }
 
