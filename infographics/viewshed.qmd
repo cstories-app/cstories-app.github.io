@@ -14,7 +14,7 @@ librarian::shelf(
   dplyr, glue, here, leaflet, readr)
 
 d <- read_csv(
-  here("infographics/viewshed_locations.csv"),
+  here("infographics/data/viewshed_locations.csv"),
   show_col_types = F)
 
 d %>% 

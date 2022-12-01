@@ -1,0 +1,18 @@
+---
+pagetitle: "Cetacean Sounds"
+---
+
+::: {.grid}
+::::: {.g-col-12}
+::::::: {#cetacean-sound-info}
+Whales and dolphins make sound and listen to sounds to communicate with each other, for navigation, for protection, to find food, and to understand their environment. Unnatural sounds, therefore, could have detrimental effects on marine mammals, including masking natural sounds that animals rely on, to changes in behavior or other physiological effects.
+
+To learn more, visit the [Discovery of Sound in the Sea](https://dosits.org/) webpage, including its [audio gallery](https://dosits.org/galleries/audio-gallery/).
+:::::::
+:::::
+::::: {.g-col-12}
+::::::: {#cetacean-sound-img}
+![](../../../images/infographic/cetacean_sounds.png)
+:::::::
+:::::
+:::

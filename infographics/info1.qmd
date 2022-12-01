@@ -1,6 +1,6 @@
 ---
 title: "Overview Infographic"
-image: "./info1.svg"
+image: "./svg/info1.svg"
 description: "initial infographic of community, whales and turbines"
 format:
   html:
@@ -22,8 +22,8 @@ format:
 <!-- run infographiq function to link the svg with the svg_list -->
 <script>
   link_svg({
-    svg:         "./info1.svg", 
-    csv:         "./icon_links.csv", 
+    svg:         "./svg/info1.svg", 
+    csv:         "./svg/_links.csv", 
     modal_html:  "./lib/_info_modal.html",
     modal_id:    "modaliq",
     svg_id:      "svg", 
