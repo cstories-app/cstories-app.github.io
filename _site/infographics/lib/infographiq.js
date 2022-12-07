@@ -300,7 +300,7 @@ function element_highlight_add(icon_id, svg_id, hover_color){
     for (q = 0; q < 9; q++){
       console.log(p_prime.id);
       d3.selectAll("#" + svg_id).selectAll("#" + p_prime.id) //.selectAll(svg_elements[q])
-        .style("stroke-width", 4)
+        .style("stroke-width", 2)
         .style("stroke", hover_color);
     }
 
