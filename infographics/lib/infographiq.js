@@ -298,8 +298,9 @@ function element_highlight_add(icon_id, svg_id, hover_color){
     p.parentNode.insertBefore(p_prime, p.parentNode.childNodes[0]);
 
     for (q = 0; q < 9; q++){
-      d3.selectAll("#" + svg_id).selectAll("#" + p_prime.id)  // .selectAll(svg_elements[q])
-        .style("stroke-width", 2)
+      console.log(p_prime.id);
+      d3.selectAll("#" + svg_id).selectAll("#" + p_prime.id) //.selectAll(svg_elements[q])
+        .style("stroke-width", 4)
         .style("stroke", hover_color);
     }
 
@@ -350,6 +351,14 @@ function icon_append(d, h, modal_url_pfx, svg_id, hover_color, section_content, 
           $('.modal-content').css('height',$( window ).height()*0.9);
           $('.modal-body').css('height','calc(100% - 65px - 55.33px)');
         });
+
+        // Clear modal content on window close
+        $('#' + modal_id).on('hidden.bs.modal', function () {
+          $('#' + modal_id).find('iframe')
+            .prop('src', '');
+          $('#' + modal_id + '-title').html( null );
+        });
+
       }(jQuery));
 
       mdl = new bootstrap.Modal(document.getElementById(modal_id))

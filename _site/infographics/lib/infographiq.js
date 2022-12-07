@@ -298,12 +298,13 @@ function element_highlight_add(icon_id, svg_id, hover_color){
     p.parentNode.insertBefore(p_prime, p.parentNode.childNodes[0]);
 
     for (q = 0; q < 9; q++){
-      d3.selectAll("#" + svg_id).selectAll("#" + p_prime.id).selectAll(svg_elements[q])
-        .style("stroke-width", 2)
+      console.log(p_prime.id);
+      d3.selectAll("#" + svg_id).selectAll("#" + p_prime.id) //.selectAll(svg_elements[q])
+        .style("stroke-width", 4)
         .style("stroke", hover_color);
     }
 
-    d3.selectAll("#" + svg_id).selectAll("#" + p_prime.id).style("opacity", "0");
+    d3.selectAll("#" + svg_id).selectAll("#" + p_prime.id).style("opacity", 0);
   }
   catch {}
 }
@@ -350,6 +351,14 @@ function icon_append(d, h, modal_url_pfx, svg_id, hover_color, section_content, 
           $('.modal-content').css('height',$( window ).height()*0.9);
           $('.modal-body').css('height','calc(100% - 65px - 55.33px)');
         });
+
+        // Clear modal content on window close
+        $('#' + modal_id).on('hidden.bs.modal', function () {
+          $('#' + modal_id).find('iframe')
+            .prop('src', '');
+          $('#' + modal_id + '-title').html( null );
+        });
+
       }(jQuery));
 
       mdl = new bootstrap.Modal(document.getElementById(modal_id))
@@ -366,12 +375,12 @@ function icon_append(d, h, modal_url_pfx, svg_id, hover_color, section_content, 
     var y_offset = -20;
     var x_offset = 20;
 
-    d3.selectAll("#" + svg_id).selectAll("#" + d.icon).style("opacity", "0");
-    d3.selectAll("#" + svg_id).selectAll("#" + d.icon + "_highlight").style("opacity", "100");
+    d3.selectAll("#" + svg_id).selectAll("#" + d.icon).style("opacity", 0);
+    d3.selectAll("#" + svg_id).selectAll("#" + d.icon + "_highlight").style("opacity", 1);
     if (tooltip_internal == true){
       tooltip_div.transition()
         .duration(200)
-        .style("opacity", 1.0);
+        .style("opacity", 1);
       tooltip_div.html(d.title + "<br/>")
         // Original method
         // .style("left", (d3.event.pageX - svg_position.x) + "px")
@@ -384,15 +393,15 @@ function icon_append(d, h, modal_url_pfx, svg_id, hover_color, section_content, 
   }
 
   function handleMouseOverSansTooltip(){
-    d3.selectAll("#" + svg_id).selectAll("#" + d.icon).style("opacity", "0");
-    d3.selectAll("#" + svg_id).selectAll("#" + d.icon + "_highlight").style("opacity", "100");
+    d3.selectAll("#" + svg_id).selectAll("#" + d.icon).style("opacity", 0);
+    d3.selectAll("#" + svg_id).selectAll("#" + d.icon + "_highlight").style("opacity", 1);
 
   }
 
   function handleMouseOut(){
 
     d3.selectAll("#" + svg_id).selectAll("#" + d.icon).style("opacity", "100");
-    d3.selectAll("#" + svg_id).selectAll("#" + d.icon + "_highlight").style("opacity", "0");
+    d3.selectAll("#" + svg_id).selectAll("#" + d.icon + "_highlight").style("opacity", 0);
     if (tooltip_internal == true){
       tooltip_div.transition()
         .duration(500);
