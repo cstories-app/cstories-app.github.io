@@ -38,7 +38,7 @@ rss %>% filter(str_detect(url, "energy"))
 rss %>% filter(str_detect(url, "offshore"))
 rss %>% filter(str_detect(url, "environment"))
 rss %>% filter(str_detect(url, "ocean"))
-
+rss %>% filter(str_detect(url, "santa"))
 
 
 
@@ -68,5 +68,3 @@ results <- wind_energy$url %>%
     }) %>%
   bind_rows()
 
-
-results %>% View()
