@@ -132,9 +132,10 @@ function addChatEntry(input, product) {
   messagesContainer.appendChild(botDiv);
 
   setTimeout(() => {
-    botText.innerText = `${product}`;
+    // remove opening double line breaks
+    botText.innerText = `${product.replace('"\\n\\n', '"')}`;
     // try to replace newlines with HTML breaks
-    //botText.textContent = `${product.replace(/\\n/g, '<br>')}`;
+    //botText.textContent = `${product.trim().replace(/\\n/g, '<br>')}`;
   }, 2000);
 }
 
