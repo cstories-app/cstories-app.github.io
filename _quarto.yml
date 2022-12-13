@@ -5,6 +5,7 @@ project:
     - "/.nojekyll"
     - "/infographics/lib/*"
     - "/infographics/svg/*"
+    - "/chat/*"
 
 website:
   title: "CStories.app"

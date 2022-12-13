@@ -196,6 +196,13 @@
     "text": "Team"
   },
   {
+    "objectID": "news/offshore_wind_news.html",
+    "href": "news/offshore_wind_news.html",
+    "title": "Offshore Wind News",
+    "section": "",
+    "text": "Offshore wind farms may harm seabirds, but scientists see potential for net positive impact\nBy Science X staff, Phys.Org, Nov 17, 2022\nThe development of offshore wind energy is expanding globally, with the potential to be an important source of clean renewable energy. Yet offshore wind farms pose significant risks to seabirds and other marine wildlife.\n\n\nFirst West Coast Offshore Wind Auction Tests Appetite for Floating Farms\nBy Reuters, gcaptain.com, Dec 06, 2022\nBy Nichola Groom Dec 6 (Reuters) – The United States on Tuesday kicked off the first sale of offshore wind development rights for waters off the coast of California, expanding the nascent domestic industry…"
+  },
+  {
     "objectID": "infographics.html",
     "href": "infographics.html",
     "title": "Infographics",
@@ -243,5 +250,12 @@
     "title": "Triage",
     "section": "",
     "text": "Live app: https://ecoquants.shinyapps.io/snh-report"
+  },
+  {
+    "objectID": "chat/index.html",
+    "href": "chat/index.html",
+    "title": "Marine Energy Answer Bot",
+    "section": "",
+    "text": "::: {#container .container}\n\n\n\n\n\n\n\n::"
   }
 ]
