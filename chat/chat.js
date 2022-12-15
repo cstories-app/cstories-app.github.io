@@ -10,7 +10,7 @@ inputField.addEventListener("keydown", function(e) {
 
 function output(input){
   // construct API request URL
-  let url = 'http://164.92.110.38:8000/answer?question=' + encodeURIComponent(input);
+  let url = 'https://api.cstories.app/answer?question=' + encodeURIComponent(input);
   // fetch the API response
   //   per https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data
   // decided against axios because trouble getting required() to work without npm:
