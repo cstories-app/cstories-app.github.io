@@ -12,6 +12,11 @@ format:
 <!-- 
 OLD: https://jina.ai/docsQA-ui looks cool but for specific backend
 
+OTHER:
+https://codepen.io/debashisbarman/pen/gXYmPr
+nice expand box option and big icons
+
+NEW:
 7. ChatBox UI of https://www.webtopic.com/html-css-chat-box-designs 
 https://codepen.io/shivapandey/pen/dWdRYM
 -->
