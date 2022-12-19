@@ -23,6 +23,20 @@ listing:
     type: grid
     field-display-names:
       title: "App"
+  - id: list-news
+    contents:
+    - "news-qmds/*.qmd"
+    type: table
+    sort-ui: false
+    filter-ui: false
+    field-types:
+      published_at: date
+    fields: [title, published_at, source, image]
+    field-display-names:
+      published_at: "Published"
+    sort: 
+      - "published_at desc"
+      - "title"
     # categories: true
 ---
 
@@ -40,6 +54,13 @@ This Phase 1 project is active June 2022 to March 2023. We will conduct a series
 Here are a few existing applications from other projects that we developed with functionality from which we'll ask for feedback based on what does and does not work for development of a new application oriented around informing and empowering community voices.
 
 ::: {#list-apps}
+:::
+
+## News
+
+Recent news about offshore wind.
+
+::: {#list-news}
 :::
 
 ## Contact
