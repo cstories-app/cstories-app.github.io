@@ -6,6 +6,7 @@ project:
     - "/infographics/lib/*"
     - "/infographics/svg/*"
     - "/chat/*"
+    - "/news-qmds/*"
 
 website:
   title: "CStories.app"
@@ -15,6 +16,7 @@ website:
       - apps.qmd
       - infographics.qmd
       - workshops.qmd
+      - news.qmd
     right:
       - about.qmd
   search:
