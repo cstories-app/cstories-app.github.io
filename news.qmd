@@ -1,0 +1,23 @@
+---
+title: "News"
+listing:
+  - id: list-news
+    contents:
+      - "news-qmds/*.qmd"
+    type: table
+    sort-ui: false
+    filter-ui: false
+    field-types:
+      published_at: date
+    fields: [source, author, title, description, url, url_to_image, published_at, content]
+    #field-required: [num, title, date]
+    date-format: "medium"
+    sort: "published_at"
+    field-display-names:
+      published_at: "Published on"
+---
+
+Recent Offshore Wind News
+
+::: {#list-news}
+:::
