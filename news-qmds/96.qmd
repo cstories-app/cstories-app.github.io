@@ -1,0 +1,13 @@
+---
+source: "KPBS"
+author: "(unknown author)"
+title: "Biden signs Respect for Marriage Act"
+description: "The new law is intended to protect same-sex and interracial marriages if the U.S. Supreme Court reverses Obergefell v. Hodges, the 2015 decision legalizing gay marriage nationwide. Then, California’s Reparations Task Force has reached a pivotal point in its g…"
+url: "https://www.kpbs.org/podcasts/kpbs-midday-edition/biden-signs-respect-for-marriage-act"
+image: "https://cdn.kpbs.org/dims4/default/3eae7ca/2147483647/strip/true/crop/600x315+0+143/resize/1200x630!/quality/90/?url=http%3A%2F%2Fkpbs-brightspot.s3.amazonaws.com%2Fimg%2Fpodcasts%2F2019%2Fpodcast_600-MiddayEdition.jpg"
+published_at: "2022-12-14"
+content: "S1: The Respect for Marriage Act becomes law. Today.
+S2: It's a day of joy and a day of relief for our community.
+S1: I'm M.G. Peres with Jade Heineman. Maureen CAVANAUGH is off this week. This is … [+36764 chars]"
+---
+

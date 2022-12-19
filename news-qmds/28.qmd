@@ -1,0 +1,11 @@
+---
+source: "CNN"
+author: "Ella Nilsen"
+title: "Five companies will pay the feds $750 million for the opportunity to build huge floating wind turbines off the West Coast"
+description: "The Biden administration's first-ever offshore wind energy lease sale for federal waters off the West Coast generated more than $750 million, as energy companies competed for five areas that could eventually be home to massive floating wind turbines."
+url: "https://www.cnn.com/2022/12/07/politics/west-coast-wind-energy-auction-climate/index.html"
+image: "https://media.cnn.com/api/v1/images/stellar/prod/221207163836-01-block-island-wind-farm-file.jpg?c=16x9&q=w_800,c_fill"
+published_at: "2022-12-07"
+content: "The Biden administrations first-ever offshore wind energy lease sale for federal waters off the West Coast generated more than $750 million, as energy companies competed for five areas that could eve… [+2688 chars]"
+---
+

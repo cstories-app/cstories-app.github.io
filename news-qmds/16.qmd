@@ -1,0 +1,12 @@
+---
+source: "NBC News"
+author: "Associated Press"
+title: "Sale jumpstarts floating, offshore wind power in U.S. waters"
+description: "Tuesday marks the first-ever U.S. auction of leases to develop commercial-scale floating wind farms, in the deep waters off the West Coast."
+url: "https://www.nbcnews.com/science/environment/sale-jumpstarts-floating-offshore-wind-power-us-waters-rcna60230"
+image: "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-12/221205-block-island-rhode-island-coast-wind-farm-turbines-ac-437p-a3c3bb.jpg"
+published_at: "2022-12-05"
+content: "PORTLAND, Ore. Tuesday marks the first-ever U.S. auction of leases to develop commercial-scale floating wind farms, in the deep waters off the West Coast.
+The live, online auction for the five lease… [+7020 chars]"
+---
+

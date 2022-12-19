@@ -1,0 +1,11 @@
+---
+source: "EURACTIV"
+author: "Paul Messad"
+title: "France, Ireland confirm Celtic Interconnector will be up-and-running in 2027"
+description: "France and Ireland reached a further key step in setting up the Celtic Interconnector, an underwater electricity cable linking the Irish grid to the continent by 2027, Ireland's Environment Minister Eamon Ryan announced in Paris last week."
+url: "https://www.euractiv.com/section/electricity/news/france-ireland-confirm-celtic-interconnector-will-be-up-and-running-in-2027/"
+image: "https://www.euractiv.com/wp-content/uploads/sites/2/2022/11/IMG_9370-800x450.jpg"
+published_at: "2022-11-28"
+content: "France and Ireland reached a further key step in setting up the Celtic Interconnector, an underwater electricity cable linking the Irish grid to the continent by 2027, Ireland’s Environment Minister … [+4681 chars]"
+---
+

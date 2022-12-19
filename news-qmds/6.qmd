@@ -1,0 +1,12 @@
+---
+source: "gcaptain.com"
+author: "Reuters"
+title: "First West Coast Offshore Wind Auction Tests Appetite for Floating Farms"
+description: "By Nichola Groom Dec 6 (Reuters) – The United States on Tuesday kicked off the first sale of offshore wind development rights for waters off the coast of California, expanding the nascent domestic industry..."
+url: "https://gcaptain.com/first-west-coast-offshore-wind-auction-tests-appetite-for-floating-farms/"
+image: "https://gcaptain.com/wp-content/uploads/2021/05/morro-bay.jpg"
+published_at: "2022-12-06"
+content: "By Nichola Groom
+Dec 6 (Reuters) – The United States on Tuesday kicked off the first sale of offshore wind development rights for waters off the coast of California, expanding the nascent domestic i… [+1892 chars]"
+---
+

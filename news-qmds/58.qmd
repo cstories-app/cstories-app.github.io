@@ -1,0 +1,14 @@
+---
+source: "OilPrice.com"
+author: "Tsvetana Paraskova"
+title: "The U.S. Is Holding Its First West Coast Offshore Wind Auction"
+description: "The U.S. is holding on Tuesday the first offshore wind auction on the West Coast by offering development rights in waters off California as part of the Biden Administration’s push for jumpstarting offshore wind generation in the United States.    The Bureau o…"
+url: "https://oilprice.com/Alternative-Energy/Wind-Power/The-US-Is-Holding-Its-First-West-Coast-Offshore-Wind-Auction.html"
+image: "https://d32r1sh890xpii.cloudfront.net/article/718x300/2022-12-06_um85xzvg3v.jpg"
+published_at: "2022-12-06"
+content: "The Chinese city of Chaozhou…
+The high cost of wind…
+Wind energy is supposed to…
+By Tsvetana Paraskova - Dec 06, 2022, 10:00 AM CSTThe U.S. is holding on Tuesday the first offshore wind auction on… [+2109 chars]"
+---
+
