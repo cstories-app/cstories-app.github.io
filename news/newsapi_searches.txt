@@ -1,2 +1,0 @@
-"Humboldt" AND ("offshore wind" )
-"Morro Bay" AND ("offshore wind" )
