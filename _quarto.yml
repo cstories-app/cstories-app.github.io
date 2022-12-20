@@ -6,7 +6,7 @@ project:
     - "/infographics/lib/*"
     - "/infographics/svg/*"
     - "/chat/*"
-    - "/news-qmds/*"
+    - "/news/*"
 
 website:
   title: "CStories.app"
