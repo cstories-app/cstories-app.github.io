@@ -37,6 +37,7 @@ listing:
     sort: 
       - "published_at desc"
       - "title"
+    max-items: 3
     # categories: true
 ---
 
