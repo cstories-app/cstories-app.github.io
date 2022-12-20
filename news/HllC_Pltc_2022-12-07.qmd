@@ -1,0 +1,14 @@
+---
+source: "Politico"
+author: "By Jeremy B. White, Lara Korte, Sakura Cannestra and Owen Tucker-Smith"
+title: "Holla, holla: California bills, y'all"
+description: "(no description)"
+url: "https://www.politico.com/newsletters/california-playbook/2022/12/07/holla-holla-bills-yall-00072697"
+image: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+published_at: "2022-12-07"
+content: "THE BUZZ:With the election finally behind us, now the policymaking begins and lawmakers have plenty of ideas.
+Barely 24 hours into the new legislative session, dozens of bills have emerged. Many dea… [+12627 chars]"
+search_date: "2022-12-20"
+terms: "'Humboldt' AND ('offshore wind' ) | 'Morro Bay' AND ('offshore wind' )"
+---
+

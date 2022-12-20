@@ -1,0 +1,14 @@
+---
+source: "Juancole.com"
+author: "The Conversation"
+title: "First US Leases to Build Wind Farms off California’s Coast are Let: The Amazing Technology"
+description: "By Matthew Lackner, UMass Amherst | - (The Conversation) - Northern California has some of the strongest offshore winds in the U.S., with immense potential to produce clean energy. But it also has a problem. Its continental shelf drops off quickly, making bui…"
+url: "https://www.juancole.com/2022/12/floating-companies-californias.html"
+image: "https://media.juancole.com/images/2022/12/pinwheel-5622693_960_720-750x500-1.jpg"
+published_at: "2022-12-09"
+content: "By Matthew Lackner, UMass Amherst | – 
+(The Conversation) – Northern California has some of the strongest offshore winds in the U.S., with immense potential to produce clean energy. But it also has … [+5995 chars]"
+search_date: "2022-12-20"
+terms: "'Morro Bay' AND ('offshore wind' )"
+---
+

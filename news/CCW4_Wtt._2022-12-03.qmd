@@ -1,0 +1,17 @@
+---
+source: "Wattsupwiththat.com"
+author: "Guest Blogger"
+title: "Climate Change Weekly #454: Economic Realities Dash Biden’s Offshore Wind Plans"
+description: "President Joe Biden’s plans for a offshore industrial wind facilities lining the nation’s coasts have more than a few hurdles to clear before they can become reality."
+url: "https://wattsupwiththat.com/2022/12/02/climate-change-weekly-454-economic-realities-dash-bidens-offshore-wind-plans/"
+image: "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2022/12/image-5.webp?fit=600%2C300&ssl=1"
+published_at: "2022-12-03"
+content: "From Heartland Daily News
+H. Sterling Burnett
+YOU SHOULD SUBSCRIBE TO CLIMATE CHANGE WEEKLY.
+IN THIS ISSUE:
+<ul><li>Economic Realities Dash Bidens Offshore Wind Plans</li><li>Podcast of the Week:… [+15688 chars]"
+search_date: "2022-12-20"
+terms: "'Cost of electricity' AND ('offshore wind' )"
+---
+

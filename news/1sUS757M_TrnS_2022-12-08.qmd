@@ -1,0 +1,13 @@
+---
+source: "Toronto Star"
+author: "Gillian Flaccus - The Associated Press"
+title: "1st US floating offshore wind auction nets $757M in bids"
+description: "PORTLAND, Ore. (AP) — The first-ever U.S. auction of leases to develop commercial-scale floating wind farms in the deep waters off the West Coast attr..."
+url: "https://www.thestar.com/news/world/us/2022/12/07/1st-us-floating-offshore-wind-auction-nets-757m-off-calif.html"
+image: "https://images.thestar.com/job3u4wN5-LdvWDf8FfpX50Lifg=/1280x1024/smart/filters:cb(1670461758709):format(webp)/https://www.thestar.com/content/dam/thestar/news/world/us/2022/12/07/1st-us-floating-offshore-wind-auction-nets-757m-in-bids/20221205181212-638e7ad2821cf083b8299d5cjpeg.jpg"
+published_at: "2022-12-08"
+content: "PORTLAND, Ore. (AP) The first-ever U.S. auction of leases to develop commercial-scale floating wind farms in the deep waters off the West Coast attracted $757 million in winning bids Wednesday from m… [+3923 chars]"
+search_date: "2022-12-20"
+terms: "'Morro Bay' AND ('offshore wind' )"
+---
+

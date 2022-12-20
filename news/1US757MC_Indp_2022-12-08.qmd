@@ -1,0 +1,15 @@
+---
+source: "Independent"
+author: "Gillian Flaccus"
+title: "1st US floating offshore wind auction nets $757M off Calif"
+description: "The first-ever U.S. auction of leases to develop commercial-scale floating wind farms in the deep waters off the West Coast raised $757 million in bids, from mostly European companies"
+url: "https://www.independent.co.uk/news/ap-california-east-coast-joe-biden-pacific-ocean-b2241086.html"
+image: "https://static.independent.co.uk/2022/12/08/00/Offshore_Wind_Auction_58877.jpg?quality=75&width=1200&auto=webp"
+published_at: "2022-12-08"
+content: "For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails
+Sign up to our free breaking news emails
+The first-ever U.S. auction of leases to develop com… [+3644 chars]"
+search_date: "2022-12-20"
+terms: "'Morro Bay' AND ('offshore wind' )"
+---
+

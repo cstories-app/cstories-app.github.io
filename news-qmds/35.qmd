@@ -1,14 +1,0 @@
----
-source: "Forbes"
-author: "Liz Allen, Contributor, 
- Liz Allen, Contributor
- https://www.forbes.com/sites/allenelizabeth/"
-title: "Let The Bidding Begin: 43 Companies to Compete For Five California Offshore Wind Leases"
-description: "On Tuesday, the U.S. federal government will issue the West Coast's first commercial offshore wind leases - a key milestone towards achieving the Biden Administration's offshore wind goals. However, challenges on the East Coast indicate a long timeline from l…"
-url: "https://www.forbes.com/sites/allenelizabeth/2022/12/05/let-the-bidding-begin-43-companies-to-compete-for-five-california-offshore-wind-leases/"
-image: "https://imageio.forbes.com/specials-images/imageserve/638d397ce768861d57ce91a3/0x0.jpg?format=jpg&width=1200"
-published_at: "2022-12-05"
-content: "Wind turbines at the London Array offshore wind park near England, United Kingdom. Unlike this ... [+] offshore wind facility, California's offshore wind will need to use turbines that float.
-getty… [+11044 chars]"
----
-

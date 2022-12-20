@@ -1,0 +1,13 @@
+---
+source: "The Irish Times"
+author: "Martin Wolf"
+title: "The market can deliver the green transition — just not fast enough"
+description: "The move to renewables could present a political opportunity for leaders"
+url: "https://www.irishtimes.com/business/economy/2022/11/23/the-market-can-deliver-the-green-transition-just-not-fast-enough/"
+image: "https://www.irishtimes.com/resizer/Ms3_AXCXajrVJvqqLAjPvDA6C_o=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/KOTIOH5FLBCY7NIDKF5HO7IBUA"
+published_at: "2022-11-23"
+content: "Whatever else may be wrong with economics, its starting point is correct: people do indeed respond to incentives. Suppose renewables provided the dominant technologies for energy supply; suppose, in … [+5634 chars]"
+search_date: "2022-12-20"
+terms: "'Cost of electricity' AND ('offshore wind' )"
+---
+
