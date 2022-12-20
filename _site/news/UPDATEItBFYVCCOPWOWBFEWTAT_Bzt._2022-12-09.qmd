@@ -1,0 +1,14 @@
+---
+source: "Biztoc.com"
+author: "lostcoastoutpost.com"
+title: "(UPDATE) ‘It’s Beyond Frustrating’: Yurok Vice-Chair Calls Out Provisional Winners of Offshore Wind Bid for Failing to Engage With the Tribe Ahead of This…"
+description: "UPDATE 2:50 p.m.: One of the winning bidders, RWE Offshore Wind Holdings, LLC, sent the following response to the Outpost’s request for additional comment: “RWE is committed to thoughtfully engaging Tribes and tribal fisheries at all stages of project develop…"
+url: "https://biztoc.com/x/4b4092ff986c8388"
+image: "https://c.biztoc.com/75/og.png"
+published_at: "2022-12-09"
+content: "UPDATE 2:50 p.m.: One of the winning bidders, RWE Offshore Wind Holdings, LLC, sent the following response to the Outposts request for additional comment:
+RWE is committed to thoughtfully engaging T… [+1007 chars]"
+search_date: "2022-12-20"
+terms: "'Humboldt' AND ('offshore wind' )"
+---
+

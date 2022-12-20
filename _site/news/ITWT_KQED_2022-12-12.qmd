@@ -1,0 +1,14 @@
+---
+source: "KQED"
+author: "KQED News Staff"
+title: "Indigenous Tribes Want Their Voices Heard As Offshore Wind Projects Advance Off The Central Coast"
+description: "Central Coast Indigenous Leaders Concerned About Offshore Wind Projects The Bureau of Ocean Energy Management just sold five leases for wind turbine projects off the coast of California. Three are located in Morro Bay off the Central Coast. Now, local indi…"
+url: "https://www.kqed.org/news/11934976/indigenous-tribes-want-their-voices-heard-as-offshore-wind-projects-advance-off-the-central-coast"
+image: "https://ww2.kqed.org/app/uploads/sites/10/2022/12/GettyImages-1407548978-1020x719.jpg"
+published_at: "2022-12-12"
+content: "Central Coast Indigenous Leaders Concerned About Offshore Wind Projects 
+The Bureau of Ocean Energy Management  just sold five leases for wind turbine projects off the coast of California. Three are… [+530 chars]"
+search_date: "2022-12-20"
+terms: "'Morro Bay' AND ('offshore wind' )"
+---
+

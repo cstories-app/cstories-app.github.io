@@ -1,0 +1,14 @@
+---
+source: "Yahoo Entertainment"
+author: "GILLIAN FLACCUS"
+title: "Sale jumpstarts floating, offshore wind power in US waters"
+description: "Tuesday marks the first-ever U.S. auction of leases to develop commercial-scale floating wind farms, in the deep waters off the West Coast. The live, online..."
+url: "https://news.yahoo.com/sale-jumpstarts-floating-offshore-wind-160732400.html"
+image: "https://s.yimg.com/ny/api/res/1.2/4Yugfprf17_kYAP9LVKAXw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/ce01fe0c199e19b7b34b4b5756aa26d1"
+published_at: "2022-12-05"
+content: "PORTLAND, Ore. (AP) Tuesday marks the first-ever U.S. auction of leases to develop commercial-scale floating wind farms, in the deep waters off the West Coast.
+The live, online auction for the five … [+7285 chars]"
+search_date: "2022-12-20"
+terms: "'Humboldt' AND ('offshore wind' )"
+---
+

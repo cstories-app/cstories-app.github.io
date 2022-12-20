@@ -1,0 +1,13 @@
+---
+source: "gcaptain.com"
+author: "Editorial"
+title: "How Do Floating Wind Turbines Work?"
+description: "Matthew Lackne– (The Conversation)–Northern California has some of the strongest offshore winds in the U.S., with immense potential to produce clean energy. But it also has a problem. Its continental shelf..."
+url: "https://gcaptain.com/how-do-floating-wind-turbines-work/"
+image: "https://gcaptain.com/wp-content/uploads/2016/02/shutterstock_124325440.jpg"
+published_at: "2022-12-11"
+content: "Matthew Lackne– (The Conversation)–Northern California has some of the strongest offshore winds in the U.S., with immense potential to produce clean energy. But it also has a problem. Its continental… [+6089 chars]"
+search_date: "2022-12-20"
+terms: "'Morro Bay' AND ('offshore wind' )"
+---
+

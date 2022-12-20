@@ -1,0 +1,14 @@
+---
+source: "Toronto Star"
+author: "Gillian Flaccus - The Associated Press"
+title: "Sale jumpstarts floating, offshore wind power in US waters"
+description: "PORTLAND, Ore. (AP) — Tuesday marks the first-ever U.S. auction of leases to develop commercial-scale floating wind farms, in the deep waters off the ..."
+url: "https://www.thestar.com/news/world/us/2022/12/05/sale-jumpstarts-floating-offshore-wind-power-in-us-waters.html"
+image: "https://images.thestar.com/JUbjlb3pQX5hZ_iObpJw65_iJZc=/1280x1024/smart/filters:cb(1670256857510):format(webp)/https://www.thestar.com/content/dam/thestar/news/world/us/2022/12/05/sale-jumpstarts-floating-offshore-wind-power-in-us-waters/2022120511128-638e178fcd26a5d1c967f828jpeg.jpg"
+published_at: "2022-12-05"
+content: "PORTLAND, Ore. (AP) Tuesday marks the first-ever U.S. auction of leases to develop commercial-scale floating wind farms, in the deep waters off the West Coast.
+The live, online auction for the five … [+7605 chars]"
+search_date: "2022-12-20"
+terms: "'Humboldt' AND ('offshore wind' )"
+---
+

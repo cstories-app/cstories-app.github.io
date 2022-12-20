@@ -1,0 +1,14 @@
+---
+source: "GreenBiz"
+author: "(unknown author)"
+title: "Joint climate and biodiversity solutions need to be part of the conversation"
+description: "Sponsored: As the global community meets at COP15 a few weeks after COP27, we have the opportunity to address the climate and biodiversity crises together."
+url: "https://www.greenbiz.com/article/joint-climate-and-biodiversity-solutions-need-be-part-conversation"
+image: "https://www.greenbiz.com/sites/default/files/styles/og_image_1200x630/public/2022-12/19_Sorne%20Wind%20Farm_Donegal_Ireland_COD2006-1200px.jpg?itok=C9EliJtF"
+published_at: "2022-12-08"
+content: "This article is sponsored by Ørsted.
+The 15th Conference of the Parties to the United Nations Convention on Biological Diversity (CBD), or COP15, kicked off this week in Montreal, following hot on t… [+7068 chars]"
+search_date: "2022-12-20"
+terms: "'Seascape' AND ('offshore wind' )"
+---
+
