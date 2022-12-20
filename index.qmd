@@ -25,7 +25,7 @@ listing:
       title: "App"
   - id: list-news
     contents:
-    - "news-qmds/*.qmd"
+    - "news/*.qmd"
     type: table
     sort-ui: false
     filter-ui: false
