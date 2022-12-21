@@ -74,7 +74,7 @@ news <- news %>%
 # news_table %>%
 #   rows_upsert(news, by = c("url", "published_at"))
 news %>%
-  write_rds("news/data/news_table.rds")
+  write_rds("news_code/data/news_table.rds")
 
 
 
