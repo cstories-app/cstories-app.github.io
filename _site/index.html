@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.269">
+<meta name="generator" content="quarto-1.2.280">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -118,6 +118,35 @@ ul.task-list li input[type="checkbox"] {
       window['quarto-listing-loaded']();
     }
   })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-list-news .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-published_at','listing-source','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-title-sort'] }],
+      page: 30,
+    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
+      searchColumns: ["listing-title","listing-author"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-list-news'] = new List('listing-list-news', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
   </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-9Z3CG75J46"></script>
 
@@ -167,6 +196,10 @@ gtag('config', 'G-9Z3CG75J46', { 'anonymize_ip': true});
     <a class="nav-link" href="./workshops.html">
  <span class="menu-text">Workshops</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./news.html">
+ <span class="menu-text">News</span></a>
+  </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
@@ -193,6 +226,7 @@ gtag('config', 'G-9Z3CG75J46', { 'anonymize_ip': true});
   <ul>
   <li><a href="#workshops" id="toc-workshops" class="nav-link active" data-scroll-target="#workshops">Workshops</a></li>
   <li><a href="#applications" id="toc-applications" class="nav-link" data-scroll-target="#applications">Applications</a></li>
+  <li><a href="#news" id="toc-news" class="nav-link" data-scroll-target="#news">News</a></li>
   <li><a href="#contact" id="toc-contact" class="nav-link" data-scroll-target="#contact">Contact</a></li>
   </ul>
 </nav>
@@ -266,7 +300,7 @@ No matching items
 <p>Here are a few existing applications from other projects that we developed with functionality from which we’ll ask for feedback based on what does and does not work for development of a new application oriented around informing and empowering community voices.</p>
 <div id="listing-list-apps" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1663802956754" data-listing-reading-time-sort="0.05">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1668031021895" data-listing-reading-time-sort="0.05">
 <a href="./apps/index-map.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -288,7 +322,7 @@ The Ocean Health Index uses a framework of 10 broad goals with status, pressures
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1663802974345" data-listing-reading-time-sort="0.05">
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1668031021895" data-listing-reading-time-sort="0.05">
 <a href="./apps/infographics.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -310,7 +344,7 @@ Visualize the ecosystem with icons clickable to popup windows with data and deta
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1663802978664" data-listing-reading-time-sort="0.05">
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1668031021895" data-listing-reading-time-sort="0.05">
 <a href="./apps/reporting.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -332,7 +366,7 @@ Select tags (technology, stressor, and/or receptor), draw location and generate 
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1663802984716" data-listing-reading-time-sort="0.05">
+<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1668031021895" data-listing-reading-time-sort="0.05">
 <a href="./apps/tradeoffs.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -354,7 +388,7 @@ A tradeoff plot can visualizes two objectives at once. Selecting win-win areas i
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1663791297613" data-listing-reading-time-sort="0.05">
+<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1668031021895" data-listing-reading-time-sort="0.05">
 <a href="./apps/triage.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -376,7 +410,7 @@ Prioritize issues requiring mitigation. Communicate between entities and produce
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1663791314335" data-listing-reading-time-sort="0.05">
+<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1668031021895" data-listing-reading-time-sort="0.05">
 <a href="./apps/weighted-map.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -402,6 +436,81 @@ Assign weights to human uses, species distributions and habitats. Sum them up to
 <div class="listing-no-matching d-none">
 No matching items
 </div>
+</div>
+</section>
+<section id="news" class="level2">
+<h2 class="anchored" data-anchor-id="news">News</h2>
+<p>Recent news about offshore wind.</p>
+<div id="listing-list-news" class="quarto-listing quarto-listing-container-table">
+
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+<th>
+Title
+</th>
+<th>
+Published
+</th>
+<th>
+source
+</th>
+<th>
+</th>
+</tr>
+</thead>
+<tbody class="list">
+<tr data-index="0" data-listing-published_at-sort="2022-12-20" data-listing-title-sort="Statkraft Ireland set to begin work on 56MW Midlands wind farm" data-listing-filename-sort="SI56_GlbN_2022-12-20.qmd">
+<td class="listing-title">
+<a href="./news/SI56_GlbN_2022-12-20.html" class="title">Statkraft Ireland set to begin work on 56MW Midlands wind farm</a>
+</td>
+<td class="listing-published_at">
+Dec 20, 2022
+</td>
+<td class="listing-source">
+GlobeNewswire
+</td>
+<td class="listing-image">
+<img src="https://ml-eu.globenewswire.com/Resource/Download/83e51edf-56e2-4b17-a5f7-7127fce40649?size=1" style="height: 40px;">
+</td>
+</tr>
+<tr data-index="1" data-listing-published_at-sort="2022-12-17" data-listing-title-sort="California Just Approved a Sweeping Climate Change Plan. Here Are 6 Ways That Could Affect You" data-listing-filename-sort="CJAS_KQED_2022-12-17.qmd">
+<td class="listing-title">
+<a href="./news/CJAS_KQED_2022-12-17.html" class="title">California Just Approved a Sweeping Climate Change Plan. Here Are 6 Ways That Could Affect You</a>
+</td>
+<td class="listing-published_at">
+Dec 17, 2022
+</td>
+<td class="listing-source">
+KQED
+</td>
+<td class="listing-image">
+<img src="https://ww2.kqed.org/app/uploads/sites/10/2022/12/GettyImages-812546100-1020x770.jpg" style="height: 40px;">
+</td>
+</tr>
+<tr data-index="2" data-listing-published_at-sort="2022-12-15" data-listing-title-sort="California offshore wind: What’s next following the $757 million auction" data-listing-filename-sort="CW75_Rnw._2022-12-15.qmd">
+<td class="listing-title">
+<a href="./news/CW75_Rnw._2022-12-15.html" class="title">California offshore wind: What’s next following the $757 million auction</a>
+</td>
+<td class="listing-published_at">
+Dec 15, 2022
+</td>
+<td class="listing-source">
+Renewableenergyworld.com
+</td>
+<td class="listing-image">
+<img src="https://images.renewableenergyworld.com/wp-content/uploads/2022/12/floating-offshore-wind.jpg" style="height: 40px;">
+</td>
+</tr>
+</tbody>
+
+</table>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+<nav id="list-news-pagination" class="listing-pagination" aria-label="Page Navigation">
+  <ul class="pagination"></ul>
+</nav>
 </div>
 </section>
 <section id="contact" class="level2">
