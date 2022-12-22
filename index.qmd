@@ -59,7 +59,7 @@ Here are a few existing applications from other projects that we developed with 
 
 ## News
 
-Recent news about offshore wind.
+Recent news about offshore wind. ([View all news](https://cstories.app/news.html))
 
 ::: {#list-news}
 :::
