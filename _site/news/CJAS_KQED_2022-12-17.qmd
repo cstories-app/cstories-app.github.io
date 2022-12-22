@@ -7,7 +7,19 @@ url: "https://www.kqed.org/news/11935585/california-just-approved-a-sweeping-cli
 image: "https://ww2.kqed.org/app/uploads/sites/10/2022/12/GettyImages-812546100-1020x770.jpg"
 published_at: "2022-12-17"
 content: "The air board in September unveiled a proposal that would require new big rigs and other trucks to be zero emissions within the next 18 years. Under the proposed rule (PDF), manufacturers wouldn’t be… [+4664 chars]"
-search_date: "2022-12-20"
-terms: "'Humboldt' AND ('offshore wind' ) | 'Morro Bay' AND ('offshore wind' )"
+search_date: "2022-12-21"
+terms: "Humboldt | Morro Bay"
 ---
 
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}})
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

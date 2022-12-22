@@ -8,7 +8,19 @@ image: "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_
 published_at: "2022-12-05"
 content: "PORTLAND, Ore. Tuesday marks the first-ever U.S. auction of leases to develop commercial-scale floating wind farms, in the deep waters off the West Coast.
 The live, online auction for the five lease… [+7020 chars]"
-search_date: "2022-12-20"
-terms: "'Humboldt' AND ('offshore wind' )"
+search_date: "2022-12-21"
+terms: "Humboldt"
 ---
 
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}})
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

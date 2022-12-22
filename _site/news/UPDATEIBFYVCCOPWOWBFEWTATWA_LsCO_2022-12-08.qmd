@@ -8,7 +8,19 @@ image: "https://lostcoastoutpost.com/loco-media/cache/3b/ab/3bab144bbefcc585e6a0
 published_at: "2022-12-08"
 content: "UPDATE 2:50 p.m.: One of the winning bidders, RWE Offshore Wind Holdings, LLC, sent the following response to the Outpost’s request for additional comment:
  RWE is committed to thoughtfully engaging… [+4536 chars]"
-search_date: "2022-12-20"
-terms: "'Humboldt' AND ('offshore wind' ) | 'Morro Bay' AND ('offshore wind' )"
+search_date: "2022-12-21"
+terms: "Humboldt | Morro Bay"
 ---
 
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}})
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

@@ -7,7 +7,19 @@ url: "https://slashdot.org/firehose.pl?op=view&amp;id=168763848"
 image: "NA"
 published_at: "2022-12-09"
 content: "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
-search_date: "2022-12-20"
-terms: "'Morro Bay' AND ('offshore wind' )"
+search_date: "2022-12-21"
+terms: "Morro Bay"
 ---
 
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}})
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

@@ -7,7 +7,19 @@ url: "https://www.usatoday.com/story/news/2022/12/07/first-ever-pacific-offshore
 image: "https://s.yimg.com/ny/api/res/1.2/wAsOXmoC8Dq0dCHxeBDOqg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04ODk-/https://media.zenfs.com/en/usa_today_news_641/416caaac27b7aff3ec20b47ef84c6feb"
 published_at: "2022-12-07"
 content: "The first-ever federal auction of floating offshore wind power sites off the Pacific coast ended Wednesday with bids totaling $757 million. When fully developed, the sites could power 1.5 million hom… [+7032 chars]"
-search_date: "2022-12-20"
-terms: "'Morro Bay' AND ('offshore wind' ) | 'Cost of electricity' AND ('offshore wind' )"
+search_date: "2022-12-21"
+terms: "Morro Bay | Cost of electricity"
 ---
 
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}})
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

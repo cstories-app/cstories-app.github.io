@@ -8,7 +8,19 @@ image: "https://ml-eu.globenewswire.com/Resource/Download/83e51edf-56e2-4b17-a5f
 published_at: "2022-12-20"
 content: "Statkraft Ireland has confirmed that construction will begin at Cushaling Wind Farm in counties Offaly and Kildare in January 2023.
 The nine-turbine development, which will deliver 55.8MW of urgentl… [+3913 chars]"
-search_date: "2022-12-20"
-terms: "'Cost of electricity' AND ('offshore wind' )"
+search_date: "2022-12-21"
+terms: "Cost of electricity"
 ---
 
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}})
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

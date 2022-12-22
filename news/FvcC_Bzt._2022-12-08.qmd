@@ -8,7 +8,19 @@ image: "https://c.biztoc.com/p/6bb47ec848c0d23d/og.webp"
 published_at: "2022-12-08"
 content: "By Ella Nilsen | CNN
 The Biden administrations first-ever offshore wind energy lease sale for federal waters off the West Coast generated more than $750 million, as energy companies competed for fiv… [+1023 chars]"
-search_date: "2022-12-20"
-terms: "'Humboldt' AND ('offshore wind' ) | 'Morro Bay' AND ('offshore wind' )"
+search_date: "2022-12-21"
+terms: "Humboldt | Morro Bay"
 ---
 
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}})
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

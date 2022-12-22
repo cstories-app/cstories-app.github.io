@@ -8,7 +8,19 @@ image: "https://gcaptain.com/wp-content/uploads/2018/03/shutterstock_130551395.j
 published_at: "2022-12-07"
 content: "The first offshore wind lease auction on the U.S. West Coast has ended with high bids totaling $757.1 million, the U.S. Bureau of Ocean Energy Management (BOEM) announced Wednesday. 
 The lease sale,… [+3494 chars]"
-search_date: "2022-12-20"
-terms: "'Humboldt' AND ('offshore wind' ) | 'Morro Bay' AND ('offshore wind' )"
+search_date: "2022-12-21"
+terms: "Humboldt | Morro Bay"
 ---
 
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}})
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

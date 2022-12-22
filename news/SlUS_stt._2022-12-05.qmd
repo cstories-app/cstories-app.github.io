@@ -7,7 +7,19 @@ url: "https://www.seattlepi.com/news/article/Sale-jumpstarts-floating-offshore-w
 image: "https://s.hdnux.com/img/modules/siteheader/brand.png"
 published_at: "2022-12-05"
 content: "FILE - The five turbines of America's first offshore wind farm, owned by the Danish company, Orsted, stand off the coast of Block Island, R.I., in this, Oct. 17, 2022. The wind farm allowed residents… [+8093 chars]"
-search_date: "2022-12-20"
-terms: "'Humboldt' AND ('offshore wind' )"
+search_date: "2022-12-21"
+terms: "Humboldt"
 ---
 
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}})
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

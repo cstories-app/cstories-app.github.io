@@ -9,7 +9,19 @@ published_at: "2022-12-05"
 content: "For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails
 Sign up to our free breaking news emails
 Tuesday marks the first-ever U.S. auction of leases … [+7417 chars]"
-search_date: "2022-12-20"
-terms: "'Humboldt' AND ('offshore wind' )"
+search_date: "2022-12-21"
+terms: "Humboldt"
 ---
 
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}})
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

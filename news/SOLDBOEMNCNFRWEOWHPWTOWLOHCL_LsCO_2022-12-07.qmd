@@ -10,7 +10,19 @@ content: "A 9.5-megawatt floating wind turbine deployed at the Kincardine Offsho
 ###
 We have our winners!
 The … [+14744 chars]"
-search_date: "2022-12-20"
-terms: "'Humboldt' AND ('offshore wind' ) | 'Morro Bay' AND ('offshore wind' )"
+search_date: "2022-12-21"
+terms: "Humboldt | Morro Bay"
 ---
 
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}})
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

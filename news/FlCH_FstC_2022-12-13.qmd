@@ -7,7 +7,19 @@ url: "https://www.fastcompany.com/90822871/floating-wind-farms-california-coast-
 image: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/12/p-1-90822871-wind-turbines-how-do-they-work.jpg"
 published_at: "2022-12-13"
 content: "Northern California has some of the strongest offshore winds in the U.S., with immense potential to produce clean energy. But it also has a problem. Its continental shelf drops off quickly, making bu… [+5900 chars]"
-search_date: "2022-12-20"
-terms: "'Morro Bay' AND ('offshore wind' )"
+search_date: "2022-12-21"
+terms: "Morro Bay"
 ---
 
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}})
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

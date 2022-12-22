@@ -9,7 +9,19 @@ published_at: "2022-12-14"
 content: "S1: The Respect for Marriage Act becomes law. Today.
 S2: It's a day of joy and a day of relief for our community.
 S1: I'm M.G. Peres with Jade Heineman. Maureen CAVANAUGH is off this week. This is … [+36764 chars]"
-search_date: "2022-12-20"
-terms: "'Morro Bay' AND ('offshore wind' ) | 'Seabirds' AND ('offshore wind' )"
+search_date: "2022-12-21"
+terms: "Morro Bay | Seabirds"
 ---
 
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}})
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

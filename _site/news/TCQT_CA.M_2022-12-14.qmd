@@ -9,7 +9,19 @@ published_at: "2022-12-14"
 content: "Wednesday 14 December 2022 10:55 am
 It’s the City A.M. Christmas quiz!
 It’s the Christmas Quiz you’ve been waiting for! Each year City A.M. publishes Deloitte’s economics team’s festive brainteaser… [+10289 chars]"
-search_date: "2022-12-20"
-terms: "'Cost of electricity' AND ('offshore wind' )"
+search_date: "2022-12-21"
+terms: "Cost of electricity"
 ---
 
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}})
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

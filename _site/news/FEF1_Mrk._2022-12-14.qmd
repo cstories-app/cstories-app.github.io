@@ -12,7 +12,19 @@ Washington, D.C. 20549
 FORM 10-K
 <table><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>x
 </td><td>ANNUAL REPORT PURSUANT … [+616368 chars]"
-search_date: "2022-12-20"
-terms: "'Cost of electricity' AND ('offshore wind' )"
+search_date: "2022-12-21"
+terms: "Cost of electricity"
 ---
 
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}})
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

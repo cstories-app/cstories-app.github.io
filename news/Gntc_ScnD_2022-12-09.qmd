@@ -7,7 +7,19 @@ url: "https://www.sciencedaily.com/releases/2022/12/221209135552.htm"
 image: "https://www.sciencedaily.com/images/scidaily-icon.png"
 published_at: "2022-12-09"
 content: "In the vast oceans, one would assume their inhabitants can travel far and wide and, as a result, populations of a species would mix freely. But this doesn't appear to be the case for a vital forage f… [+5783 chars]"
-search_date: "2022-12-20"
-terms: "'Seabirds' AND ('offshore wind' )"
+search_date: "2022-12-21"
+terms: "Seabirds"
 ---
 
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}})
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

@@ -8,7 +8,19 @@ image: "https://images.renewableenergyworld.com/wp-content/uploads/2022/12/float
 published_at: "2022-12-15"
 content: "Contributed by Jason Hill, Samuel Brown, Garrett Kral and Carter Chandler Clements
 On December 7, 2022, the U.S. Department of the Interiors (DOI) Bureau of Ocean Energy Management (BOEM) announced … [+5807 chars]"
-search_date: "2022-12-20"
-terms: "'Humboldt' AND ('offshore wind' ) | 'Morro Bay' AND ('offshore wind' )"
+search_date: "2022-12-21"
+terms: "Humboldt | Morro Bay"
 ---
 
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}})
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

@@ -7,7 +7,19 @@ url: "https://cleantechnica.com/?p=282779"
 image: "https://cleantechnica.com/files/2022/12/Equinor-floating-wind.png"
 published_at: "2022-12-09"
 content: "The Bureau of Ocean Energy Management conducted the first ever sale of leases for offshore wind along the west coast of the United States recently. Equinor secured a 2 gigawatt lease in the Morro Bay… [+3160 chars]"
-search_date: "2022-12-20"
-terms: "'Morro Bay' AND ('offshore wind' )"
+search_date: "2022-12-21"
+terms: "Morro Bay"
 ---
 
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}})
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

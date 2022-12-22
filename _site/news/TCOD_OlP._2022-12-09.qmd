@@ -10,7 +10,19 @@ content: "Russia is selling its ESPO…
 Oil prices have given up…
 Rice University scientists have invented…
 By Editorial Dept - Dec 09, 2022, 8:00 AM CST1. Price of Drilling Continues to Edge Higher Despite C… [+7146 chars]"
-search_date: "2022-12-20"
-terms: "'Humboldt' AND ('offshore wind' ) | 'Morro Bay' AND ('offshore wind' )"
+search_date: "2022-12-21"
+terms: "Humboldt | Morro Bay"
 ---
 
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}})
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

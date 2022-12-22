@@ -7,7 +7,19 @@ url: "https://www.techtimes.com/articles/284597/20221208/first-ever-us-auction-f
 image: "https://1734811051.rsc.cdn77.org/data/images/full/416653/floating-windfarm-inaugurated-off-the-coast-of-aberdeen.jpg"
 published_at: "2022-12-08"
 content: "The winning bids for the first-ever US lease auction to build industrial-scale floating wind farms off the West Coast totaled $757 million on Wednesday, coming from largely European businesses, accor… [+2745 chars]"
-search_date: "2022-12-20"
-terms: "'Morro Bay' AND ('offshore wind' )"
+search_date: "2022-12-21"
+terms: "Morro Bay"
 ---
 
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}})
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

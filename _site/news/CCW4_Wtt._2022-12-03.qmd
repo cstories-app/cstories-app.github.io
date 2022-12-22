@@ -11,7 +11,19 @@ H. Sterling Burnett
 YOU SHOULD SUBSCRIBE TO CLIMATE CHANGE WEEKLY.
 IN THIS ISSUE:
 <ul><li>Economic Realities Dash Bidens Offshore Wind Plans</li><li>Podcast of the Week:… [+15688 chars]"
-search_date: "2022-12-20"
-terms: "'Cost of electricity' AND ('offshore wind' )"
+search_date: "2022-12-21"
+terms: "Cost of electricity"
 ---
 
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}})
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

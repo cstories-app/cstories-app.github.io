@@ -8,7 +8,19 @@ image: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1301243910/i
 published_at: "2022-12-12"
 content: "inakiantonana
 NextEra Energy (NYSE:NEE) is the largest wind and solar energy producer in the world. The company currently has 63 GW in energy-generating assets and is the owner of Florida Power &amp… [+5498 chars]"
-search_date: "2022-12-20"
-terms: "'Cost of electricity' AND ('offshore wind' )"
+search_date: "2022-12-21"
+terms: "Cost of electricity"
 ---
 
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}})
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

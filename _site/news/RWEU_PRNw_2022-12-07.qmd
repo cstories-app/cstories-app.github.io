@@ -7,7 +7,19 @@ url: "https://www.prnewswire.com/news-releases/rwe-strengthens-us-offshore-wind-
 image: "https://mma.prnewswire.com/media/1963951/RWE_Success_in_the_California_Lease_Auction_Infographic.jpg?p=facebook"
 published_at: "2022-12-07"
 content: "<ul><li>Winning bid secures area with a capacity to develop up to 1.6 gigawatts of floating offshore wind</li><li>Second success in the U.S. offshore wind market lands RWE first commercial-scale floa… [+9403 chars]"
-search_date: "2022-12-20"
-terms: "'Humboldt' AND ('offshore wind' )"
+search_date: "2022-12-21"
+terms: "Humboldt"
 ---
 
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}})
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

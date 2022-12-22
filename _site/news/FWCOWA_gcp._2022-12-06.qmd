@@ -8,7 +8,19 @@ image: "https://gcaptain.com/wp-content/uploads/2021/05/morro-bay.jpg"
 published_at: "2022-12-06"
 content: "By Nichola Groom
 Dec 6 (Reuters) – The United States on Tuesday kicked off the first sale of offshore wind development rights for waters off the coast of California, expanding the nascent domestic i… [+1892 chars]"
-search_date: "2022-12-20"
-terms: "'Humboldt' AND ('offshore wind' )"
+search_date: "2022-12-21"
+terms: "Humboldt"
 ---
 
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}})
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

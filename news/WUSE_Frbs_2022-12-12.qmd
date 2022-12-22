@@ -9,7 +9,19 @@ url: "https://www.forbes.com/sites/judeclemente/2022/12/11/why-us-electricity-is
 image: "https://imageio.forbes.com/specials-images/imageserve/6393286f7dbee91a9a65ce93/0x0.jpg?format=jpg&width=1200"
 published_at: "2022-12-12"
 content: "WASHINGTON, DC - OCTOBER 31: U.S. President Joe Biden delivers remarks on oil company profits in the ... [+] Roosevelt Room of the White House on October 31, 2022 in Washington, DC. Biden is calling … [+9512 chars]"
-search_date: "2022-12-20"
-terms: "'Cost of electricity' AND ('offshore wind' )"
+search_date: "2022-12-21"
+terms: "Cost of electricity"
 ---
 
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}})
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

@@ -7,7 +7,19 @@ url: "https://www.irishtimes.com/business/economy/2022/11/23/the-market-can-deli
 image: "https://www.irishtimes.com/resizer/Ms3_AXCXajrVJvqqLAjPvDA6C_o=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/KOTIOH5FLBCY7NIDKF5HO7IBUA"
 published_at: "2022-11-23"
 content: "Whatever else may be wrong with economics, its starting point is correct: people do indeed respond to incentives. Suppose renewables provided the dominant technologies for energy supply; suppose, in … [+5634 chars]"
-search_date: "2022-12-20"
-terms: "'Cost of electricity' AND ('offshore wind' )"
+search_date: "2022-12-21"
+terms: "Cost of electricity"
 ---
 
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}})
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

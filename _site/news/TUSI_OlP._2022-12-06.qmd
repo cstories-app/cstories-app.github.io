@@ -10,7 +10,19 @@ content: "The Chinese city of Chaozhou…
 The high cost of wind…
 Wind energy is supposed to…
 By Tsvetana Paraskova - Dec 06, 2022, 10:00 AM CSTThe U.S. is holding on Tuesday the first offshore wind auction on… [+2109 chars]"
-search_date: "2022-12-20"
-terms: "'Humboldt' AND ('offshore wind' ) | 'Morro Bay' AND ('offshore wind' )"
+search_date: "2022-12-21"
+terms: "Humboldt | Morro Bay"
 ---
 
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}})
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

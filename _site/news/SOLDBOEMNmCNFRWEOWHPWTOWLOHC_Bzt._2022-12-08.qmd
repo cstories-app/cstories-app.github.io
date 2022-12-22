@@ -9,7 +9,19 @@ published_at: "2022-12-08"
 content: "We have our winners!
 The Bureau of Ocean Energy Management (BOEM) just announced the provisional winners of the first-ever offshore wind energy lease auction on the West Coast.
 California North Flo… [+1032 chars]"
-search_date: "2022-12-20"
-terms: "'Humboldt' AND ('offshore wind' ) | 'Morro Bay' AND ('offshore wind' )"
+search_date: "2022-12-21"
+terms: "Humboldt | Morro Bay"
 ---
 
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}})
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

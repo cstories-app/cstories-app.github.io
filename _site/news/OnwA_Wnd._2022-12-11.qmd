@@ -8,7 +8,19 @@ image: "https://www.wnd.com/wp-content/uploads/2021/03/stars-night-sky-glowing-b
 published_at: "2022-12-11"
 content: "By John MurawskiReal Clear Wire
 Wedged in the southern flank of Virginia, Charlotte County is home to some 11,500 people who live amidst rolling hills and family farms, pastures and sawmills, a hist… [+18439 chars]"
-search_date: "2022-12-20"
-terms: "'Viewshed' AND ('offshore wind' )"
+search_date: "2022-12-21"
+terms: "Viewshed"
 ---
 
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}})
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

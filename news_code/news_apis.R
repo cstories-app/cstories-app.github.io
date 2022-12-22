@@ -81,9 +81,6 @@ news <- raw_news %>%
   distinct() %>%
   mutate(terms = str_replace_all(terms, "\"", "\'"))
 
-
-#news %>% filter(source == "Marketscreener.com")
-
 existing_news <- read_rds("news_code/data/news_table.rds")
 
 
@@ -95,13 +92,15 @@ news %>%
   write_rds("news_code/data/news_table.rds")
 
 
-
-
+# Create QMDs -------------------------------------------------------------
 
 
 
 news %>%
+  anti_join(existing_news, by = "news_id") %>%
   deselect(sort_value, sort_by) %>%
+  mutate(terms = str_remove_all(terms, " AND \\('offshore wind' \\)") %>%
+           str_remove_all("'")) %>%
   pivot_longer(-news_id) %>%
   mutate(value = paste0("\"", value, "\"")) %>%
   unite(col = yaml, name, value, sep = ": ") %>%
@@ -109,10 +108,19 @@ news %>%
   group_by(news_id) %>%
   summarize(yaml = paste(yaml, collapse = "\n")) %>%
   mutate(yaml = paste0("---\n", yaml, "\n---\n")) %>%
+  mutate(full_qmd = paste0(yaml, "\n
+Published: {{< meta published_at >}}\
+\n
+Source: {{< meta source >}}\
+\n
+[Read full article]({{< meta url >}})\
+\n
+
+![](`r rmarkdown::metadata$image[1]`)")) %>%
   rowwise() %>%
   pwalk(function(...) {
     x <- tibble(...)
     #yaml <- x %>% pull(yaml)
     #fileid <- x %>% pull(news_id)
-    write_lines(x$yaml, file = paste0("news/", x$news_id, ".qmd"))
+    write_lines(x$full_qmd, file = paste0("news/", x$news_id, ".qmd"))
   })

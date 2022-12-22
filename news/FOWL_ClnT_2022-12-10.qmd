@@ -7,7 +7,19 @@ url: "https://cleantechnica.com/2022/12/09/floating-offshore-wind-lease-sale-lan
 image: "https://cleantechnica.com/files/2022/08/CT-image-offshore-wind-farm.jpg"
 published_at: "2022-12-10"
 content: "The first-ever auction for wind lease tracts off the West Coast concluded Wednesday, pulling down $757 million in winning bids. Government and industry officials touted the impressive bidding as evid… [+1645 chars]"
-search_date: "2022-12-20"
-terms: "'Morro Bay' AND ('offshore wind' )"
+search_date: "2022-12-21"
+terms: "Morro Bay"
 ---
 
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}})
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

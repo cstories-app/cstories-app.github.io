@@ -8,7 +8,19 @@ image: "https://www.greenbiz.com/sites/default/files/styles/og_image_1200x630/pu
 published_at: "2022-12-08"
 content: "This article is sponsored by Ørsted.
 The 15th Conference of the Parties to the United Nations Convention on Biological Diversity (CBD), or COP15, kicked off this week in Montreal, following hot on t… [+7068 chars]"
-search_date: "2022-12-20"
-terms: "'Seascape' AND ('offshore wind' )"
+search_date: "2022-12-21"
+terms: "Seascape"
 ---
 
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}})
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

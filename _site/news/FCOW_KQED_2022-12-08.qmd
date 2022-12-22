@@ -8,7 +8,19 @@ image: "https://ww2.kqed.org/app/uploads/sites/35/2022/12/GettyImages-1407548832
 published_at: "2022-12-08"
 content: "Department Secretary Deb Haaland said in a statement that the aggressive bidding is a signal of industry momentum around American offshore wind.
 “A sustainable, clean energy future is within our gra… [+2662 chars]"
-search_date: "2022-12-20"
-terms: "'Humboldt' AND ('offshore wind' ) | 'Morro Bay' AND ('offshore wind' )"
+search_date: "2022-12-21"
+terms: "Humboldt | Morro Bay"
 ---
 
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}})
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

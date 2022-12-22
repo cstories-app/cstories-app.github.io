@@ -8,7 +8,19 @@ image: "https://gcaptain.com/wp-content/uploads/2022/07/shutterstock_2179829399.
 published_at: "2022-12-07"
 content: "By Jennifer A. Dlouhy (Bloomberg) —
 Six companies are still vying for the opportunity to install floating wind turbines off the California coast after offering $402.1 million for the tracts Tuesday.… [+3586 chars]"
-search_date: "2022-12-20"
-terms: "'Morro Bay' AND ('offshore wind' )"
+search_date: "2022-12-21"
+terms: "Morro Bay"
 ---
 
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}})
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

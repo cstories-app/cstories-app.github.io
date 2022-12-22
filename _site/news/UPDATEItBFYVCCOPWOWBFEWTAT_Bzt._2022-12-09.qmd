@@ -8,7 +8,19 @@ image: "https://c.biztoc.com/75/og.png"
 published_at: "2022-12-09"
 content: "UPDATE 2:50 p.m.: One of the winning bidders, RWE Offshore Wind Holdings, LLC, sent the following response to the Outposts request for additional comment:
 RWE is committed to thoughtfully engaging T… [+1007 chars]"
-search_date: "2022-12-20"
-terms: "'Humboldt' AND ('offshore wind' )"
+search_date: "2022-12-21"
+terms: "Humboldt"
 ---
 
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}})
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

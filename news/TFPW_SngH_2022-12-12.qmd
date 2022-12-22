@@ -7,7 +7,19 @@ url: "https://singularityhub.com/2022/12/12/this-floating-pyramid-wind-turbine-w
 image: "https://singularityhub.com/wp-content/uploads/2022/12/eolink-floating-offshore-wind-turbine.jpg"
 published_at: "2022-12-12"
 content: "As the focus on a transition to renewable energy intensifies, wind farms are being touted as an optimal way to produce electricity. Wind energy is emissions-free (once the turbines are up and running… [+3880 chars]"
-search_date: "2022-12-20"
-terms: "'Seascape' AND ('offshore wind' )"
+search_date: "2022-12-21"
+terms: "Seascape"
 ---
 
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}})
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
