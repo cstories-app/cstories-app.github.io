@@ -10,9 +10,9 @@ host-gmap: "https://goo.gl/maps/zriwEEghz36YZDyv5"
 image: "../images/place/SBMM.jpg"
 ---
 
-- {{< meta workshop-time >}}, {{< meta workshop-date >}}\
-  [{{< meta workshop-host >}}]({{< meta host-url >}})\
-  [{{< meta host-address >}}]({{< meta host-gmap >}})
+- Time: {{< meta workshop-time >}}, {{< meta workshop-date >}}\
+- Host: [{{< meta workshop-host >}}]({{< meta host-url >}})\
+- Location: [{{< meta host-address >}}]({{< meta host-gmap >}})
 
 ![](`r rmarkdown::metadata$image[1]`)
 

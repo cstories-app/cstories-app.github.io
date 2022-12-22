@@ -2,15 +2,19 @@
   {
     "listing": "/workshops.html",
     "items": [
-      "/workshops/sbmm.html",
-      "/workshops/rcaa.html"
+      "/workshops/ws1-sbmm.html",
+      "/workshops/ws2-rcaa.html",
+      "/workshops/ws3-rcaa.html",
+      "/workshops/ws4-sbmm.html"
     ]
   },
   {
     "listing": "/index.html",
     "items": [
-      "/workshops/sbmm.html",
-      "/workshops/rcaa.html",
+      "/workshops/ws1-sbmm.html",
+      "/workshops/ws2-rcaa.html",
+      "/workshops/ws3-rcaa.html",
+      "/workshops/ws4-sbmm.html",
       "/apps/index-map.html",
       "/apps/infographics.html",
       "/apps/reporting.html",
