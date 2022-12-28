@@ -3,25 +3,41 @@ library(integral)
 library(tidyRSS)
 
 
-sb_rss <- read_lines("news_code/rss_feeds_santa_barbara.txt")
+# Functions ---------------------------------------------------------------
 
-feed_sb <- sb_rss %>%
-  map(function(feed) {
+scrape_rss <- function(feed) {
+  feed %>%
+    map(function(feed) {
 
-    if(str_detect(feed, "^!")) {
-      cli::cli_alert_danger("Skipping {feed}
-                            \r")
-      return(NULL)
-    }
+      if(str_detect(feed, "^!")) {
+        cli::cli_alert_danger("Skipping {feed}
+                              \r")
+        return(NULL)
+      }
 
-    cli::cli_alert_info("Reading {feed}...")
+      cli::cli_alert_info("Reading {feed}...")
 
-    return(tidyfeed(feed))
+      return(tidyfeed(feed))
 
     }) %>%
-  bind_rows()
+    bind_rows()
 
-keyt <- tidyfeed("keyt.com/feed")
+}
+
+
+# Get feeds ---------------------------------------------------------------
+
+
+sb_feeds <- read_lines("news_code/rss_feeds_santa_barbara.txt") %>%
+  scrape_rss
+
+hb_feeds <- read_lines("news_code/rss_feeds_humboldt.txt") %>%
+  scrape_rss()
+
+
+feed_sb <- scrape_rss(sb_rss)
+
+  keyt <- tidyfeed("keyt.com/feed")
 
 keyt %>% filter(str_detect(item_description, "wind"))
 
