@@ -27,7 +27,7 @@ rss <- map(letters, function(page) {
 rss <- rss %>%
   mutate(url = str_remove(url, "\\?.*$"))
 
-write_rds(rss, "news/data/feedspot_rss_directory_scrape.rds")
+write_rds(rss, "news_code/data/feedspot_rss_directory_scrape.rds")
 
 
 # Manually inspect (for now) to find relevant directory pages -------------
