@@ -1,0 +1,26 @@
+---
+source: "Kstp.com"
+author: "(unknown author)"
+title: "Sale jumpstarts floating, offshore wind power in US waters"
+description: "Tuesday marks the first-ever U.S. auction for leases to develop commercial-scale floating wind farms in the deep waters off the West Coast. The live, online auction for the five leases — three off California’s central coast and two off its northern coast — ha…"
+url: "https://kstp.com/kstp-news/business-news/sale-jumpstarts-floating-offshore-wind-power-in-us-waters/"
+image: "https://kstp.com/wp-content/uploads/apimg/2022/12/Offshore_Wind_Auction_38984.jpg"
+published_at: "2022-12-05"
+content: "PORTLAND, Ore. (AP) Tuesday marks the first-ever U.S. auction of leases to develop commercial-scale floating wind farms, in the deep waters off the West Coast.
+The live, online auction for the five … [+7438 chars]"
+search_timestamp: "2022-12-28"
+terms: "Humboldt"
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}})
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

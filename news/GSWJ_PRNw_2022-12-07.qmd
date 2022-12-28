@@ -7,7 +7,7 @@ url: "https://www.prnewswire.com/news-releases/golden-state-wind-a-joint-venture
 image: "https://mma.prnewswire.com/media/1963981/Ocean_Winds_WindFloat_Atlantic.jpg?p=facebook"
 published_at: "2022-12-07"
 content: "BOSTON and TORONTO, Dec. 7, 2022 /PRNewswire/ -- Ocean Winds (OW) and Canada Pension Plan Investment Board (CPP Investments) are pleased to announce that their newly formed offshore wind joint ventur… [+5381 chars]"
-search_date: "2022-12-21"
+search_timestamp: "2022-12-28"
 terms: "Morro Bay"
 ---
 

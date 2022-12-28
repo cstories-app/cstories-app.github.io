@@ -1,0 +1,25 @@
+---
+source: "Biztoc.com"
+author: "forbes.com"
+title: "Let The Bidding Begin: 43 Companies to Compete For Five California Offshore Wind Leases"
+description: "On Tuesday, the U.S. Bureau of Ocean Energy Management, or BOEM, will auction off five leases for the development of offshore wind energy facilities along the California Coast - the first such lease sale on the West Coast of the United States. Two of the site…"
+url: "https://biztoc.com/x/f00e31311ab1fbe1"
+image: "https://c.biztoc.com/p/f00e31311ab1fbe1/og.webp"
+published_at: "2022-12-05"
+content: "On Tuesday, the U.S. Bureau of Ocean Energy Management, or BOEM, will auction off five leases for the development of offshore wind energy facilities along the California Coast - the first such lease … [+1034 chars]"
+search_timestamp: "2022-12-28"
+terms: "Humboldt | Morro Bay"
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}})
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

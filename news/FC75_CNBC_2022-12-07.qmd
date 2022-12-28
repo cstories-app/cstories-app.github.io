@@ -7,7 +7,7 @@ url: "https://www.cnbc.com/2022/12/07/california-offshore-wind-auction-surpasses
 image: "https://image.cnbcfm.com/api/v1/image/106881812-1620821979813-gettyimages-147641412-8dc66917-36ca-4dbb-a003-26e2e848fcac.jpeg?v=1670448874&w=1920&h=1080"
 published_at: "2022-12-07"
 content: "The Biden administration on Wednesday announced more than $757 million in winning bids for its auction of offshore wind development rights in California, marking the third offshore wind lease sale th… [+2727 chars]"
-search_date: "2022-12-21"
+search_timestamp: "2022-12-28"
 terms: "Humboldt | Morro Bay"
 ---
 

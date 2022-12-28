@@ -8,7 +8,7 @@ image: "https://images.rigzone.com/images/news/articles/Equinor-Wins-Offshore-Wi
 published_at: "2022-12-12"
 content: "Norwegian energy major Equinor was one of the provisional winners of an offshore wind lease area on the Outer Continental Shelf off California.
 Five leases were offered by the Bureau of Ocean Energy… [+2916 chars]"
-search_date: "2022-12-21"
+search_timestamp: "2022-12-28"
 terms: "Morro Bay"
 ---
 

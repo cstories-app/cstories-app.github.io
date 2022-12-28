@@ -1,0 +1,25 @@
+---
+source: "seattlepi.com"
+author: "By GILLIAN FLACCUS, Associated Press"
+title: "1st US floating offshore wind auction nets $757M in bids"
+description: "PORTLAND, Ore. (AP) - The first-ever U.S. auction of leases to develop commercial-scale floating wind farms in the deep waters off the West Coast attracted $757 million in winning bids Wednesday from mostly European companies, in a project watched by other re…"
+url: "https://www.seattlepi.com/news/article/1st-US-floating-offshore-wind-auction-nets-757M-17638903.php"
+image: "https://s.hdnux.com/img/modules/siteheader/brand.png"
+published_at: "2022-12-08"
+content: "Hywind Scotland, the world's first commercial wind farm using floating wind turbines, is visible off the coast of Scotland in August 2017. Tuesday, Dec. 6, 2022, marks the first-ever U.S. auction for… [+4076 chars]"
+search_timestamp: "2022-12-28"
+terms: "Morro Bay"
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}})
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

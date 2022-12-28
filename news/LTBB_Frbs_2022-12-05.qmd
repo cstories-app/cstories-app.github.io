@@ -10,7 +10,7 @@ image: "https://imageio.forbes.com/specials-images/imageserve/638d397ce768861d57
 published_at: "2022-12-05"
 content: "Wind turbines at the London Array offshore wind park near England, United Kingdom. Unlike this ... [+] offshore wind facility, California's offshore wind will need to use turbines that float.
 getty… [+11044 chars]"
-search_date: "2022-12-21"
+search_timestamp: "2022-12-28"
 terms: "Humboldt | Morro Bay"
 ---
 

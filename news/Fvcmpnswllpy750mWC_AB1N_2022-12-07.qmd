@@ -7,7 +7,7 @@ url: "https://www.abc12.com/news/business/five-companies-will-pay-750-million-to
 image: "https://bloximages.newyork1.vip.townnews.com/abc12.com/content/tncms/assets/v3/editorial/5/cf/5cf81a47-dd18-5eed-9cab-af46fc0ff1dc/6391106a51c9d.image.jpg?crop=1701%2C893%2C0%2C162&resize=1200%2C630&order=crop%2Cresize"
 published_at: "2022-12-07"
 content: "The Biden administration's first-ever offshore wind energy lease sale for federal waters off the West Coast generated more than $750 million, as energy companies competed for five areas that could ev… [+2832 chars]"
-search_date: "2022-12-21"
+search_timestamp: "2022-12-28"
 terms: "Humboldt | Morro Bay"
 ---
 
