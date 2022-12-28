@@ -5,3 +5,4 @@ newspress.com/feed
 https://feeds.bignewsnetwork.com/category/52a5b5547c5375f6
 ! https://losangeles.cbslocal.com/tag/santa-barbara/feed/ #not a feed
 ! https://ktla.com/tag/santa-barbara-county/feed/ #bad format
+https://www.noozhawk.com/feed/
