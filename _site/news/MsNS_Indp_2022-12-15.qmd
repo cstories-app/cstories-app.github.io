@@ -9,7 +9,7 @@ published_at: "2022-12-15"
 content: "Sign up to the Independent Climate email for the latest advice on saving the planet
 Get our free Climate email
 The Conservative governments renewed support for oil and gas extraction in the North S… [+3671 chars]"
-search_date: "2022-12-21"
+search_timestamp: "2022-12-28"
 terms: "Cost of electricity"
 ---
 

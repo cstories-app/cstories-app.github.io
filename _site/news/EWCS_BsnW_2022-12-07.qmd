@@ -8,7 +8,7 @@ image: "https://mms.businesswire.com/media/20221207005886/en/1658654/23/Equinor_
 published_at: "2022-12-07"
 content: "SAN FRANCISCO--(BUSINESS WIRE)--As provisional winner of a lease area on the Outer Continental Shelf off California, Equinor continues to lead the way in growing the US offshore wind industry.
 Five … [+3534 chars]"
-search_date: "2022-12-21"
+search_timestamp: "2022-12-28"
 terms: "Morro Bay"
 ---
 

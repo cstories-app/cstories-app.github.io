@@ -8,7 +8,7 @@ image: "https://gdb.voanews.com/03370000-0aff-0242-6f6a-08dad722cdae_w1200_r1.jp
 published_at: "2022-12-06"
 content: "portland, oregon  Tuesday marks the first-ever U.S. auction of leases to develop commercial-scale floating wind farms in the deep waters off the West Coast.
 The live, online auction for the five lea… [+4667 chars]"
-search_date: "2022-12-21"
+search_timestamp: "2022-12-28"
 terms: "Humboldt"
 ---
 

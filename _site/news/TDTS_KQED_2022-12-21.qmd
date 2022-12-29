@@ -8,7 +8,7 @@ image: "https://ww2.kqed.org/app/uploads/sites/10/2022/12/GettyImages-1450945093
 published_at: "2022-12-21"
 content: "Earthquake Devastates Humboldt County Communities
 Two people are dead as a result of Tuesday's 6.4 magnitude earthquake that hit  Humboldt County. At least a dozen were injured. Reporter: Erik Neuma… [+649 chars]"
-search_date: "2022-12-21"
+search_timestamp: "2022-12-28"
 terms: "Humboldt"
 ---
 

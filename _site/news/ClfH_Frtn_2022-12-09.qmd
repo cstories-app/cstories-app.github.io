@@ -7,7 +7,7 @@ url: "https://fortune.com/2022/12/09/how-do-offshore-wind-turbines-work-californ
 image: "https://content.fortune.com/wp-content/uploads/2022/12/GettyImages-522066448.jpg?resize=1200,600"
 published_at: "2022-12-09"
 content: "Northern California has some of the strongest offshore winds in the U.S., with immense potential to produce clean energy. But it also has a problem. Its continental shelf drops off quickly, making bu… [+5633 chars]"
-search_date: "2022-12-21"
+search_timestamp: "2022-12-28"
 terms: "Morro Bay"
 ---
 

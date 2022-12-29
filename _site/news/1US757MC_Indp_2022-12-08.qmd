@@ -9,7 +9,7 @@ published_at: "2022-12-08"
 content: "For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails
 Sign up to our free breaking news emails
 The first-ever U.S. auction of leases to develop com… [+3644 chars]"
-search_date: "2022-12-21"
+search_timestamp: "2022-12-28"
 terms: "Morro Bay"
 ---
 

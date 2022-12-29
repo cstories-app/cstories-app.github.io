@@ -8,7 +8,7 @@ image: "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content
 published_at: "2022-12-05"
 content: "By GILLIAN FLACCUS - Associated Press
 PORTLAND, Ore. (AP) Tuesday marks the first-ever U.S. auction of leases to develop commercial-scale floating wind farms, in the deep waters off the West Coast.… [+7507 chars]"
-search_date: "2022-12-21"
+search_timestamp: "2022-12-28"
 terms: "Humboldt"
 ---
 

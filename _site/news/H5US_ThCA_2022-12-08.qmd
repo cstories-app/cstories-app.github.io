@@ -7,7 +7,7 @@ url: "https://theconversation.com/how-do-floating-wind-turbines-work-5-companies
 image: "https://images.theconversation.com/files/499362/original/file-20221206-20-vbvfj2.jpg?ixlib=rb-1.1.0&rect=27%2C218%2C4504%2C2252&q=45&auto=format&w=1356&h=668&fit=crop"
 published_at: "2022-12-08"
 content: "Northern California has some of the strongest offshore winds in the U.S., with immense potential to produce clean energy. But it also has a problem. Its continental shelf drops off quickly, making bu… [+6255 chars]"
-search_date: "2022-12-21"
+search_timestamp: "2022-12-28"
 terms: "Morro Bay"
 ---
 
