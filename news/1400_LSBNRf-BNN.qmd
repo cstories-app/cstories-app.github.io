@@ -1,0 +1,19 @@
+---
+title: "140,000 Chevrolet Bolt EVs recalled by GM due to fire risk"
+source: "Latest Santa Barbara News RSS feed – Big News Network"
+published_at: "2022-12-26"
+url: "https://www.bignewsnetwork.com/news/273271673/140000-chevrolet-bolt-evs-recalled-by-gm-due-to-fire-risk?utm_source=feeds.bignewsnetwork.com&utm_medium=referral"
+description: "DETROIT, Michigan: General Motors has announced a recall of 140,000 Chevrolet Bolt electric vehicles in North America due to carpets that could catch fire after a crash.Due to potential fires starting when exhaust gases come in contact with floor carpeting after a vehicle crash, the US automaker agreed to recall various 2017 through 2023 model year Chevrolet Bolt EV vehicles.The recall will affect some"
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

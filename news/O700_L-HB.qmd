@@ -1,0 +1,19 @@
+---
+title: "Oregon reaches nearly $700M settlement with Monsanto over PCB contamination"
+source: "Latest - Humboldt Baykeeper"
+published_at: "2022-12-17"
+url: "https://www.humboldtbaykeeper.org/news/latest/1642-oregon-reaches-nearly-700m-settlement-with-monsanto-over-pcb-contamination"
+description: "Oregon’s attorney general announced a nearly $700 million settlement Thursday with the biotech giant Monsanto for its alleged role in polluting the state over the course of decades with toxic compounds known as polychlorinated biphenyls, or PCBs.“Polychlorinated biphenyls have caused and continue to cause devastating impact on the natural environment,” Attorney General Ellen Rosenblum said during a news conference in Portland. “They threaten the health of the people that use and enjoy our state’s natural resources — our air, our water, our ground, our fish, practically everything in our habitat.”From the 1930s to just before they were banned in 1979, Monsanto was the sole manufacturer of PCBs in the United States. Since at least 1937, the company knew they were harmful. The chemicals were distributed throughout the U.S. in a variety of products, including paint, caulking, and electrical equipment.Read More[Humboldt Bay was designated as impaired by PCBs&nbsp;under&nbsp;Section 303(d) of the Clean Water Act&nbsp;in 2002, based on levels of PCBs found in fish tissue. PCBs have been demonstrated to cause a variety of serious health effects, including cancer and serious effects on the immune system, reproductive system, nervous system, and endocrine system.&nbsp;For more info on PCBs and their health effects, click&nbsp;HERE]."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

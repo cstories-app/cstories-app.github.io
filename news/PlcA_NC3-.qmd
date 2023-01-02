@@ -1,0 +1,19 @@
+---
+title: "Police chief in Alaska charged with assaulting man at resort"
+source: "News Channel 3-12"
+published_at: "2022-12-30"
+url: "https://keyt.com/news/2022/12/30/police-chief-in-alaska-charged-with-assaulting-man-at-resort/"
+description: "Police chief in Alaska charged with assaulting man at resortThe post Police chief in Alaska charged with assaulting man at resort appeared first on News Channel 3-12."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

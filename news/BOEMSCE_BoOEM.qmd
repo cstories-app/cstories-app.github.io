@@ -1,0 +1,19 @@
+---
+title: "BOEM Seeks Comments on Environmental Analysis For Upcoming Gulf Of Mexico Oil and Gas Lease Sales"
+source: "Bureau of Ocean Energy Management"
+published_at: "NA"
+url: "https://www.boem.gov/newsroom/notes-stakeholders/boem-seeks-comments-environmental-analysis-upcoming-gulf-mexico-oil-and"
+description: "Dear Stakeholder, On Oct. 6, 2022, the Department of the Interior announced the availability of the Bureau of Ocean Energy Management’s (BOEM) Draft Supplemental Environmental Impact Statement (EIS) for two Gulf of Mexico oil and gas lease sales to comply with congressional direction in the Inflation Reduction Act. BOEM is seeking public comments on the Draft Supplemental EIS, which is supporting Lease Sales 259 and 261. The 45-day comment period begins today, Oct. 7, 2022, and ends at 11:59 pm Eastern Time on Nov. 21, 2022. BOEM will hold two virtual meetings to provide information about the..."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

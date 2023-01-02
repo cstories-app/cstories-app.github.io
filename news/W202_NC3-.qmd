@@ -1,0 +1,19 @@
+---
+title: "Where to travel in 2023: The best destinations to visit"
+source: "News Channel 3-12"
+published_at: "2023-01-02"
+url: "https://keyt.com/cnn-style-video/2023/01/02/where-to-travel-in-2023-the-best-destinations-to-visit/"
+description: "CNN CNN Travel staff New year equals new outlook. Apply this formula liberally to travel planning in 2023. After nearly three years of travel disruptions and complications, many countries have dropped most of their pandemic restrictions. People are traveling internationally in large numbers, and there&#8217;s plenty of pent-up demand to spread around the world. InternationalThe post Where to travel in 2023: The best destinations to visit appeared first on News Channel 3-12."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

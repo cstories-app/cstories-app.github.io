@@ -1,0 +1,19 @@
+---
+title: "Oil Leak Reported in Toro Creek Area of Carpinteria"
+source: "Noozhawk"
+published_at: "2023-01-01"
+url: "https://www.noozhawk.com/emergency-personnel-respond-to-oil-leak-in-toro-creek-area/"
+description: "Hazmat personnel dispatched to creek north of Toro Canyon Park, but source and size of leak are still unknownThe post Oil Leak Reported in Toro Creek Area of Carpinteria appeared first on Noozhawk."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

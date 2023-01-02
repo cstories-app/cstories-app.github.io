@@ -1,0 +1,19 @@
+---
+title: "Recreational marijuana dispensaries on the rise in Vermont"
+source: "News Channel 3-12"
+published_at: "2022-12-30"
+url: "https://keyt.com/news/2022/12/30/recreational-marijuana-dispensaries-on-the-rise-in-vermont/"
+description: "Recreational marijuana dispensaries on the rise in VermontThe post Recreational marijuana dispensaries on the rise in Vermont appeared first on News Channel 3-12."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

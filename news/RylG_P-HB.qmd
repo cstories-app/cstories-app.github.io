@@ -1,0 +1,19 @@
+---
+title: "Royal Gold settles lawsuit"
+source: "Press - Humboldt Baykeeper"
+published_at: "2017-10-04"
+url: "https://www.humboldtbaykeeper.org/news/press/1202-royal-gold-settles-lawsuit"
+description: "Humboldt Baykeeper warns of chemical runoff on former mill sites10/4/17The Arcata-based soil company Royal Gold LLC recently settled a federal civil lawsuit filed by Humboldt Baykeeper that alleged the company allowed harmful chemicals at its Glendale soil mixing facility to contaminate the Mad River and the nearby Mill Creek.&nbsp;The company agreed to make a variety of infrastructure changes to prevent contaminated runoff from entering soil and groundwater."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

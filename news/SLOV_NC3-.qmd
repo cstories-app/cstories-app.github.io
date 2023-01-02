@@ -1,0 +1,19 @@
+---
+title: "SLO Veterans Hall Covid testing site closing after more than two years, County moving testing to new location"
+source: "News Channel 3-12"
+published_at: "2022-12-30"
+url: "https://keyt.com/health/coronavirus/2022/12/30/slo-veterans-hall-covid-testing-site-closing-after-more-than-two-years-county-moving-testing-to-new-location/"
+description: "After more than two years, the San Luis Obispo Veterans Memorial Building will no longer serve as a COVID-19 testing site for San Luis Obispo County Public Health after today.The post SLO Veterans Hall Covid testing site closing after more than two years, County moving testing to new location appeared first on News Channel 3-12."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

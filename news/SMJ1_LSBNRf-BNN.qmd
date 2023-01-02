@@ -1,0 +1,19 @@
+---
+title: "Santa Maria neighbors for January 1 - santamariatimes.com"
+source: "Latest Santa Barbara News RSS feed – Big News Network"
+published_at: "2023-01-01"
+url: "https://santamariatimes.com/news/local/santa-maria-neighbors-obituaries-for-january-1/collection_c15ab593-8c7b-5de3-8732-f00b661b59ff.html"
+description: "Read through the obituaries published in Santa Maria Times"
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

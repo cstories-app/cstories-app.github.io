@@ -1,0 +1,19 @@
+---
+title: "‘GOAT,’ ‘inflection point’ and ‘quiet quitting’ should be banished, annual list says"
+source: "News Channel 3-12"
+published_at: "2023-01-02"
+url: "https://keyt.com/news/2023/01/02/goat-inflection-point-and-quiet-quitting-should-be-banished-annual-list-says/"
+description: "'GOAT,' 'inflection point' and 'quiet quitting' should be banished, annual list saysThe post &#8216;GOAT,&#8217; &#8216;inflection point&#8217; and &#8216;quiet quitting&#8217; should be banished, annual list says appeared first on News Channel 3-12."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

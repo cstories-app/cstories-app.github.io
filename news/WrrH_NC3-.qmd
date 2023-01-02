@@ -1,0 +1,19 @@
+---
+title: "Worried about your drinking? Here’s how to check it"
+source: "News Channel 3-12"
+published_at: "2023-01-02"
+url: "https://keyt.com/health/2023/01/02/worried-about-your-drinking-heres-how-to-check-it/"
+description: "Worried about your drinking? Here's how to check itThe post Worried about your drinking? Here&#8217;s how to check it appeared first on News Channel 3-12."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

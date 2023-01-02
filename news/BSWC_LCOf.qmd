@@ -1,0 +1,19 @@
+---
+title: "Border Scramble: Why California Isn’t Financially Ready for Title 42 to End"
+source: "Lost Coast Outpost feed"
+published_at: "2022-12-28"
+url: "https://lostcoastoutpost.com/2022/dec/28/border-scramble-why-california-isnt-financially-re/"
+description: "NA"
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

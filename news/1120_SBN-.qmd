@@ -1,0 +1,19 @@
+---
+title: "11 states will cut individual income taxes in 2023"
+source: "Santa Barbara News-Press"
+published_at: "2022-12-31"
+url: "https://newspress.com/11-states-will-cut-individual-income-taxes-in-2023/?utm_source=rss&utm_medium=rss&utm_campaign=11-states-will-cut-individual-income-taxes-in-2023"
+description: "By JOSH HYPES THE CENTER SQUARE CONTRIBUTOR (The Center Square) – Eleven states will reduce their&#8230;The post 11 states will cut individual income taxes in 2023 appeared first on Santa Barbara News-Press."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

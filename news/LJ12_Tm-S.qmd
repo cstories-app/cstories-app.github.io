@@ -1,0 +1,19 @@
+---
+title: "Letters to the editor | Jan. 1, 2023"
+source: "Times-Standard"
+published_at: "2023-01-01"
+url: "https://www.times-standard.com/2023/01/01/letters-to-the-editor-jan-1-2023/"
+description: "The problem with free speech is the lies I just received a free copy of the Epoch Times. According to Wikipedia, “The Epoch Times is a far-right international multi-language newspaper and media company affiliated with the Falun Gong new religious movement.” It goes on to say, “The Epoch Media Group’s news sites and YouTube channels [&#8230;]"
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

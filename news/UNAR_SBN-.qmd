@@ -1,0 +1,19 @@
+---
+title: "Universal free school meals, furloughed employee payback among Nevada programs in American Rescue Plan funds"
+source: "Santa Barbara News-Press"
+published_at: "2022-12-30"
+url: "https://newspress.com/universal-free-school-meals-furloughed-employee-payback-among-nevada-programs-in-american-rescue-plan-funds/?utm_source=rss&utm_medium=rss&utm_campaign=universal-free-school-meals-furloughed-employee-payback-among-nevada-programs-in-american-rescue-plan-funds"
+description: "Nevada approves $193 million in American Rescue Plan funds for state programs By KATELYNN RICHARDSON THE&#8230;The post Universal free school meals, furloughed employee payback among Nevada programs in American Rescue Plan funds appeared first on Santa Barbara News-Press."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

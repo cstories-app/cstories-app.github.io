@@ -1,0 +1,19 @@
+---
+title: "Chumash Charity Charity Golf Classic Raises $150k for Planned Parenthood, Good Samaritan Shelter, Tech Program"
+source: "The Santa Barbara Independent"
+published_at: "2023-01-02"
+url: "https://www.independent.com/2023/01/01/chumash-charity-charity-golf-classic-raises-150k-for-planned-parenthood-good-samaritan-shelter-tech-program/"
+description: "SANTA YNEZ, CA — December 28, 2022 — The Santa Ynez Band of Chumash Indians has announced that its annualThe post Chumash Charity Charity Golf Classic Raises $150k for Planned Parenthood, Good Samaritan Shelter, Tech Program appeared first on The Santa Barbara Independent."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

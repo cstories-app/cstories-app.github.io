@@ -1,0 +1,19 @@
+---
+title: "Excuses I Will No Longer Accept for Not Supporting CalCare: Taxes"
+source: "The Santa Barbara Independent"
+published_at: "2022-12-30"
+url: "https://www.independent.com/2022/12/30/excuses-i-will-no-longer-accept-for-not-supporting-calcare-taxes/"
+description: "Are high earners willing to do with slightly less if it means that no one will get sick or die because they don’t have health coverage?The post Excuses I Will No Longer Accept for Not Supporting CalCare: Taxes appeared first on The Santa Barbara Independent."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

@@ -1,0 +1,19 @@
+---
+title: "BOEM and NOAA announce joint strategy for fisheries surveys"
+source: "Bureau of Ocean Energy Management"
+published_at: "NA"
+url: "https://www.boem.gov/newsroom/press-releases/boem-and-noaa-announce-joint-strategy-fisheries-surveys"
+description: "The Bureau of Ocean Energy Management (BOEM) and the National Oceanic and Atmospheric Administration (NOAA) Fisheries are announcing a joint strategy to address potential impacts of offshore wind energy development on NOAA Fisheries’ scientific surveys. The Federal Survey Mitigation Strategy underscores the agencies’ shared commitment to the Biden-Harris Administration’s clean energy goals of responsibly advancing offshore wind energy production while protecting biodiversity and promoting ocean co-use. NOAA Fisheries’ surveys are essential for sustainably managing our nation’s fisheries. For..."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

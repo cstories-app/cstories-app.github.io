@@ -1,0 +1,19 @@
+---
+title: "Los Padres Campsite Fees Go Up"
+source: "The Santa Barbara Independent"
+published_at: "2022-12-30"
+url: "https://www.independent.com/2022/12/30/los-padres-campsite-fees-go-up/"
+description: "An overnight stay at a developed campsite rises $10 in the new year.The post Los Padres Campsite Fees Go Up appeared first on The Santa Barbara Independent."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

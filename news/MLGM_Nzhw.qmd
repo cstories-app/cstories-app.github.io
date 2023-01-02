@@ -1,0 +1,19 @@
+---
+title: "More Late-Game Magic By Mitchell Leads UCSB to Victory at Cal State Fullerton"
+source: "Noozhawk"
+published_at: "2022-12-30"
+url: "https://www.noozhawk.com/more-late-game-magic-by-mitchell-leads-ucsb-to-victory-at-cal-state-fullerton/"
+description: "Gauchos extend winning streak to six games, 66-58, by outscoring Titans 13-2 in final two minutesThe post More Late-Game Magic By Mitchell Leads UCSB to Victory at Cal State Fullerton appeared first on Noozhawk."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

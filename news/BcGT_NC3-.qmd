@@ -1,0 +1,19 @@
+---
+title: "Bucs’ Gabbert, brothers rescue people in Tampa chopper crash"
+source: "News Channel 3-12"
+published_at: "2022-12-30"
+url: "https://keyt.com/news/2022/12/30/bucs-gabbert-brothers-rescue-people-in-tampa-chopper-crash/"
+description: "Bucs' Gabbert, brothers rescue people in Tampa chopper crashThe post Bucs&#8217; Gabbert, brothers rescue people in Tampa chopper crash appeared first on News Channel 3-12."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

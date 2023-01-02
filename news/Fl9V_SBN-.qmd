@@ -1,0 +1,19 @@
+---
+title: "Falcon 9 soars from Vandenberg"
+source: "Santa Barbara News-Press"
+published_at: "2022-12-31"
+url: "https://newspress.com/falcon-9-soars-from-vandenberg-2/?utm_source=rss&utm_medium=rss&utm_campaign=falcon-9-soars-from-vandenberg-2"
+description: "SpaceX wrapped up 2022 with the launch of its Falcon 9 rocket from Vandenberg Space Force&#8230;The post Falcon 9 soars from Vandenberg appeared first on Santa Barbara News-Press."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

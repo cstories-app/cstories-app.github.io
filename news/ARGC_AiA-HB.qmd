@@ -1,0 +1,19 @@
+---
+title: "Appeal of Royal Gold's Conditional Use Permit, Aug. 2016"
+source: "Advocacy in Action - Humboldt Baykeeper"
+published_at: "2016-11-29"
+url: "https://www.humboldtbaykeeper.org/advocacy-in-action/71-comment-letters/1146-appeal-of-royal-golds-conditional-use-permit"
+description: "Humboldt Baykeeper filed an appeal of the County Planning Commission's&nbsp;approval of CUP 13-021 and the associated Mitigated Negative Declaration for Royal Gold, LLC’s existing operations and expansion in Glendale.&nbsp;&nbsp;Click HERE to see Humboldt Bayeeper's appeal of the permit to the Board of Supervisors. This hearing was schedukled for Dec. 9, 2015, but was suspended. As of Sept. 2018, the County is still waiting for information on wetlands, frog surveys, and other information to be supplied by the aapplicant. Royal Gold built the proposed building that was the subject of the permit and continues to operate without County permits."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

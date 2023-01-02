@@ -1,0 +1,19 @@
+---
+title: "BOEM Publishes Final Notice of Sale for December Cook Inlet Lease Sale"
+source: "Bureau of Ocean Energy Management"
+published_at: "NA"
+url: "https://www.boem.gov/newsroom/press-releases/boem-publishes-final-notice-sale-december-cook-inlet-lease-sale"
+description: "BOEM announces it will offer approximately 958,202 acres off Alaska’s southcentral coast in a lease sale scheduled for Dec. 30, 2022."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

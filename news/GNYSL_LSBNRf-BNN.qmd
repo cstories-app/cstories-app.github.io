@@ -1,0 +1,19 @@
+---
+title: "Guided New Years day hikes set for Sunday at Los Flores Ranch Park - santamariatimes.com"
+source: "Latest Santa Barbara News RSS feed – Big News Network"
+published_at: "2022-12-30"
+url: "https://santamariatimes.com/news/local/guided-new-year-s-day-hikes-set-for-sunday-at-los-flores-ranch-park/article_b2b46d37-18a5-5097-8ac8-ffe23b7d436e.html"
+description: "The City of Santa Maria Recreation and Parks Department is inviting the community to two guided New Year&#39;s Day hikes at Los Flores Ranch Park, located at 6245 Dominion Road, on Sunday, from 10 a.m. to noon. Residents are encouraged"
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

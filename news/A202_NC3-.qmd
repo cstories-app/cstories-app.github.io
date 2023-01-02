@@ -1,0 +1,19 @@
+---
+title: "Alabama to allow concealed guns without permit in 2023"
+source: "News Channel 3-12"
+published_at: "2022-12-30"
+url: "https://keyt.com/news/2022/12/30/alabama-to-allow-concealed-guns-without-permit-in-2023/"
+description: "Alabama to allow concealed guns without permit in 2023The post Alabama to allow concealed guns without permit in 2023 appeared first on News Channel 3-12."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

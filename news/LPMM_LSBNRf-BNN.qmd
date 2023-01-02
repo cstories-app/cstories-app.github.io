@@ -1,0 +1,19 @@
+---
+title: "Like PM Modi, Chinese President Xi Jinping tells Putin dialogue is the way to resolve Ukraine issue"
+source: "Latest Santa Barbara News RSS feed – Big News Network"
+published_at: "2022-12-31"
+url: "https://www.bignewsnetwork.com/news/273295115/like-pm-modi-chinese-president-xi-jinping-tells-putin-dialogue-is-the-way-to-resolve-ukraine-issue?utm_source=feeds.bignewsnetwork.com&utm_medium=referral"
+description: "Beijing [China], December 31 (ANI): Chinese President Xi Jinping has followed Prime Minister Narendra Modi's worldview and has stressed the importance of a diplomatic solution to the war in Ukraine in a conversation with Russian President Vladimir Putin via video link on Friday, NHK World reported.Russia and China's military cooperation, according to Putin, "fosters the security of both of our nations and stability in cr"
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

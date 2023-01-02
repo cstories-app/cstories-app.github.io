@@ -1,0 +1,19 @@
+---
+title: "BOEM Now Accepting Environmental Study Ideas for Fiscal Years 2024 and 2025"
+source: "Bureau of Ocean Energy Management"
+published_at: "NA"
+url: "https://www.boem.gov/newsroom/notes-stakeholders/boem-now-accepting-environmental-study-ideas-fiscal-years-2024-and-2025"
+description: "The Bureau of Ocean Energy Management (BOEM) is responsible for managing the development of U.S. Outer Continental Shelf (OCS) energy and mineral resources in an environmentally and economically responsible way. A critical component of BOEM’s mission is protecting the environment while overseeing the development of OCS energy and marine mineral resources. BOEM’s Environmental Studies Program (ESP) develops, funds and manages rigorous scientific research specifically to inform policy decisions on the development of energy and mineral resources on the OCS, as required by law. This environmental..."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

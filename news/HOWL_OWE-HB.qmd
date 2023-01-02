@@ -1,0 +1,19 @@
+---
+title: "Humboldt Offshore Wind Leases to Go Up For Auction on Dec. 6"
+source: "Offshore Wind Energy - Humboldt Baykeeper"
+published_at: "2022-10-18"
+url: "https://www.humboldtbaykeeper.org/offshore-wind-energy/1623-humboldt-offshore-wind-leases-to-go-up-for-auction-on-dec-6"
+description: "The Biden Administration announced this morning that it’s ready to proceed with putting two swaths of the ocean off Humboldt County up for lease to potential offshore wind developers.Leases for the two areas, which together total more than 206 square miles, will be sold at auction on Tuesday, Dec. 6. &nbsp;Three areas near Morro Bay will go out for auction on the same date. These will be the first offshore wind leases on the Pacific Coast, and the first in the nation to support what the Department of Interior is calling “commercial-scale” offshore energy.Read More"
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

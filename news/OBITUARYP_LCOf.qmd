@@ -1,0 +1,19 @@
+---
+title: "OBITUARY: Patricia Mae Barth, 1960-2022"
+source: "Lost Coast Outpost feed"
+published_at: "2022-12-29"
+url: "https://lostcoastoutpost.com/2022/dec/29/obituary-patricia-mae-barth-1960-2022/"
+description: "NA"
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

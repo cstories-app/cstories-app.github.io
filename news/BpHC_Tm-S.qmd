@@ -1,0 +1,19 @@
+---
+title: "Be prepared: Humboldt County warns of flooding in wake of storms"
+source: "Times-Standard"
+published_at: "2022-12-30"
+url: "https://www.times-standard.com/2022/12/30/humboldt-county-warns-of-flooding-in-wake-of-storms/"
+description: "Sandbags are available at multiple locations."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

@@ -1,0 +1,19 @@
+---
+title: "New vineyard opens on historic ranch in Santa Ynez Valley"
+source: "News Channel 3-12"
+published_at: "2022-12-30"
+url: "https://keyt.com/lifestyle/2022/12/30/new-vineyard-opens-on-historic-ranch-in-santa-ynez-valley/"
+description: "New vineyard opens on historic ranch in Santa Ynez ValleyThe post New vineyard opens on historic ranch in Santa Ynez Valley appeared first on News Channel 3-12."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

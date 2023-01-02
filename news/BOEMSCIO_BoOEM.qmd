@@ -1,0 +1,19 @@
+---
+title: "BOEM Statement on Cook Inlet Oil & Gas Lease Sale 258"
+source: "Bureau of Ocean Energy Management"
+published_at: "NA"
+url: "https://www.boem.gov/newsroom/press-releases/boem-statement-cook-inlet-oil-gas-lease-sale-258"
+description: "BOEM held Cook Inlet Oil and Gas Lease Sale 258 as directed by the Inflation Reduction Act of 2022."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

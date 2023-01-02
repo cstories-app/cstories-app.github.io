@@ -1,0 +1,19 @@
+---
+title: "Stormy holiday ahead"
+source: "News Channel 3-12"
+published_at: "2022-12-30"
+url: "https://keyt.com/weather/local-forecast/2022/12/30/stormy-holiday-ahead/"
+description: "Cool and mostly cloudy conditions on Friday, along with misting and patchy drizzle, will be followed by a significant storm on New Year's Eve. Moderate to heavy rainfall is expected on Saturday afternoon into Saturday evening, along with strong, gusty winds. The strong southwesterly winds will follow the storm for much of Saturday. A HighThe post Stormy holiday ahead appeared first on News Channel 3-12."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

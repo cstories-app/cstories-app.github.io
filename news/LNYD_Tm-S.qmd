@@ -1,0 +1,19 @@
+---
+title: "Lumberjacks men’s hoops back in action on New Year’s Day"
+source: "Times-Standard"
+published_at: "2022-12-30"
+url: "https://www.times-standard.com/2022/12/30/lumberjacks-mens-hoops-back-in-action-on-new-years-day/"
+description: "The Lumberjacks will try to get their second win of the season against a resurgent Sonoma State team. Humboldt was able to take care of business against the Seawolves in the matchup in November, winning 79-71. But both teams are very different since then and the Seawolves can't be underestimated as long as they have Jaylon Wells, the top scorer in the conference at 21.9 points per game."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

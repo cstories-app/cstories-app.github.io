@@ -1,0 +1,19 @@
+---
+title: "Melvin Seals! Diggin' Dirt! Amber Soul! Cabaret, Comedy, Costume Balls! This is a Smoking Hot New Year's Eve, and Here are Your Options!"
+source: "Lost Coast Outpost feed"
+published_at: "2022-12-31"
+url: "http://lostcoastoutpost.com/lowdown/2022/dec/31/"
+description: "NA"
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

@@ -1,0 +1,19 @@
+---
+title: "Stormwater flows well on State Street"
+source: "Santa Barbara News-Press"
+published_at: "2022-12-30"
+url: "https://newspress.com/stormwater-flows-well-on-state-street/?utm_source=rss&utm_medium=rss&utm_campaign=stormwater-flows-well-on-state-street"
+description: "But 15 parklets remain out of compliance State Street fared well during the latest rainstorms, despite&#8230;The post Stormwater flows well on State Street appeared first on Santa Barbara News-Press."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

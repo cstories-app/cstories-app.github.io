@@ -1,0 +1,19 @@
+---
+title: "BOOKED: Dec. 30, 2022"
+source: "Lost Coast Outpost feed"
+published_at: "2022-12-30"
+url: "http://lostcoastoutpost.com/booked/2022/dec/30/"
+description: "NA"
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

@@ -1,0 +1,19 @@
+---
+title: "Eureka Area Stormwater Management Plan, July 2018"
+source: "Advocacy in Action - Humboldt Baykeeper"
+published_at: "2018-09-30"
+url: "https://www.humboldtbaykeeper.org/advocacy-in-action/71-comment-letters/1276-eureka-area-stormwater-management-plan-july-2018"
+description: "Humboldt Baykeeper commented on the Eureka Area Stormwater Management Plan, which will prioritize funding for projects to reduce stormwater runoff and protect water quality in creeks and the bay.&nbsp;&nbsp;Click HERE to view the comments."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

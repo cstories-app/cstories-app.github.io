@@ -1,0 +1,19 @@
+---
+title: "Extend your life with these New Year’s resolutions"
+source: "News Channel 3-12"
+published_at: "2023-01-02"
+url: "https://keyt.com/health/2023/01/02/extend-your-life-with-these-new-years-resolutions/"
+description: "Extend your life with these New Year's resolutionsThe post Extend your life with these New Year&#8217;s resolutions appeared first on News Channel 3-12."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

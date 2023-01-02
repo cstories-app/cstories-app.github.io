@@ -1,0 +1,19 @@
+---
+title: "Tennis great Martina Navratilova diagnosed with throat and breast cancer"
+source: "News Channel 3-12"
+published_at: "2023-01-02"
+url: "https://keyt.com/sports/national-sports/cnn-sports/2023/01/02/tennis-great-martina-navratilova-diagnosed-with-throat-and-breast-cancer-wta-website-says/"
+description: "By Ben Church, CNN Tennis great Martina Navratilova has been diagnosed with both stage one throat and breast cancer, her agent told CNN in an email Monday. &#8220;This double whammy is serious but still fixable,&#8221; the 66-year-old said in a statement on the Women&#8217;s Tennis Association (WTA) website. &#8220;I&#8217;m hoping for a favorable outcome. It&#8217;sThe post Tennis great Martina Navratilova diagnosed with throat and breast cancer appeared first on News Channel 3-12."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

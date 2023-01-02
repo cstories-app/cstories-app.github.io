@@ -1,0 +1,19 @@
+---
+title: "CAPA Pet of the Week- Steve"
+source: "Latest Santa Barbara News RSS feed – Big News Network"
+published_at: "2022-12-30"
+url: "https://santamariatimes.com/lifestyles/capa-pet-of-the-week-steve/article_192e6b6e-7cf3-5c34-833c-84cf7abb8c21.html"
+description: "Center staff say Steve is a shy guy who is just getting his bearings at the shelter."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

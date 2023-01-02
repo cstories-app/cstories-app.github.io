@@ -1,0 +1,19 @@
+---
+title: "CORE Hub Shares Offshore Wind Vision with Congressman Huffman"
+source: "RedwoodCOREHub"
+published_at: "2022-10-13"
+url: "https://redwoodcorehub.org/core-hub-shares-offshore-wind-vision-with-congressman-huffman/?utm_source=rss&utm_medium=rss&utm_campaign=core-hub-shares-offshore-wind-vision-with-congressman-huffman"
+description: "The North Coast Offshore Wind Community Benefit Network and the Redwood CORE Hub had an opportunity to meet with U.S. Congressman Jared Huffman on Wednesday, Oct. 5, to discuss how the Congressman might support the community benefit recommendations and lease stipulations outlined in the Network’s comments submitted to the Bureau of Ocean Energy Management on [&#8230;]"
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

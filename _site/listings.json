@@ -11,6 +11,7 @@
   {
     "listing": "/news.html",
     "items": [
+      "/news/BOEMSPCD_BoOEM.html",
       "/news/CJBA_KQED_2022-12-27.html",
       "/news/RCHH_CntP_2022-12-26.html",
       "/news/TCEQ_CA.html",
@@ -126,6 +127,7 @@
       "/apps/tradeoffs.html",
       "/apps/triage.html",
       "/apps/weighted-map.html",
+      "/news/BOEMSPCD_BoOEM.html",
       "/news/CJBA_KQED_2022-12-27.html",
       "/news/RCHH_CntP_2022-12-26.html",
       "/news/TCEQ_CA.html",

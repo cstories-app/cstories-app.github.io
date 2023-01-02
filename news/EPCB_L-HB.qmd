@@ -1,0 +1,19 @@
+---
+title: "Embattled Planning Commissioner Bongio Steps Down"
+source: "Latest - Humboldt Baykeeper"
+published_at: "2022-12-27"
+url: "https://www.humboldtbaykeeper.org/news/latest/1651-embattled-planning-commissioner-bongio-steps-down"
+description: "Embattled longtime Humboldt County Planning Commissioner Alan Bongio, who was censured by the Board of Supervisors in September for comments widely construed as racist and biased while chairing a meeting in August, has stepped down.First District Supervisor Rex Bohn, who appointed Bongio to the commission and said in September he would not remove him from the post despite mounting pressure to do so, has indicated he intends to appoint Ivar Skavdal to the position.Last month, voters soundly ousted Bongio from the seat on the Humboldt Community Services District Board of Directors he'd held for 24 years, having taken it over from his father, Aldo Bongio, who held it for 34 years.&nbsp;Skavdal, a seventh-generation Humboldt County resident, is a registered civil engineer who attended Humboldt State and Chico State universities and resides in Ferndale. Formerly the CEO of Winzler &amp; Kelly Civil Engineering and president of GHD, Skavdal recently retired and "would like to give back to the community that gave him his start," according to Bohn.Read More"
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

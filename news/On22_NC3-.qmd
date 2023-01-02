@@ -1,0 +1,19 @@
+---
+title: "Ontario officials: 2 adults, 2 children killed in house fire"
+source: "News Channel 3-12"
+published_at: "2022-12-30"
+url: "https://keyt.com/news/2022/12/30/ontario-officials-2-adults-2-children-killed-in-house-fire/"
+description: "Ontario officials: 2 adults, 2 children killed in house fireThe post Ontario officials: 2 adults, 2 children killed in house fire appeared first on News Channel 3-12."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

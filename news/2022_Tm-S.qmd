@@ -1,0 +1,19 @@
+---
+title: "2022: The Year in Pictures"
+source: "Times-Standard"
+published_at: "2023-01-02"
+url: "https://www.times-standard.com/2023/01/02/2022-the-year-in-pictures-2/"
+description: "Amid triumph and tragedy, private moments of grief and public spectacles of joy, Mercury News and East Bay Times’ photojournalists captured the resilience of the human spirit across the Bay Area this year."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

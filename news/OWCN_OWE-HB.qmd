@@ -1,0 +1,19 @@
+---
+title: "Offshore Wind is Coming to the North Coast. What’s in it For Humboldt?"
+source: "Offshore Wind Energy - Humboldt Baykeeper"
+published_at: "2022-10-27"
+url: "https://www.humboldtbaykeeper.org/offshore-wind-energy/1628-offshore-wind-is-coming-to-the-north-coast-what-s-in-it-for-humboldt-2"
+description: "As efforts to bring an offshore wind development to the Humboldt County coast ramp up, local stakeholders are vying to get a big ol’ slice of that offshore wind pie.There will be inevitable impacts associated with the development, especially for folks living along the Samoa Peninsula where the terminal will be built and wind turbine construction, assembly and staging will take place.To mitigate potential impacts, BOEM offers a little something called a bid credit package. In this case, to qualify for the credit package the bidder “must commit to mak[ing] a qualifying monetary contribution to programs or initiatives” that benefit the greater Humboldt County community.Eureka City Council representative and soon-to-be Fourth District Humboldt County Supervisor Natalie Arroyo called for robust engagement with Samoa residents in particular.&nbsp;"
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

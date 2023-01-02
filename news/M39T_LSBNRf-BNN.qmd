@@ -1,0 +1,19 @@
+---
+title: "Men&#39;s Tennis Releases 2023 Schedule - UC Santa Barbara"
+source: "Latest Santa Barbara News RSS feed – Big News Network"
+published_at: "2022-12-29"
+url: "http://www.ucsbgauchos.com/sports/m-tennis/2022-23/releases/20221229krrrvn"
+description: "UC Santa Barbara Men&#39;s Tennis is excited to announce their 2023 schedule."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

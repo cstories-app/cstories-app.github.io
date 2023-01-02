@@ -1,0 +1,19 @@
+---
+title: "South County Regional Center in Arroyo Grande provides overnight shelter as storm system hits the central coast"
+source: "News Channel 3-12"
+published_at: "2022-12-30"
+url: "https://keyt.com/news/san-luis-obispo-county/2022/12/30/south-county-regional-center-in-arroyo-grande-provides-dry-overnight-shelter-as-storm-system-hits-the-central-coast/"
+description: "South County Regional Center in Arroyo Grande will remain open as a warming center Friday and Saturday night for those who need overnight shelter from the rain. The post South County Regional Center in Arroyo Grande provides overnight shelter as storm system hits the central coast appeared first on News Channel 3-12."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

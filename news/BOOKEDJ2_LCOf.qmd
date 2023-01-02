@@ -1,0 +1,19 @@
+---
+title: "BOOKED: Jan. 2, 2023"
+source: "Lost Coast Outpost feed"
+published_at: "2023-01-02"
+url: "http://lostcoastoutpost.com/booked/2023/jan/2/"
+description: "NA"
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

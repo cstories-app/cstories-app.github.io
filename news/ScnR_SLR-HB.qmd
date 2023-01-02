@@ -1,0 +1,19 @@
+---
+title: "Scientists study an unexpected climate change problem: Rising groundwater levels"
+source: "Sea Level Rise - Humboldt Baykeeper"
+published_at: "2022-12-22"
+url: "https://www.humboldtbaykeeper.org/climate-change-impacts-sea-level-rise/1648-scientists-study-an-unexpected-climate-change-problem-rising-groundwater-levels-2"
+description: "Droughts and sinking groundwater levels due to climate change and water consumption have become a familiar worry in many parts of the world. But coastal California is poised to soon encounter a very different kind of problem: Levels of groundwater may rise.&nbsp;“It’s a concern,” said Ben Hagedorn, Associate Professor of Geological Sciences at California State University Long Beach.&nbsp;“What we see near the coast is that the rising sea level pushes up the saline groundwater,” he said.&nbsp;In the process, the fresh groundwater used for drinking gets pressed toward the surface as well since it usually floats on top of the heavier salty groundwater. This could make coastal regions more prone to flooding, but there are also more insidious consequences.&nbsp;As the rising fresh water seeps into surface soils, toxins such as cadmium and lead from hazardous waste sites, landfills and other contaminated areas could get flushed into drinking supplies, Hagedorn said.&nbsp;Rising levels of fresh groundwater could make this problem more widespread and also wash toxins from shallow aquifers into the deeper reservoirs that currently provide drinking water. And soluble pollutants aren’t the only concern.&nbsp;“When you have plumes of contaminants in aquifers, they can degas and generate toxic vapors,” Hagedorn said. These vapors can then push into buildings through cracks in the construction material or via utility lines and low-elevation windows.Read More"
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

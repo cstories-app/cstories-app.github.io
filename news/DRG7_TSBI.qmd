@@ -1,0 +1,19 @@
+---
+title: "Direct Relief Grants $7.9M in Medical Aid to Ukraine"
+source: "The Santa Barbara Independent"
+published_at: "2022-12-31"
+url: "https://www.independent.com/2022/12/31/direct-relief-grants-7-9m-in-medical-aid-to-ukraine/"
+description: "The Santa Barbara–based nonprofit gave more to the war-torn country than it did to any other nation in 2022.The post Direct Relief Grants $7.9M in Medical Aid to Ukraine appeared first on The Santa Barbara Independent."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

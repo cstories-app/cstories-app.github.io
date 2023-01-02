@@ -1,0 +1,19 @@
+---
+title: "Amy Goodman and Denis Moynihan | Climate change, Christmas and capitalism: The great Southwest Air meltdown"
+source: "Times-Standard"
+published_at: "2023-01-01"
+url: "https://www.times-standard.com/2023/01/01/amy-goodman-and-denis-moynihan-climate-change-christmas-and-capitalism-the-great-southwest-air-meltdown/"
+description: "Climate change, Christmas and capitalism chaotically converged with an epic operational failure at Southwest Airlines that stranded thousands of holiday travelers and airline staff at airports for days. Winter Storm Elliott slammed the continental United States with snow, pelting winds and freezing arctic air in what meteorologists call a &#8220;bomb cyclone.&#8221; Air travel was understandably [&#8230;]"
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

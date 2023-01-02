@@ -1,0 +1,19 @@
+---
+title: "Two Bay Area fishermen push low-tech redesign of crab pot to protect whales — and revitalize a threatened industry"
+source: "Times-Standard"
+published_at: "2022-12-30"
+url: "https://www.times-standard.com/2022/12/30/two-bay-area-fishermen-push-low-tech-redesign-of-crab-pot-to-protect-whales-and-revitalize-a-threatened-industry/"
+description: "When the largest animals on Earth become entangled in the crabbers’ ropes, they can suffer severe injury, infection and sometimes even die."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

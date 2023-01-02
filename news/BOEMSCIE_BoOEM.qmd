@@ -1,0 +1,19 @@
+---
+title: "BOEM Seeks Comment to Inform Environmental Review of Proposed Wind Energy Project Offshore Massachusetts"
+source: "Bureau of Ocean Energy Management"
+published_at: "NA"
+url: "https://www.boem.gov/newsroom/press-releases/boem-seeks-comment-inform-environmental-review-proposed-wind-energy-project"
+description: "Project has potential to power more than 900,000 homes."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

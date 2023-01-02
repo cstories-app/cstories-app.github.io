@@ -1,0 +1,19 @@
+---
+title: "California sheriff’s deputy killed during traffic stop; suspect dead after pursuit"
+source: "Times-Standard"
+published_at: "2022-12-30"
+url: "https://www.times-standard.com/2022/12/30/riverside-county-sheriffs-deputy-shot-to-death/"
+description: "Motorcycle Deputy Isaiah Cordero, 32, was shot to death during a traffic stop. The suspect died in a gun battle on the 15 Freeway in Southern California"
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

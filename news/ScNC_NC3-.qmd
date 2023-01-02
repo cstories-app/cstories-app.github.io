@@ -1,0 +1,19 @@
+---
+title: "Second quake in two weeks sends Northern California back to response mode"
+source: "News Channel 3-12"
+published_at: "2023-01-02"
+url: "https://keyt.com/news/2023/01/01/second-quake-in-two-weeks-sends-northern-california-back-to-response-mode/"
+description: "Second quake in two weeks sends Northern California back to response modeThe post Second quake in two weeks sends Northern California back to response mode appeared first on News Channel 3-12."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

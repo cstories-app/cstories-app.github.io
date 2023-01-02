@@ -1,0 +1,19 @@
+---
+title: "Pine Hill Double Murder Suspect Arraigned, Pleads Not Guilty; Charges Could Put Him in Prison For Life With No Parole"
+source: "Lost Coast Outpost feed"
+published_at: "2022-12-30"
+url: "https://lostcoastoutpost.com/2022/dec/30/pine-hill-double-murder-suspect-arraigned-pleads-n/"
+description: "NA"
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+
