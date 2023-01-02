@@ -1,7 +1,10 @@
 library(tidyverse)
 library(integral)
+library(janitor)
 library(tidyRSS)
+library(lubridate)
 library(textclean)
+library(fs)
 library(cli)
 library(crayon)
 
@@ -109,18 +112,19 @@ feed_files <- fs::dir_ls("news_code/rss_feeds/", glob = "*.txt")
 rss_items <- update_feeds(feed_files)
 
 create_rss_qmds <- function(rss_items, output_dir = "news") {
-  res_rss %>%
+  rss_items %>%
     mutate(item_pub_date = as.character(item_pub_date)) %>%
+    add_column(image = "news_code/rss_img.png") %>%
     select(title = item_title,
            source = feed_title,
            published_at = item_pub_date,
            url = item_link,
            description = item_description,
+           image,
            rss_id) %>%
     pivot_longer(-rss_id) %>%
     mutate(value = paste0("\"", value, "\"")) %>%
     unite(col = yaml, name, value, sep = ": ") %>%
-    #mutate(yaml = str_wrap(yaml, exdent = 3)) %>%
     group_by(rss_id) %>%
     summarize(yaml = paste(yaml, collapse = "\n")) %>%
     mutate(yaml = paste0("---\n", yaml, "\n---\n")) %>%
