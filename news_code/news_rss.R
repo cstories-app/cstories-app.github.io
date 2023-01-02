@@ -1,6 +1,9 @@
 library(tidyverse)
 library(integral)
 library(tidyRSS)
+library(textclean)
+library(cli)
+library(crayon)
 
 
 # Functions ---------------------------------------------------------------
@@ -15,33 +18,148 @@ scrape_rss <- function(feed) {
         return(NULL)
       }
 
-      cli::cli_alert_info("Reading {feed}...")
+      cli::cli_alert_info("Reading {feed}")
 
-      return(tidyfeed(feed))
+      res <- tidyfeed(feed)
+
+      #if(class(res$item_category) == "character") res <- res %>% nest(item_category = item_category)
+      if(class(res$item_category) == "list") res <- res %>% mutate(item_category = map_chr(item_category, ~paste(.x, collapse = " | ")))
+
+
+      return(res)
 
     }) %>%
     bind_rows()
 
 }
 
+update_feeds <- function(feed_files,
+                         existing_rss_table = "news_code/data/rss_table.rds") {
+  raw_feeds <- map(feed_files, function(feed_file) {
+
+    cli::cli_alert_info("Starting feed scraping from {fs::path_file(feed_file)}...")
+    feed <- read_lines(feed_file)
+
+    scrape_rss(feed) %>%
+      add_column(feed_file = as.character(feed_file))
+  }) %>%
+    bind_rows()
+
+  rss <- raw_feeds %>%
+    deselect(feed_last_build_date, feed_generator, feed_language) %>%
+    mutate(across(c(item_title, item_description, feed_title, feed_description), ~str_squish(.x))) %>%
+    mutate(across(where(is.character), ~if_else(.x == "", NA_character_, .x))) %>%
+    distinct(across(-c(item_link, item_guid, item_comments, item_pub_date, feed_pub_date)), .keep_all = T) %>%
+    mutate(item_pub_date = as_date(item_pub_date)) %>%
+    mutate(rss_id = paste(abbreviate(replace_non_ascii(str_remove_all(item_title, "[^\\w]"))), abbreviate(replace_non_ascii(feed_title)), sep = "_")) %>%
+    add_column(search_timestamp = as.character(now()))
+
+  if(any(is.na(rss$item_title))) {
+    cli_alert_danger(red("RSS items with no title are being removed:"))
+    rss %>%
+      filter(is.na(item_title)) %>%
+      select(feed_title, item_link) %>%
+      print()
+
+    rss <- rss %>% filter(!is.na(item_title))
+  }
+
+
+  if(nrow(bad <- rss %>% get_dupes(rss_id)) > 0) {
+    cli_alert_danger("Duplicate rss_id's in data.")
+    print(bad)
+    stop("Operation cannot continue")
+  }
+
+  existing_rss <- read_rds(existing_rss_table)
+
+  new_rss <- rss %>%
+    anti_join(existing_rss, by = "rss_id")
+
+
+  rss <- existing_rss %>%
+    rows_insert(rss, by = "rss_id", conflict = "ignore")
+
+
+  rss %>%
+    write_rds(existing_rss_table)
+
+  return(new_rss)
+
+}
+
+# x <- rvest::read_html("https://lostcoastoutpost.com/weather-alerts/1088/")
+#
+# x %>% html_attr("title")
+#
+# read_html("https://lostcoastoutpost.com/weather-alerts/1071/") %>%
+#   html_nodes("title") %>%
+#   html_text()
+# rss %>%
+#   mutate(item_title = if_else(is.na(item_title),
+#                               read_html(item_link) %>%
+#                                 html_nodes("title") %>%
+#                                 html_text(), item_title))
+
 
 # Get feeds ---------------------------------------------------------------
 
+feed_files <- fs::dir_ls("news_code/rss_feeds/", glob = "*.txt")
 
-sb_feeds <- read_lines("news_code/rss_feeds_santa_barbara.txt") %>%
-  scrape_rss
+rss_items <- update_feeds(feed_files)
 
-hb_feeds <- read_lines("news_code/rss_feeds_humboldt.txt") %>%
-  scrape_rss()
+create_rss_qmds <- function(rss_items, output_dir = "news") {
+  res_rss %>%
+    mutate(item_pub_date = as.character(item_pub_date)) %>%
+    select(title = item_title,
+           source = feed_title,
+           published_at = item_pub_date,
+           url = item_link,
+           description = item_description,
+           rss_id) %>%
+    pivot_longer(-rss_id) %>%
+    mutate(value = paste0("\"", value, "\"")) %>%
+    unite(col = yaml, name, value, sep = ": ") %>%
+    #mutate(yaml = str_wrap(yaml, exdent = 3)) %>%
+    group_by(rss_id) %>%
+    summarize(yaml = paste(yaml, collapse = "\n")) %>%
+    mutate(yaml = paste0("---\n", yaml, "\n---\n")) %>%
+    mutate(full_qmd = paste0(yaml, "\n
+  Published: {{< meta published_at >}}\
+  \n
+  Source: {{< meta source >}}\
+  \n
+  [Read full article]({{< meta url >}})\
+  \n")) %>%
+    rowwise() %>%
+    pwalk(function(...) {
+      x <- tibble(...)
+
+      #yaml <- x %>% pull(yaml)
+      #fileid <- x %>% pull(news_id)
+      write_lines(x$full_qmd, file = path_ext_set(path(output_dir, x$rss_id), "qmd"))
+
+      cli::cli_alert_success("Successfully created {x$rss_id}.qmd")
+    })
+}
+
+create_rss_qmds(rss_items)
+
+#TODO: Fix issue with quotations in YAML (SEE BEOMSPCD_BoOEM.qmd and https://stackoverflow.com/questions/37427498/how-to-escape-double-and-single-quotes-in-yaml-within-the-same-string)
+#TODO: Check missing published_at / item_pub_date
+
+# Filter feed for terms --------------------------------------------------
+
+env_terms <- c("offshore wind", "wind energy", "seascape", "viewshed", "effects on wildlife")
+loc_terms <- c("humboldt", "morro bay", "california")
+
+res_rss %>%
+  select(feed_title, item_title, item_description, item_category) %>%
+  mutate(env_n = str_count(str_to_lower(item_description), paste0(env_terms, collapse = "|"))) %>%
+  filter(env_n > 0)
 
 
-feed_sb <- scrape_rss(sb_rss)
 
-  keyt <- tidyfeed("keyt.com/feed")
-
-keyt %>% filter(str_detect(item_description, "wind"))
-
-keyt %>% slice(1) %>% glimpse
 
 
 
