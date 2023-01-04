@@ -1,0 +1,19 @@
+---
+title: "Federal Firefighters Get Workplace Protections"
+source: "The Santa Barbara Independent"
+published_at: "2023-01-01"
+url: "https://www.independent.com/2023/01/01/federal-firefighters-get-workplace-protections/"
+description: "This fiscal year's Defense Authorization Act includes access to disability benefits.The post Federal Firefighters Get Workplace Protections appeared first on The Santa Barbara Independent."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

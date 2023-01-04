@@ -1,0 +1,19 @@
+---
+title: "Coast Seafoods proposed expansion of oyster beds, Feb. 2015"
+source: "Advocacy in Action - Humboldt Baykeeper"
+published_at: "2016-11-29"
+url: "https://www.humboldtbaykeeper.org/advocacy-in-action/71-comment-letters/1144-coast-seafoods-proposed-expansion-of-oyster-beds-feb-2015"
+description: "&nbsp;Coast Seafoods is the largest oyster grower in Humboldt Bay (and in California). They cuurently farm approximately 300 acres in Humboldt Bay, and have proposed an expansion project encompassing 622 acres.&nbsp;&nbsp;Click HERE for Humboldt Baykeeper's comments on the Initial Study.&nbsp;Click HERE for more info and comments on the Draft EIR and the recirculated Dratf EIR."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

@@ -1,0 +1,19 @@
+---
+title: "Brazil’s Lula welcomed back by Latin American leaders"
+source: "News Channel 3-12"
+published_at: "2023-01-02"
+url: "https://keyt.com/news/2023/01/02/brazils-lula-welcomed-back-by-latin-american-leaders/"
+description: "Brazil's Lula welcomed back by Latin American leadersThe post Brazil&#8217;s Lula welcomed back by Latin American leaders appeared first on News Channel 3-12."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

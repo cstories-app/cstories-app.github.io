@@ -1,0 +1,19 @@
+---
+title: "Baby Rose is first baby born in 2023 at Santa Barbara Cottage Hospital"
+source: "News Channel 3-12"
+published_at: "2023-01-02"
+url: "https://keyt.com/news/santa-barbara-s-county/2023/01/01/baby-rose-is-first-baby-born-in-2023-at-santa-barbara-cottage-hospital/"
+description: "SANTA BARBARA, Calif.-It is looking like a rosy year already for the Peters family. Por Soua and Grayson Peters of Goleta welcomed their firstborn at 3:33 a.m. on New Year's Day. They named her Rose. Rose was the first baby born at Santa Barbara Cottage Hospital in 2023. She weighed in at 6 pounds andThe post Baby Rose is first baby born in 2023 at Santa Barbara Cottage Hospital appeared first on News Channel 3-12."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

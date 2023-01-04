@@ -1,0 +1,19 @@
+---
+title: "At top of opera, Yoncheva worries about classical music"
+source: "News Channel 3-12"
+published_at: "2022-12-30"
+url: "https://keyt.com/news/2022/12/30/at-top-of-opera-yoncheva-worries-about-classical-music/"
+description: "At top of opera, Yoncheva worries about classical musicThe post At top of opera, Yoncheva worries about classical music appeared first on News Channel 3-12."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

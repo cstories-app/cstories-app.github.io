@@ -1,0 +1,19 @@
+---
+title: "Clam Beach state’s worst"
+source: "Press - Humboldt Baykeeper"
+published_at: "2017-06-23"
+url: "https://www.humboldtbaykeeper.org/news/press/1187-clam-beach-states-worst"
+description: "High bacteria levels in county watersheds trigger search for cause&nbsp;6/17/17Every year environmental scientists for Humboldt County take samples from the mouth of Strawberry Creek where freshwater meets saltwater on Clam Beach. For the last four years, the beach has made an environmental group’s “Beach Bummer list,” but this year it’s the most polluted beach on the annual report.Karen Vu, data analyst for Santa Monica-based Heal The Bay, said her organization receives data from the whole West Coast and that its annual beach report covers all the data collected over the last year.Vu said high amounts of bacteria could be potentially harmful to swimmers, who she cautioned to be mindful when going into riverways, because poor water quality can lead to infections and if consumed can cause intestinal problems.In the last three years, Clam Beach dropped in ratings from an “A” rating in 2013 to an “F” rating this year."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

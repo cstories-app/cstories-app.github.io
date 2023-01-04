@@ -1,0 +1,19 @@
+---
+title: "Mayes wins Arizona AG recount, Hamadeh won’t concede"
+source: "Santa Barbara News-Press"
+published_at: "2022-12-30"
+url: "https://newspress.com/mayes-wins-arizona-ag-recount-hamadeh-wont-concede/?utm_source=rss&utm_medium=rss&utm_campaign=mayes-wins-arizona-ag-recount-hamadeh-wont-concede"
+description: "By CAMERON ARCAND THE CENTER SQUARE CONTRIBUTOR (The Center Square) – An automatic recount confirmed Democrat&#8230;The post Mayes wins Arizona AG recount, Hamadeh won&#8217;t concede appeared first on Santa Barbara News-Press."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

@@ -1,0 +1,19 @@
+---
+title: "U.S. House committee releases Trump’s tax returns"
+source: "Santa Barbara News-Press"
+published_at: "2022-12-31"
+url: "https://newspress.com/u-s-house-committee-releases-trumps-tax-returns/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-house-committee-releases-trumps-tax-returns"
+description: "By TOM GANTERT THE CENTER SQUARE (The Center Square) &#8211; The House Ways and Means Committee&#8230;The post U.S. House committee releases Trump&#8217;s tax returns appeared first on Santa Barbara News-Press."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

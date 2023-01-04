@@ -1,0 +1,19 @@
+---
+title: "Bill Macfadyen: Renovated Hotel Ready for Check-In in Downtown Santa Barbara"
+source: "Noozhawk"
+published_at: "2022-12-30"
+url: "https://www.noozhawk.com/bill-macfadyen/"
+description: "Have you ever considered what you wouldn’t know about Santa Barbara County if you didn’t have Noozhawk? Local news is essential to a community, but it’s not guaranteed. Newsrooms throughout [&#8230;]The post Bill Macfadyen: Renovated Hotel Ready for Check-In in Downtown Santa Barbara appeared first on Noozhawk."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

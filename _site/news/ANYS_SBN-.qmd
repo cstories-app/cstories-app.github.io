@@ -1,0 +1,19 @@
+---
+title: "A New Year’s wish for Santa Barbara"
+source: "Santa Barbara News-Press"
+published_at: "2022-12-31"
+url: "https://newspress.com/a-new-years-wish-for-santa-barbara/?utm_source=rss&utm_medium=rss&utm_campaign=a-new-years-wish-for-santa-barbara"
+description: "By WENDY MCCAWNEWS-PRESS CO-PUBLISHER Santa Barbara, once the gem of the Central Coast, is deteriorating into&#8230;The post A New Year&#8217;s wish for Santa Barbara appeared first on Santa Barbara News-Press."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

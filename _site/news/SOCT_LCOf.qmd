@@ -1,0 +1,19 @@
+---
+title: "Sheriff's Office Confirms That Pine Hill Double Homicide Suspect is Now in Custody Following Today's High-Speed Chase up 101"
+source: "Lost Coast Outpost feed"
+published_at: "2022-12-28"
+url: "http://lostcoastoutpost.com/2022/dec/28/sheriffs-office-confirms-pine-hill-double-homicide/"
+description: "NA"
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

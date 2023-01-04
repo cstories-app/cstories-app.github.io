@@ -1,0 +1,19 @@
+---
+title: "Humboldt OES: Fernbridge Closed Again For Damage Assessment Following This Morning's 5.4 Shaker"
+source: "Lost Coast Outpost feed"
+published_at: "2023-01-01"
+url: "https://lostcoastoutpost.com/2023/jan/1/january-1-2023-new-years-day-m-54-earthquake/"
+description: "NA"
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

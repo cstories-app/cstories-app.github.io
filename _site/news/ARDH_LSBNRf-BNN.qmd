@@ -1,0 +1,19 @@
+---
+title: "'Atmospheric River' Dumps Heavy Rain, Snow Across California"
+source: "Latest Santa Barbara News RSS feed – Big News Network"
+published_at: "2023-01-01"
+url: "https://www.bignewsnetwork.com/news/273298992/atmospheric-river-dumps-heavy-rain-snow-across-california?utm_source=feeds.bignewsnetwork.com&utm_medium=referral"
+description: "SACRAMENTO, Calif. - A powerful storm brought drenching rain or heavy snowfall to much of California on Saturday, snarling traffic and closing highways as the state prepared to usher in a new year.In the high Sierra Nevada, as much as 2 feet (0.6 meters) of snow could accumulate into early Sunday. The National Weather Service in Sacramento warned about hazardous driving conditions and posted photos on Twitter sh"
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

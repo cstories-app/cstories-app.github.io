@@ -1,0 +1,19 @@
+---
+title: "Hobbs’ pick for top doc hints at shift from Ducey’s management of COVID pandemic"
+source: "Santa Barbara News-Press"
+published_at: "2022-12-30"
+url: "https://newspress.com/hobbs-pick-for-top-doc-hints-at-shift-from-duceys-management-of-covid-pandemic/?utm_source=rss&utm_medium=rss&utm_campaign=hobbs-pick-for-top-doc-hints-at-shift-from-duceys-management-of-covid-pandemic"
+description: "By CAMERON ARCAND THE CENTER SQUARE CONTRIBUTOR (The Center Square) – Gov.-Elect Katie Hobbs&#8217; selection of&#8230;The post Hobbs&#8217; pick for top doc hints at shift from Ducey&#8217;s management of COVID pandemic appeared first on Santa Barbara News-Press."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

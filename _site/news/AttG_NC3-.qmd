@@ -1,0 +1,19 @@
+---
+title: "Attorney General files intent to appeal judge’s bail ruling"
+source: "News Channel 3-12"
+published_at: "2022-12-30"
+url: "https://keyt.com/news/2022/12/30/attorney-general-files-intent-to-appeal-judges-bail-ruling/"
+description: "Attorney General files intent to appeal judge's bail rulingThe post Attorney General files intent to appeal judge&#8217;s bail ruling appeared first on News Channel 3-12."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

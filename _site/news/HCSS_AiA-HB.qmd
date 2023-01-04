@@ -1,0 +1,19 @@
+---
+title: "Humboldt County Septic System Regulations Update, March 2016"
+source: "Advocacy in Action - Humboldt Baykeeper"
+published_at: "2016-11-29"
+url: "https://www.humboldtbaykeeper.org/advocacy-in-action/71-comment-letters/1145-county-septic-system-regulations"
+description: "&nbsp;Humboldt County is updating its septic system regulations to comply with state requirements that will protect water quality.&nbsp;Cluck HERE to see our comments."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

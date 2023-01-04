@@ -1,0 +1,19 @@
+---
+title: "BOEM and NOAA Fisheries Announce Draft North Atlantic Right Whale and Offshore Wind Strategy"
+source: "Bureau of Ocean Energy Management"
+published_at: "NA"
+url: "https://www.boem.gov/newsroom/press-releases/boem-and-noaa-fisheries-announce-draft-north-atlantic-right-whale-and"
+description: "Announcement initiates 45-day public review and comment period."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

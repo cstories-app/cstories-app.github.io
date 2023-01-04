@@ -1,0 +1,19 @@
+---
+title: "Washington state electricity attacked by vandals, 14,000 without power"
+source: "Latest Santa Barbara News RSS feed – Big News Network"
+published_at: "2022-12-30"
+url: "https://www.bignewsnetwork.com/news/273289173/washington-state-electricity-attacked-by-vandals-14000-without-power?utm_source=feeds.bignewsnetwork.com&utm_medium=referral"
+description: "TACOMA, Washington: The Pierce County Sheriff's Department has said that three electrical substations were vandalized in Tacoma, Washington, leaving thousands of residents without power, affecting more than 14,000 customers.It was not yet clear if the Christmas Day incidents were linked, it added, noting that robberies were reported at two substations belonging to Tacoma Public Utilities and another belonging t"
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

@@ -1,0 +1,19 @@
+---
+title: "3 dead and 2 hurt after a scaffolding collapse in Charlotte"
+source: "News Channel 3-12"
+published_at: "2023-01-02"
+url: "https://keyt.com/news/2023/01/02/3-dead-and-2-hurt-after-a-scaffolding-collapse-in-charlotte/"
+description: "3 dead and 2 hurt after a scaffolding collapse in CharlotteThe post 3 dead and 2 hurt after a scaffolding collapse in Charlotte appeared first on News Channel 3-12."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

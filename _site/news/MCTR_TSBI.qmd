@@ -1,0 +1,19 @@
+---
+title: "Middle Class Tax Refund Help"
+source: "The Santa Barbara Independent"
+published_at: "2022-12-30"
+url: "https://www.independent.com/2022/12/30/middle-class-tax-refund-help/"
+description: "I am reaching out to share tips on the California Middle Class Tax Refund debit card. About half of eligibleThe post Middle Class Tax Refund Help appeared first on The Santa Barbara Independent."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

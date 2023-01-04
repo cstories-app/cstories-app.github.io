@@ -1,0 +1,19 @@
+---
+title: "Floods in Philippines leave 51 dead, over a dozen missing"
+source: "News Channel 3-12"
+published_at: "2023-01-02"
+url: "https://keyt.com/news/2023/01/01/floods-in-philippines-leave-51-dead-over-a-dozen-missing/"
+description: "Floods in Philippines leave 51 dead, over a dozen missingThe post Floods in Philippines leave 51 dead, over a dozen missing appeared first on News Channel 3-12."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

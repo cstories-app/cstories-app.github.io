@@ -1,0 +1,19 @@
+---
+title: "Suspected gas blast levels 2 homes, hurts 5 in Philadelphia"
+source: "News Channel 3-12"
+published_at: "2023-01-02"
+url: "https://keyt.com/news/2023/01/02/suspected-gas-blast-levels-2-homes-hurts-5-in-philadelphia/"
+description: "Suspected gas blast levels 2 homes, hurts 5 in PhiladelphiaThe post Suspected gas blast levels 2 homes, hurts 5 in Philadelphia appeared first on News Channel 3-12."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

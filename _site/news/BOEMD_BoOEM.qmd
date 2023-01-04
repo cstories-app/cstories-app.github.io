@@ -1,0 +1,19 @@
+---
+title: "BOEM Designates Two Wind Energy Areas in Gulf of Mexico"
+source: "Bureau of Ocean Energy Management"
+published_at: "NA"
+url: "https://www.boem.gov/newsroom/press-releases/boem-designates-two-wind-energy-areas-gulf-mexico"
+description: "Areas have potential to power nearly 3 million homes"
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

@@ -1,0 +1,19 @@
+---
+title: "Hydration can significantly impact your physical health, study finds"
+source: "News Channel 3-12"
+published_at: "2023-01-02"
+url: "https://keyt.com/health/2023/01/02/staying-hydrated-is-linked-to-lower-risk-for-disease-faster-aging-and-early-death-study-finds/"
+description: "Hydration can significantly impact your physical health, study findsThe post Hydration can significantly impact your physical health, study finds appeared first on News Channel 3-12."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

@@ -1,0 +1,19 @@
+---
+title: "TRAFFIC, CRIME AND FIRE BLOTTER"
+source: "Santa Barbara News-Press"
+published_at: "2022-12-30"
+url: "https://newspress.com/traffic-crime-and-fire-blotter-590/?utm_source=rss&utm_medium=rss&utm_campaign=traffic-crime-and-fire-blotter-590"
+description: "Death occurs after suspect taken into custody SANTA MARIA — Jaime Angel Gonzalez, 33, of Santa&#8230;The post TRAFFIC, CRIME AND FIRE BLOTTER appeared first on Santa Barbara News-Press."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

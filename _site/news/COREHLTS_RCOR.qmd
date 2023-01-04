@@ -1,0 +1,19 @@
+---
+title: "CORE Hub Learning Tour: Sue–meg State Park"
+source: "RedwoodCOREHub"
+published_at: "2022-10-13"
+url: "https://redwoodcorehub.org/core-hub-learning-tour-sue-meg-state-park/?utm_source=rss&utm_medium=rss&utm_campaign=core-hub-learning-tour-sue-meg-state-park"
+description: "In September 2022, members of the Redwood CORE Hub joined key community and philanthropic partners for a three day tour of the Pacific Redwoods Region to learn about the ecology, history, climate, and resilience of the area. The following is a recap of some of the highlights from the tour. Trinidad, CASpeakers: Victor Bjelajac, Superintendent, [&#8230;]"
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

@@ -1,0 +1,19 @@
+---
+title: "Parade: January 01, 2023"
+source: "Santa Barbara News-Press"
+published_at: "2023-01-01"
+url: "https://newspress.com/parade-january-01-2023/?utm_source=rss&utm_medium=rss&utm_campaign=parade-january-01-2023"
+description: "The post Parade: January 01, 2023 appeared first on Santa Barbara News-Press."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

@@ -1,0 +1,19 @@
+---
+title: "Humboldt County plans to use living shoreline to mitigate sea level rise between Brainard, Bracut"
+source: "Sea Level Rise - Humboldt Baykeeper"
+published_at: "2022-10-18"
+url: "https://www.humboldtbaykeeper.org/climate-change-impacts-sea-level-rise/1619-humboldt-county-plans-to-use-living-shoreline-to-mitigate-sea-level-rise-between-brainard-bracut-2"
+description: "The county is planning on mitigating the risks of sea level rise along a particularly vulnerable stretch of Highway 101 between Eureka and Arcata by restoring salt marsh.Restoring about 17 acres of salt marsh along a 1.25-mile stretch of Highway 101 between Brainard and Bracut would reduce the risk of flooding and the erosion of the shoreline for at least a century, Humboldt County Public Works Deputy Director Hank Seemann told the commissioners of the Humboldt Bay Harbor, Recreation and Conservation District on Thursday.“If sea level rise continues to accelerate, there would be some point in the future where the salt marsh could get flooded out, but our study concluded it would likely have benefits for several decades,” Seemann said.The Humboldt Bay Natural Shoreline Infrastructure Feasibility Study, which was completed in September, illustrated the most feasible designs and what the shoreline is expected to look like once the project is complete.Read More"
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

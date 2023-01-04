@@ -1,0 +1,19 @@
+---
+title: "Benedict aide’s tell-all book will expose ‘dark maneuvers’"
+source: "News Channel 3-12"
+published_at: "2023-01-02"
+url: "https://keyt.com/news/2023/01/02/benedict-aides-tell-all-book-will-expose-dark-maneuvers/"
+description: "Benedict aide's tell-all book will expose 'dark maneuvers'The post Benedict aide&#8217;s tell-all book will expose &#8216;dark maneuvers&#8217; appeared first on News Channel 3-12."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

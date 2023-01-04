@@ -1,0 +1,19 @@
+---
+title: "UPDATE: Suspect in double homicide pleads not guilty to all counts"
+source: "Times-Standard"
+published_at: "2022-12-30"
+url: "https://www.times-standard.com/2022/12/30/victims-of-humboldt-county-double-homicide-identified-suspect-faces-11-counts-in-case/"
+description: "Russell Albers faces 11 counts related to the double homicide earlier this week."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

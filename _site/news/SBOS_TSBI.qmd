@@ -1,0 +1,19 @@
+---
+title: "Santa Barbara’s Organic Soup Kitchen Partners with DoorDash to Expand Services"
+source: "The Santa Barbara Independent"
+published_at: "2022-12-30"
+url: "https://www.independent.com/2022/12/30/santa-barbaras-organic-soup-kitchen-partners-with-doordash-to-expand-services/"
+description: "The 13-year-old nonprofit is whipping up wider distribution for its nutrient-packed soups.The post Santa Barbara’s Organic Soup Kitchen Partners with DoorDash to Expand Services appeared first on The Santa Barbara Independent."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

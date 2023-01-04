@@ -1,0 +1,19 @@
+---
+title: "BOEM Seeks Public Comment on Proposed Guidance for Submission of Offshore Wind Project Plans"
+source: "Bureau of Ocean Energy Management"
+published_at: "NA"
+url: "https://www.boem.gov/newsroom/notes-stakeholders/boem-seeks-public-comment-proposed-guidance-submission-offshore-wind"
+description: "In order to increase transparency and consistency for the offshore wind industry, government partners and other key stakeholders, BOEM has published two sets of proposed guidelines for public comment. The proposed guidelines clarify the requirements that lessees must include in every Construction and Operation Plan (COP) before the agency will begin its formal environmental and technical reviews. During the 45-day public comment period, BOEM is seeking information from industry and other stakeholders regarding any clarifications or questions on the proposed guidelines: Guidance on Information..."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

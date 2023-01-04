@@ -1,0 +1,19 @@
+---
+title: "Lee Pickett: New Year’s Resolutions Help Pets Live Longer, Healthier Lives"
+source: "Noozhawk"
+published_at: "2022-12-30"
+url: "https://www.noozhawk.com/lee-pickett-new-years-resolutions-help-pets-live-longer-healthier-lives/"
+description: "Q: I love my dog, Jack, and my cat, Annie. They are important members of my family, and I want to keep them with me as long as possible. What [&#8230;]The post Lee Pickett: New Year’s Resolutions Help Pets Live Longer, Healthier Lives appeared first on Noozhawk."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

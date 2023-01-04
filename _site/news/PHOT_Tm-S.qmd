@@ -1,0 +1,19 @@
+---
+title: "PHOTOS | Shadow puppets highlight art of storytelling"
+source: "Times-Standard"
+published_at: "2022-12-30"
+url: "https://www.times-standard.com/2022/12/30/photos-shadow-puppets-highlight-art-of-storytelling/"
+description: "Shadow puppets were part of a recent library event."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

@@ -1,0 +1,19 @@
+---
+title: "Kimberly Palmer: How to prepare for your next emergency"
+source: "News Channel 3-12"
+published_at: "2023-01-02"
+url: "https://keyt.com/news/2023/01/02/kimberly-palmer-how-to-prepare-for-your-next-emergency/"
+description: "Kimberly Palmer: How to prepare for your next emergencyThe post Kimberly Palmer: How to prepare for your next emergency appeared first on News Channel 3-12."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

@@ -1,0 +1,19 @@
+---
+title: "KHUM In-Depth: Climate Change in Humboldt"
+source: "Press - Humboldt Baykeeper"
+published_at: "2017-07-26"
+url: "https://www.humboldtbaykeeper.org/news/press/1193-khum-in-depth-climate-change-in-humboldt"
+description: "7/21/17&nbsp;Here in Humboldt, we have front row seats for climate change. Sea level rise in one direction. Stronger and more frequent wildfires in the other. Responses are all over the spectrum from President Trump withdrawing the U.S. from the Paris Climate Accord to Governor Brown saying&nbsp;“California is all-in on de-carbonizing our economy.” &nbsp;In this installment of KHUM In Depth, we talk with experts and local community members who are working to&nbsp;assess&nbsp;how Humboldt will be affected by climate change and what we could and should be doing about it now.&nbsp;We talk with environmental engineer, former Harbor District Commissioner&nbsp;and current&nbsp;County Supervisor Mike Wilson as well as Humboldt Baykeeper’s Jennifer Kalt about challenges we face along the populated coast when it comes to sea level rise.&nbsp; Janet Upton of Cal Fire tells us from her Sacramento office how hotter, dryer summers have changed the wildfire landscape in California and what the state is doing to address these changes.&nbsp; Climate Vulnerability Assessment&nbsp;expert and lecturer&nbsp;at Humboldt State University, Michael Furniss, speaks about steps we are taking on the local and state level to curb carbon emissions.&nbsp; We also talk with Katie Gurin from our local chapter of&nbsp;350.org&nbsp;about the organization’s focus in combating climate related issues in our community.&nbsp;"
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

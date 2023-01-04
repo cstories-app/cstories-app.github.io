@@ -1,0 +1,19 @@
+---
+title: "Nevada rent prices see greatest decline nationwide, report shows"
+source: "Santa Barbara News-Press"
+published_at: "2022-12-30"
+url: "https://newspress.com/nevada-rent-prices-see-greatest-decline-nationwide-report-shows/?utm_source=rss&utm_medium=rss&utm_campaign=nevada-rent-prices-see-greatest-decline-nationwide-report-shows"
+description: "By KATELYNN RICHARDON THE CENTER SQUARE CONTRIBUTOR (The Center Square) – Nevada experienced the greatest year-over-year&#8230;The post Nevada rent prices see greatest decline nationwide, report shows appeared first on Santa Barbara News-Press."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

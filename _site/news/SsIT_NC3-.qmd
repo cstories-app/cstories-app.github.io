@@ -1,0 +1,19 @@
+---
+title: "Suspect in the Idaho college student killings plans to waive extradition at Tuesday hearing, attorney says"
+source: "News Channel 3-12"
+published_at: "2023-01-02"
+url: "https://keyt.com/news/2023/01/02/suspect-in-the-idaho-college-student-killings-plans-to-waive-extradition-hearing-attorney-says-2/"
+description: "Suspect in the Idaho college student killings plans to waive extradition at Tuesday hearing, attorney saysThe post Suspect in the Idaho college student killings plans to waive extradition at Tuesday hearing, attorney says appeared first on News Channel 3-12."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

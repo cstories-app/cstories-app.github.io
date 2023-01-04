@@ -1,0 +1,19 @@
+---
+title: "BOEM Advances Review for Two Proposed Wind Projects Off Atlantic Coast"
+source: "Bureau of Ocean Energy Management"
+published_at: "NA"
+url: "https://www.boem.gov/newsroom/press-releases/boem-advances-review-two-proposed-wind-projects-atlantic-coast"
+description: "Seeks Input on Draft Environmental Impact Statement."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

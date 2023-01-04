@@ -1,0 +1,19 @@
+---
+title: "County addresses pollution concerns"
+source: "Press - Humboldt Baykeeper"
+published_at: "2017-11-18"
+url: "https://www.humboldtbaykeeper.org/news/press/1208-county-addresses-pollution-concerns"
+description: "&nbsp;11/15/17&nbsp;County staff has responded to concerns about potential onsite wastewater system impacts to impaired watersheds in the Clam/Moonstone Beach area, saying a mix of public outreach and monitoring will address them.&nbsp;The impacts relate to elevated fecal coliform levels at Luffenholtz Beach, Clam Beach, Trinidad State Beach and Moonstone Beach, which were listed as impaired in 2013. Other watercourses, including Little River, Widow White Creek, Strawberry Creek, Campbell Creek and Jolly Giant Creek were added to the impaired list in 2015.&nbsp;&nbsp;Whether the areas added later will be adequately addressed was discussed during the Nov. 7 Board of Supervisors meeting. Supervisors considered the county’s Local Agency Management Program (LAMP), which outlines how state onsite treatment standards will be complied with.&nbsp;During the discussion, Supervisor Mike Wilson noted that Humboldt Baykeeper has commented on the county program’s lack of specific inclusion of the water bodies added in 2015.&nbsp;&nbsp;State standards cite 600-foot wastewater system setbacks from impaired water bodies but there’s some leeway. Carolyn Hawkins of the county’s Department of Environmental Health said the county proposes to monitor feeder streams – such as those from the 2015 list – instead of requiring the setbacks.&nbsp;Read More"
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

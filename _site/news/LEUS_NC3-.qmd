@@ -1,0 +1,19 @@
+---
+title: "Looted ancient sarcophagus returned to Egypt from US"
+source: "News Channel 3-12"
+published_at: "2023-01-02"
+url: "https://keyt.com/news/2023/01/02/looted-ancient-sarcophagus-returned-to-egypt-from-us/"
+description: "Looted ancient sarcophagus returned to Egypt from USThe post Looted ancient sarcophagus returned to Egypt from US appeared first on News Channel 3-12."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

@@ -1,0 +1,19 @@
+---
+title: "Mexican authorities find strange holiday package: 4 skulls"
+source: "News Channel 3-12"
+published_at: "2022-12-30"
+url: "https://keyt.com/news/2022/12/30/mexican-authorities-find-strange-holiday-package-4-skulls/"
+description: "Mexican authorities find strange holiday package: 4 skullsThe post Mexican authorities find strange holiday package: 4 skulls appeared first on News Channel 3-12."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

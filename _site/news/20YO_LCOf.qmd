@@ -1,0 +1,19 @@
+---
+title: "20-Year-Old Gets Seven-Year Prison Sentence for Fourth of July Wine Bottle Attack"
+source: "Lost Coast Outpost feed"
+published_at: "2022-12-29"
+url: "http://lostcoastoutpost.com/2022/dec/29/20-year-old-gets-seven-years-prison-fourth-july-wi/"
+description: "NA"
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

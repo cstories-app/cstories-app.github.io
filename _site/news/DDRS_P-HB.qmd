@@ -1,0 +1,19 @@
+---
+title: "Dredge Dumping Redux! Samoa Beach Proposed for Sludge Disposal Once Again"
+source: "Press - Humboldt Baykeeper"
+published_at: "2017-03-02"
+url: "https://www.humboldtbaykeeper.org/news/press/1167-dredge-dumping-redux-samoa-beach-proposed-for-sludge-disposal-once-again"
+description: "&nbsp;2/28/17&nbsp;Nearly a decade ago, a lack of planning combined with a dire need for dredging in Humboldt Bay erupted into controversy. While everyone agreed the channels needed to be cleared, the proposed dumping of dredge material on Samoa Beach divided the community with fishermen on one side and recreational beach goers on the other.&nbsp;Today we find ourselves in almost the exact same situation. Dredging of Humboldt Bay has once again become an undeniably urgent matter, and Samoa Beach has once again been proposed as the best disposal option. Unfortunately, despite having 10 years to find a long-term solution, the Humboldt Bay Harbor District and City of Eureka are just beginning to present to the public options for disposing of dredge spoils from their marinas.&nbsp;Back in 2007, the Harbor District insisted on ignoring EPA guidance and instead asked to dump 200,000 cubic yards of bay sludge on Samoa Beach a popular surf spot and access point known as “Power Poles.” Due to the state of emergency the district had allowed to happen, the California Coastal Commission reluctantly approved the pumping of bay mud through a pipe over the dunes, where it spewed out onto Samoa Beach. But the Commission, along with the U.S. EPA and California Dept. of Fish &amp; Wildlife, made clear that any future projects must be better planned and that a similar project would not be a viable option. In 2008, the Coastal Commission reasserted this stance (No dredge spoils on beach, agency insists – Eureka Times-Standard).&nbsp;With so much disapproval from permitting agencies and the public last time around, why is Samoa Beach even being considered an option for dumping again? In his presentation to the Eureka City Council on Tuesday, Eureka Parks and Recreation Director Miles Slattery described Samoa Beach as being “the best option” for disposal due to the comparatively low cost, its ability to accommodate high volumes of dredge material and being the “least environmentally damaging feasible alternative.” He also briefly described other possible locations for the dredge spoils, including:Using it as fill for wetland restoration projects,Open ocean disposal at the approved site three miles offshore,Flow-lane” disposal,Ocean disposal through the Redwood Marine Terminal’s 1½ mile long outfall,Upland disposal at one of two sites on the North Spit,And the temporary outfall at Samoa Beach.“Some progress has been made since 2007 – the Harbor District now owns a dredge and the ocean outfall at the former pulp mill. But much more needs to be done to develop a long-term solution,” said Jennifer Kalt, Director of Humboldt Baykeeper. “Putting forward a plan to dump spoils on Samoa Beach yet again was premature, since the permitting agencies have not yet been consulted.”&nbsp;Read Entire Article"
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

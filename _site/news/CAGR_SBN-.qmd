@@ -1,0 +1,19 @@
+---
+title: "California’s AG Rob Bonta joins 19 states in support of ATF ‘ghost gun’ rule"
+source: "Santa Barbara News-Press"
+published_at: "2022-12-30"
+url: "https://newspress.com/californias-ag-rob-bonta-joins-19-states-in-support-of-atf-ghost-gun-rule/?utm_source=rss&utm_medium=rss&utm_campaign=californias-ag-rob-bonta-joins-19-states-in-support-of-atf-ghost-gun-rule"
+description: "By RIA ROEBUCK JOSEPH THE CENTER SQUARE CONTRIBUTOR (The Center Square) &#8211; Nineteen attorneys general including&#8230;The post California’s AG Rob Bonta joins 19 states in support of ATF &#8216;ghost gun&#8217; rule appeared first on Santa Barbara News-Press."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

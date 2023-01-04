@@ -1,0 +1,19 @@
+---
+title: "Sea Level Rise Threatens Humboldt, Local Government Stalls"
+source: "Sea Level Rise - Humboldt Baykeeper"
+published_at: "2022-11-17"
+url: "https://www.humboldtbaykeeper.org/climate-change-impacts-sea-level-rise/1632-sea-level-rise-threatens-humboldt-local-government-stalls-2"
+description: "The edges of Humboldt Bay are on the verge of being overrun by the sea. It laps at the boundaries of Highway 101, surrounds the Arcata Marsh, and sneaks around the corners of low-lying industrial areas in Eureka.&nbsp;SINKING SHORELINEHumboldt’s location at the end of the Cascadia Subduction Zone makes the area more vulnerable to sea level rise than any other location on the California coast. Due to its position in a very active tectonic area and the specific activity of the surrounding plates, the Humboldt County region is steadily sinking, or subsiding.&nbsp;The Humboldt Bay Vertical Reference System Working Group is a research group focused on identifying geology’s role in Humboldt Bay sea level rise. In a 2017 report, they found that land subsidence contributes to sea level rise 2 to 3 times more in Humboldt County than anywhere else in California. Of the 18 inch rise in sea levels that has occurred locally in the past century, an estimated 50% is due to tectonic subsidence.“The ocean isn’t rising any faster off of our coast than it is down in San Francisco, but we have subsidence that the rest of California doesn’t have,” said environmental planning consultant Aldaron Laird.&nbsp;"
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

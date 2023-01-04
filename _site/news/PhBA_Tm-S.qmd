@@ -1,0 +1,19 @@
+---
+title: "Photos: Bay Area storm flooding traps drivers, forces evacuations"
+source: "Times-Standard"
+published_at: "2023-01-02"
+url: "https://www.times-standard.com/2023/01/01/photos-bay-area-storm-flooding-traps-drivers-forces-evacuations/"
+description: "Photos of flooding and damage caused by the atmospheric river storm that dumped as much as 7 inches of rain on the Bay Area."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

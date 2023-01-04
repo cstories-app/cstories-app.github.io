@@ -1,0 +1,19 @@
+---
+title: "Navy veteran, Fortuna business founder honored as Humboldt Hero"
+source: "Times-Standard"
+published_at: "2023-01-02"
+url: "https://www.times-standard.com/2023/01/02/navy-veteran-fortuna-business-founder-honored-as-humboldt-hero/"
+description: ""Humbled" and "overwhelmed" is how U.S. Navy Veteran Bill Hummel described his feelings about being recognized as Humboldt’s Hero of the Month, by Eureka State Farm Agent Scott Hammond."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

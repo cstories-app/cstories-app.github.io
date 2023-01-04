@@ -1,0 +1,19 @@
+---
+title: "CSU Fullerton hosts UCSB after Mitchell&#39;s 22-point game - Basketball - kdhnews.com"
+source: "Latest Santa Barbara News RSS feed – Big News Network"
+published_at: "2022-12-30"
+url: "https://news.google.com/__i/rss/rd/articles/CBMihwFodHRwczovL2tkaG5ld3MuY29tL3Nwb3J0cy9uYmEvY3N1LWZ1bGxlcnRvbi1ob3N0cy11Y3NiLWFmdGVyLW1pdGNoZWxscy0yMi1wb2ludC1nYW1lL2FydGljbGVfYWUxMDQ5OTEtOTVhYi01MDY0LThhMGYtMDhiZTQ0YmYyMjU5Lmh0bWzSAQA?oc=5"
+description: "CSU Fullerton hosts UCSB after Mitchell&#39;s 22-point game The Killeen Daily Herald"
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

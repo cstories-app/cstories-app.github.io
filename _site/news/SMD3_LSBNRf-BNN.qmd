@@ -1,0 +1,19 @@
+---
+title: "Santa Maria neighbors for December 30 - santamariatimes.com"
+source: "Latest Santa Barbara News RSS feed – Big News Network"
+published_at: "2022-12-30"
+url: "https://santamariatimes.com/news/local/santa-maria-neighbors-obituaries-for-december-30/collection_4249fbf6-0b04-5b57-9327-4abd78bdc2ae.html"
+description: "Read through the obituaries published in Santa Maria Times"
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

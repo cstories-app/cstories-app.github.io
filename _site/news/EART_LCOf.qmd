@@ -1,0 +1,19 @@
+---
+title: "EARTHQUAKE! 5.4 magnitude, 15km SE of Rio Dell, CA"
+source: "Lost Coast Outpost feed"
+published_at: "2023-01-01"
+url: "http://lostcoastoutpost.com/quakes/detail/3145/"
+description: "NA"
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

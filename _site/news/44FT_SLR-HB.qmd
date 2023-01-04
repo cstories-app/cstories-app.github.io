@@ -1,0 +1,19 @@
+---
+title: "44 Feet: The de-facto nuclear waste site on the edge of Humboldt Bay and one group's efforts toward an atomic-ally correct future"
+source: "Sea Level Rise - Humboldt Baykeeper"
+published_at: "2022-09-15"
+url: "https://www.humboldtbaykeeper.org/climate-change-impacts-sea-level-rise/69-in-the-news/1607-44-feet-the-de-facto-nuclear-waste-site-on-the-edge-of-humboldt-bay-and-one-group-s-efforts-toward-an-atomic-ally-correct-future-2"
+description: "Forty-four feet isn't all that high. It's halfway up the tall side of the county courthouse. If you stacked Guy Fieri seven-and-a-half times on top of himself, his platinum blond hair would reach 44 feet high. Forty-four feet is also the height above today's sea level where 37 tons of radioactive waste from the former PG&amp;E Humboldt Bay power plant is entombed in a concrete vault at the edge of the bay. A new coalition called, you guessed it, 44 Feet has brought together state agencies, federal and local political interests, scientists, a few folks with no titles at all and, to some extent, the nuclear plant's owner, PG&amp;E. Like nanoplastics and deep-fried butter, most of us do not want to think about radioactive waste stored nearby, but 44 Feet is trying to plan for its future safety, even if that future is 100,000 years away.PG&amp;E's old nuclear power plant sat next to U.S. Highway 101 at King Salmon. It ran a brief and ignominiously leaky life from 1963 to 1976. Still, it produced high-level radioactive waste from the uranium fuel it used to create electricity. The radioactivity has cooled somewhat in the intervening years, but it will remain hot and toxic for more than 100,000 years.Read More&nbsp;"
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

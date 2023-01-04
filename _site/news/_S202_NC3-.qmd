@@ -1,0 +1,19 @@
+---
+title: "Start 2023 at the Cambria light show"
+source: "News Channel 3-12"
+published_at: "2022-12-30"
+url: "https://keyt.com/news/san-luis-obispo-county/2022/12/30/start-2023-at-the-cambria-light-show/"
+description: "The Cambria Christmas Market may be closed for the season, but the community can ring in the new year with "lights-only" nights featuring over two million twinkling lights on display. The post Start 2023 at the Cambria light show appeared first on News Channel 3-12."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

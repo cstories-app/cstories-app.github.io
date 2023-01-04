@@ -1,0 +1,19 @@
+---
+title: "California Today: Surf, Sun and Bacteria"
+source: "Press - Humboldt Baykeeper"
+published_at: "2017-06-29"
+url: "https://www.humboldtbaykeeper.org/news/press/1188-california-today-surf-sun-and-bacteria"
+description: "6/27/17&nbsp;Heal the Bay, an environmental nonprofit, recently issued its annual report card for bacterial pollution at more than 400 beaches along the Pacific Coast.&nbsp;During the dry days of summer last year, the vast majority of California beaches had excellent grades.&nbsp;But winter was a different story. As record rainfall swept through the state’s cityscapes and pushed billions of gallons of runoff out to sea, water quality plummeted.&nbsp;“It’s indicative of a water mismanagement issue in California,” she said. “If we were doing a better job of rethinking that runoff we could turn it from a nuisance into a resource.”&nbsp;Humboldt County’s Clam Beach, which is fed by two creeks, was named California’s most polluted beach by Heal the Bay.&nbsp;The problem there has vexed local environmentalists who cite a panoply of possible causes: bird poop, campground toilets, old septic systems, livestock and more.&nbsp;“There’s no shortage of theories,” said Jennifer Kalt, the director of Humboldt Baykeeper, an environmental group.&nbsp;Better understood is that bacterial pollution rises sharply immediately after a rain, then typically goes right back to normal. That’s why health experts recommend beachgoers wait three days to enter the ocean after a storm.&nbsp;“I think oftentimes people think kids just get diarrhea or stomach aches for other reasons,” Ms. Kalt said. “But studies have shown that it’s often correlated with rainfall. If it rains one day and then the next day it’s sunny, people don’t really give it much thought.”&nbsp;Read Entire Article"
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

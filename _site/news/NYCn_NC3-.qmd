@@ -1,0 +1,19 @@
+---
+title: "NYC nurses, hospitals resume contract talks; some reach pact"
+source: "News Channel 3-12"
+published_at: "2023-01-02"
+url: "https://keyt.com/news/2023/01/02/nyc-nurses-hospitals-resume-contract-talks-some-reach-pact/"
+description: "NYC nurses, hospitals resume contract talks; some reach pactThe post NYC nurses, hospitals resume contract talks; some reach pact appeared first on News Channel 3-12."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

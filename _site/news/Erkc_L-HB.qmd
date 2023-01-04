@@ -1,0 +1,19 @@
+---
+title: "Eureka council approves water, sewage rate increase"
+source: "Latest - Humboldt Baykeeper"
+published_at: "2022-12-22"
+url: "https://www.humboldtbaykeeper.org/news/latest/1646-eureka-council-approves-water-sewage-rate-increase"
+description: "On Monday evening, the Eureka City Council unanimously voted to approve water and sewer rate increases.Over the next five years, water rates will go up by 8 to 10% each year, an overall increase of 58%. In the same timeline, sewer rates will jump from 4 to 10% per year for a total increase of 34%. The rate increases come in the wake of capital improvement program costs, and after some discussion, councilmembers more or less resigned themselves to approving the rate hike, citing a lack of other options.Councilmember Scott Bauer noted that several cities, facing rate increases, privatized their water and sewer systems to disastrous effect.“There is no good alternative, look at Flint (Michigan),” Bauer said. “It’s a bummer that the can has been kicked for decades, I feel like it has, but as Councilmember (Natalie) Arroyo said, water is life and sewer systems are critical to not having things like cholera and the diseases that struck cities centuries ago.”Eureka Public Works Director Brian Gerving said, “If we were not to enact these rates or adopt some rate structure that is less than this, then the two alternatives would be either don’t incur the same capital expenditures, which in most cases is not a feasible option,” Gerving said. “In the case of wastewater, with the regulations that we’re facing and the consent decree that we’ve entered into with Ecological Rights Foundation, those are non-negotiable items. And on the water side, just from the standpoint of ensuring we safely deliver water to our customers, it’s also non-negotiable.”Read More"
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

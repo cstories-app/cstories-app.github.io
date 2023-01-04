@@ -1,0 +1,19 @@
+---
+title: "Germany condemns New Year’s attacks on fire, police officers"
+source: "News Channel 3-12"
+published_at: "2023-01-02"
+url: "https://keyt.com/news/2023/01/02/germany-condemns-new-years-attacks-on-fire-police-officers/"
+description: "Germany condemns New Year's attacks on fire, police officersThe post Germany condemns New Year&#8217;s attacks on fire, police officers appeared first on News Channel 3-12."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

@@ -1,0 +1,19 @@
+---
+title: "Humboldt Waste Management Authority settles with Humboldt Baykeeper in bay pollution lawsuit"
+source: "Press - Humboldt Baykeeper"
+published_at: "2017-11-20"
+url: "https://www.humboldtbaykeeper.org/news/press/1210-humboldt-waste-management-authority-settles-with-humboldt-baykeeper-in-bay-pollution-lawsuit"
+description: "11/19/17 - Humboldt Baykeeper and the Humboldt Waste Management Authority recently reached a settlement agreement in a federal lawsuit that claimed the waste company was allowing polluted stormwater to enter Humboldt Bay and the Palco Marsh. Humboldt Baykeeper’s pollution claims contested a November 2016 inspection by the North Coast Regional Water Quality Control Board..."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

@@ -1,0 +1,19 @@
+---
+title: "Mitchell, Pierre-Louis Lead Gauchos In Big West Win Over Titans - UC Santa Barbara"
+source: "Latest Santa Barbara News RSS feed – Big News Network"
+published_at: "2022-12-30"
+url: "http://www.ucsbgauchos.com/sports/m-baskbl/2022-23/releases/202212301hr0t8"
+description: "UC Santa Barbara Men&#39;s Basketball defeats Cal State Fullerton 66-58 on the road."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+

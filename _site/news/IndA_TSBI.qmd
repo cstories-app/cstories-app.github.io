@@ -1,0 +1,19 @@
+---
+title: "Industrial Aquaculture"
+source: "The Santa Barbara Independent"
+published_at: "2022-12-30"
+url: "https://www.independent.com/2022/12/30/industrial-aquaculture/"
+description: "I may not be an expert scuba diver, but my experiences under the surface — especially off the Central California coast — have definitely highlighted the importance of ocean conservation for me.The post Industrial Aquaculture appeared first on The Santa Barbara Independent."
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+
