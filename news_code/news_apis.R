@@ -2,17 +2,9 @@
 # Jonathan Zadra
 # 12/2/22
 
-
 # Setup -------------------------------------------------------------------
-
-
-library(tidyverse)
-library(integral)
-library(httr2)
-library(rrapply)
-library(janitor)
-library(fs)
-library(lubridate)
+librarian::shelf(
+  IntegralEnvision/integral, fs, httr2, janitor, lubridate, rrapply, tidyverse)
 
 # Functions ---------------------------------------------------------------
 
