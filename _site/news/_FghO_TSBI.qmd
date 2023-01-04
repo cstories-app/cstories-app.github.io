@@ -3,7 +3,7 @@ title: "Fightin’ Okra"
 source: "The Santa Barbara Independent"
 published_at: "2022-12-31"
 url: "https://www.independent.com/2022/12/31/fightin-okra/"
-description: "Thanks for the thoughtful article regarding possible team names, "What's in a Name?"The post Fightin&#8217; Okra appeared first on The Santa Barbara Independent."
+description: "Thanks for the thoughtful article regarding possible team names, \"What's in a Name?\"The post Fightin&#8217; Okra appeared first on The Santa Barbara Independent."
 image: "news_code/rss_img.png"
 ---
 

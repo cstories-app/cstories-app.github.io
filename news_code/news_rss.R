@@ -1,13 +1,5 @@
-library(tidyverse)
-library(integral)
-library(janitor)
-library(tidyRSS)
-library(lubridate)
-library(textclean)
-library(fs)
-library(cli)
-library(crayon)
-
+librarian::shelf(
+  cli, crayon, integral, fs, janitor, lubridate, textclean, tidyRSS, tidyverse)
 
 # Functions ---------------------------------------------------------------
 
@@ -122,6 +114,9 @@ create_rss_qmds <- function(rss_items, output_dir = "news") {
            description = item_description,
            image,
            rss_id) %>%
+    mutate(
+      description = description %>%
+        stringr::str_replace_all('"', '\\"')) %>%
     pivot_longer(-rss_id) %>%
     mutate(value = paste0("\"", value, "\"")) %>%
     unite(col = yaml, name, value, sep = ": ") %>%
