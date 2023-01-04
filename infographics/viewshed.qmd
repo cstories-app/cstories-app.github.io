@@ -2,11 +2,60 @@
 title: "Viewshed"
 image: "../images/infographic/map-viewshed-pts.jpg"
 description: "How will wind turbines affect your view?"
+format:
+  html:
+    toc: true
+# https://github.com/quarto-ext/lightbox
+# quarto install extension quarto-ext/lightbox
+filters:
+ - lightbox
+lightbox: auto
 editor_options: 
   chunk_output_type: console
 ---
 
+# Images
+
+Click images to make bigger.
+
 ::: panel-tabset
+
+## Humboldt
+
+::::: panel-tabset
+
+### Perspective
+
+![Perspective of panoramic visual simulation of the Humboldt Offshore Wind Energy Area from Sue-Meg (Patrick’s Point State Park)](/images/infographic/Viewshed_Infographic/Slide3.jpeg)
+
+### Simulation
+
+![Panoramic visual simulation of the Humboldt Offshore Wind Energy Area from Sue-Meg (Patrick’s Point State Park) at 9:00 am](/images/infographic/Viewshed_Infographic/Slide4.jpeg)
+
+::::: 
+
+## Morro Bay
+
+::::: panel-tabset
+
+### Perspective
+
+![Panoramic visual simulation of the Morro Bay Offshore Wind Energy Area from Piedras Blancas](/images/infographic/Viewshed_Infographic/Slide6.jpeg)
+
+### Simulation
+
+![Panoramic visual simulation of the Morro Bay Offshore Wind Energy Area from Piedras Blancas at 9:00 am](/images/infographic/Viewshed_Infographic/Slide7.jpeg)
+
+::::: 
+
+:::
+
+# Maps
+
+Zoom and pan in the map.
+
+::: panel-tabset
+
 ## Overview
 
 ```{r}
@@ -24,7 +73,7 @@ d %>%
     lng   = ~lon,
     lat   = ~lat,
     label = ~location,
-    popup = ~glue("TODO: {region}, {location}"))
+    popup = ~glue("{region}, {location}"))
 ```
 
 ## Humboldt
@@ -56,4 +105,7 @@ d %>%
     label = ~location,
     popup = ~glue("TODO: {region}, {location}"))
 ```
+
 :::
+
+
