@@ -19,7 +19,7 @@ d <- read_csv(
 
 d %>% 
   leaflet() %>%
-  addProviderTiles(providers$Esri.OceanBasemap) %>% 
+  addProviderTiles(providers$Esri.NatGeoWorldMap) %>% 
   addMarkers(
     lng   = ~lon,
     lat   = ~lat,
