@@ -3,7 +3,7 @@ title: "Business Sense | Four trends to watch for in 2023"
 source: "Times-Standard"
 published_at: "2023-01-01"
 url: "https://www.times-standard.com/2023/01/01/business-sense-four-trends-to-watch-for-in-2023/"
-description: ""2023 will be a momentous year for Humboldt County’s economy. Here are four developments I’ll be watching," Michael Kraft writes in Business Sense."
+description: "\"2023 will be a momentous year for Humboldt County’s economy. Here are four developments I’ll be watching,\" Michael Kraft writes in Business Sense."
 image: "news_code/rss_img.png"
 ---
 
