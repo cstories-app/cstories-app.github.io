@@ -1,0 +1,19 @@
+---
+title: "The Sea Also Rises: Humboldt County Grand Jury Report on Sea Level Rise"
+source: "Sea Level Rise - Humboldt Baykeeper"
+published_at: "2022-06-25"
+url: "https://www.humboldtbaykeeper.org/climate-change-impacts-sea-level-rise/69-in-the-news/1580-the-sea-also-rises-humboldt-county-grand-jury-report-on-sea-level-rise"
+description: "The Humboldt County Grand Jury's report is an excellent overview of how sea level rise will impact the Humboldt Bay Area. In plain language that's easy to understand, the report discusses the current understanding of the problems our region will face in the coming decades. It also identifies obstacles to \"adaptation planning,\" or how we will adapt to lessen the impacts on people, highways, sewer plants and pipelines, electrical transmission and water lines, low-lying contaminated sites, etc. We need to start planning now so we can take action before these situations become emergencies, putting public health, safety, and the environment at risk.Below are some excerpts:Most people think of SLR as a problem when barriers get overtopped. They often overlook inundation that occurs when water seeps through the barriers. Few realize that even with well-maintained barriers, sea water will permeate through the barriers and intrude into the ground water on the other side. This process is known as salt water intrusion and must be considered when protecting our threatened areas.The Grand Jury believes SLR planning needs to be a priority among all elected officials in the County. The County of Humboldt; the cities of Arcata and Eureka; and the Humboldt Bay Harbor, Recreation, and Conservation District should formally state their immediate and continuous support for, and commitment to, SLR mitigation and adaptation efforts.&nbsp;Read More&nbsp;"
+image: "news_code/rss_img.png"
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}})
+  
+
