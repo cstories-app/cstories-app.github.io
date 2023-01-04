@@ -34,7 +34,7 @@ d %>%
   filter(
     region == "Humboldt") %>%
   leaflet() %>%
-  addProviderTiles(providers$Esri.OceanBasemap) %>% 
+  addProviderTiles(providers$Esri.NatGeoWorldMap) %>% 
   addMarkers(
     lng   = ~lon,
     lat   = ~lat,
@@ -49,7 +49,7 @@ d %>%
   filter(
     region == "Morro Bay") %>% 
   leaflet() %>%
-  addProviderTiles(providers$Esri.OceanBasemap) %>% 
+  addProviderTiles(providers$Esri.NatGeoWorldMap) %>% 
   addMarkers(
     lng   = ~lon,
     lat   = ~lat,
