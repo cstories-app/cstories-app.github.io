@@ -1,7 +1,7 @@
 # libraries ----
 librarian::shelf(
   dplyr, fs, glue, here, purrr, quarto, readr,
-  multidplyr, parallel) # run in parallel on multiple CPUs
+  multidplyr, parallel, furrr) # run in parallel on multiple CPUs
 
 # paths ----
 dir_qmd <- here("news")
@@ -66,6 +66,8 @@ d <- tibble(
   mutate(
     isok = map_lgl(qmd, qmd_isok, log_csv = log_csv))
 
+
+
 # write out bad qmds ----
 d %>%
   filter(!isok) %>%
@@ -82,3 +84,12 @@ read_csv(qmd_csv, show_col_types = F) %>%
   pwalk(
     function(qmd, qmd_new, ...)
       file_move(qmd, qmd_new) )
+
+
+
+#Using furrr ----
+plan(multisession)
+d <- tibble(
+  qmd = dir_ls(dir_qmd, glob = "*.qmd")) %>%
+  mutate(
+    isok = future_map_lgl(qmd, qmd_isok, log_csv = log_csv))
