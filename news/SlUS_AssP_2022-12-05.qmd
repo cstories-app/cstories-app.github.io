@@ -1,14 +1,16 @@
 ---
 source: "Associated Press"
 author: "By GILLIAN FLACCUS - Associated Press"
-title: "Sale jumpstarts floating, offshore wind power in US waters"
-description: "Tuesday marks the first-ever U.S. auction for leases to develop commercial-scale floating wind farms in the deep waters off the West Coast. The live, online auction for the five leases — three off California’s central coast and two off its…"
+title: >
+  Sale jumpstarts floating, offshore wind power in US waters
+description: >
+  Tuesday marks the first-ever U.S. auction for leases to develop commercial-scale floating wind farms in the deep waters off the West Coast. The live, online auction for the five leases — three off California’s central coast and two off its…
 url: "https://apnews.com/82bb858c275f3dbb13852522fdf5b680"
 image: "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/a/47/a47b360a-a875-5135-bc1d-7ae3f7752544/638e1a4b2083f.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-published_at: "2022-12-05"
-content: "By GILLIAN FLACCUS - Associated Press
-PORTLAND, Ore. (AP) Tuesday marks the first-ever U.S. auction of leases to develop commercial-scale floating wind farms, in the deep waters off the West Coast.… [+7507 chars]"
-search_timestamp: "2022-12-28"
+published_at: 2022-12-05
+content: >
+  By GILLIAN FLACCUS - Associated Press  PORTLAND, Ore. (AP) Tuesday marks the first-ever U.S. auction of leases to develop commercial-scale floating wind farms, in the deep waters off the West Coast. … [+7507 chars]
+search_timestamp: 2022-12-28
 terms: "Humboldt"
 ---
 

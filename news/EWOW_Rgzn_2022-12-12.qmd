@@ -1,14 +1,16 @@
 ---
 source: "Rigzone"
 author: "Eldina Jahic"
-title: "Equinor Wins Offshore Wind Lease In California"
-description: "Equinor was one of the provisional winners of an offshore wind lease area on the Outer Continental Shelf off California."
+title: >
+  Equinor Wins Offshore Wind Lease In California
+description: >
+  Equinor was one of the provisional winners of an offshore wind lease area on the Outer Continental Shelf off California.
 url: "https://www.rigzone.com/news/equinor_wins_offshore_wind_lease_in_california-12-dec-2022-171354-article/"
 image: "https://images.rigzone.com/images/news/articles/Equinor-Wins-Offshore-Wind-Lease-In-California-171354-582x327.png"
-published_at: "2022-12-12"
-content: "Norwegian energy major Equinor was one of the provisional winners of an offshore wind lease area on the Outer Continental Shelf off California.
-Five leases were offered by the Bureau of Ocean Energy… [+2916 chars]"
-search_timestamp: "2022-12-28"
+published_at: 2022-12-12
+content: >
+  Norwegian energy major Equinor was one of the provisional winners of an offshore wind lease area on the Outer Continental Shelf off California.  Five leases were offered by the Bureau of Ocean Energy… [+2916 chars]
+search_timestamp: 2022-12-28
 terms: "Morro Bay"
 ---
 

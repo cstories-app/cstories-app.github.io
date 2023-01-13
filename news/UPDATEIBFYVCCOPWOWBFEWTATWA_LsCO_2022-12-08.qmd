@@ -1,14 +1,16 @@
 ---
 source: "Lost Coast Outpost"
 author: "Isabella Vanderheiden"
-title: "(UPDATE) 'It's Beyond Frustrating': Yurok Vice-Chair Calls Out Provisional Winners of Offshore Wind Bid for Failing to Engage With the Tribe Ahead of This Week's Auction - Lost Coast Outpost"
-description: "<ol><li>(UPDATE) 'It's Beyond Frustrating': Yurok Vice-Chair Calls Out Provisional Winners of Offshore Wind Bid for Failing to Engage With the Tribe Ahead of This Week's Auction Lost Coast Outpost </li><li>Winners of offshore Morro Bay wind energy leases an…"
+title: >
+  (UPDATE) 'It's Beyond Frustrating': Yurok Vice-Chair Calls Out Provisional Winners of Offshore Wind Bid for Failing to Engage With the Tribe Ahead of This Week's Auction - Lost Coast Outpost
+description: >
+  <ol><li>(UPDATE) 'It's Beyond Frustrating': Yurok Vice-Chair Calls Out Provisional Winners of Offshore Wind Bid for Failing to Engage With the Tribe Ahead of This Week's Auction Lost Coast Outpost </li><li>Winners of offshore Morro Bay wind energy leases an…
 url: "https://lostcoastoutpost.com/2022/dec/8/its-beyond-frustrating-yurok-vice-chair-calls-out/"
 image: "https://lostcoastoutpost.com/loco-media/cache/3b/ab/3bab144bbefcc585e6a03da9846af2cd.webp"
-published_at: "2022-12-08"
-content: "UPDATE 2:50 p.m.: One of the winning bidders, RWE Offshore Wind Holdings, LLC, sent the following response to the Outpost’s request for additional comment:
- RWE is committed to thoughtfully engaging… [+4536 chars]"
-search_timestamp: "2022-12-28"
+published_at: 2022-12-08
+content: >
+  UPDATE 2:50 p.m.: One of the winning bidders, RWE Offshore Wind Holdings, LLC, sent the following response to the Outpost’s request for additional comment:   RWE is committed to thoughtfully engaging… [+4536 chars]
+search_timestamp: 2022-12-28
 terms: "Humboldt | Morro Bay"
 ---
 

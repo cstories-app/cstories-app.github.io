@@ -1,13 +1,16 @@
 ---
 source: "Tech Xplore"
 author: "Matthew Lackner"
-title: "How do floating wind turbines work?"
-description: "Northern California has some of the strongest offshore winds in the U.S., with immense potential to produce clean energy. But it also has a problem. Its continental shelf drops off quickly, making building traditional wind turbines directly on the seafloor co…"
+title: >
+  How do floating wind turbines work?
+description: >
+  Northern California has some of the strongest offshore winds in the U.S., with immense potential to produce clean energy. But it also has a problem. Its continental shelf drops off quickly, making building traditional wind turbines directly on the seafloor co…
 url: "https://techxplore.com/news/2022-12-turbines.html"
 image: "https://scx2.b-cdn.net/gfx/news/hires/2022/how-do-floating-wind-t.jpg"
-published_at: "2022-12-09"
-content: "Northern California has some of the strongest offshore winds in the U.S., with immense potential to produce clean energy. But it also has a problem. Its continental shelf drops off quickly, making bu… [+5876 chars]"
-search_timestamp: "2022-12-28"
+published_at: 2022-12-09
+content: >
+  Northern California has some of the strongest offshore winds in the U.S., with immense potential to produce clean energy. But it also has a problem. Its continental shelf drops off quickly, making bu… [+5876 chars]
+search_timestamp: 2022-12-28
 terms: "Morro Bay"
 ---
 

@@ -2,79 +2,16 @@
 title: "Viewshed"
 image: "../images/infographic/map-viewshed-pts.jpg"
 description: "How will wind turbines affect your view?"
-format:
-  html:
-    toc: true
-filters:
-  - lightbox
-  - collapse-callout
-# https://github.com/quarto-ext/lightbox
-# quarto install extension quarto-ext/lightbox
-lightbox: auto
-# https://github.com/shafayetShafee/collapse-callout
-collapse-callout:
-  all: false
-callout-appearance: simple
-callout-icon: true
 editor_options: 
   chunk_output_type: console
 ---
 
-# Images
-
-:::{.callout-note}
-### Note
-
-Click on tabs to view different content and click on images to make bigger.
-:::
-
 ::: panel-tabset
-
-## Humboldt
-
-::::: panel-tabset
-
-### Perspective
-
-![Perspective of panoramic visual simulation of the Humboldt Offshore Wind Energy Area from Sue-Meg (Patrick’s Point State Park)](/images/infographic/viewshed_humboldt_perspective.jpg)
-
-### Simulation
-
-![Panoramic visual simulation of the Humboldt Offshore Wind Energy Area from Sue-Meg (Patrick’s Point State Park) at 9:00 am](/images/infographic/viewshed_humboldt_simulation.jpg)
-
-::::: 
-
-## Morro Bay
-
-::::: panel-tabset
-
-### Perspective
-
-![Perspective of panoramic visual simulation of the Morro Bay Offshore Wind Energy Area from Piedras Blancas](/images/infographic/viewshed_morro-bay_perspective.jpg)
-
-### Simulation
-
-![Panoramic visual simulation of the Morro Bay Offshore Wind Energy Area from Piedras Blancas at 9:00 am](/images/infographic/viewshed_morro-bay_simulation.jpg)
-
-::::: 
-
-:::
-
-# Maps
-
-:::{.callout-note}
-### Note
-
-Zoom (scroll up/down; or pinch in/out) and pan (click and hold while dragging) with cursor on the map.
-:::
-
-::: panel-tabset
-
 ## Overview
 
 ```{r}
 librarian::shelf(
-  dplyr, glue, here, leaflet, readr)
+  dplyr, glue, here, leaflet, readr, mapboxapi)
 
 d <- read_csv(
   here("infographics/data/viewshed_locations.csv"),
@@ -82,12 +19,12 @@ d <- read_csv(
 
 d %>% 
   leaflet() %>%
-  addProviderTiles(providers$Esri.NatGeoWorldMap) %>% 
+  addProviderTiles(providers$Esri.OceanBasemap) %>% 
   addMarkers(
     lng   = ~lon,
     lat   = ~lat,
     label = ~location,
-    popup = ~glue("{region}, {location}"))
+    popup = ~glue("TODO: {region}, {location}"))
 ```
 
 ## Humboldt
@@ -97,7 +34,7 @@ d %>%
   filter(
     region == "Humboldt") %>%
   leaflet() %>%
-  addProviderTiles(providers$Esri.NatGeoWorldMap) %>% 
+  addProviderTiles(providers$Esri.OceanBasemap) %>% 
   addMarkers(
     lng   = ~lon,
     lat   = ~lat,
@@ -112,14 +49,13 @@ d %>%
   filter(
     region == "Morro Bay") %>% 
   leaflet() %>%
-  addProviderTiles(providers$Esri.NatGeoWorldMap) %>% 
+  addProviderTiles(providers$Esri.OceanBasemap) %>% 
   addMarkers(
     lng   = ~lon,
     lat   = ~lat,
     label = ~location,
     popup = ~glue("TODO: {region}, {location}"))
 ```
-
 :::
 
 

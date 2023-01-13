@@ -1,15 +1,16 @@
 ---
 source: "Biztoc.com"
 author: "lostcoastoutpost.com"
-title: "SOLD! BOEM Names California North Floating and RWE Offshore Wind Holdings as Provisional Winners of Two Offshore Wind Leases Off the Humboldt Coast"
-description: "We have our winners! The Bureau of Ocean Energy Management (BOEM) just announced the provisional winners of the first-ever offshore wind energy lease auction on the West Coast. California North Floating, LLC, a subsidiary of Copenhagen Infrastructure Partners…"
+title: >
+  SOLD! BOEM Names California North Floating and RWE Offshore Wind Holdings as Provisional Winners of Two Offshore Wind Leases Off the Humboldt Coast
+description: >
+  We have our winners! The Bureau of Ocean Energy Management (BOEM) just announced the provisional winners of the first-ever offshore wind energy lease auction on the West Coast. California North Floating, LLC, a subsidiary of Copenhagen Infrastructure Partners…
 url: "https://biztoc.com/x/51bb75516e4b94fc"
 image: "https://c.biztoc.com/p/51bb75516e4b94fc/og.webp"
-published_at: "2022-12-08"
-content: "We have our winners!
-The Bureau of Ocean Energy Management (BOEM) just announced the provisional winners of the first-ever offshore wind energy lease auction on the West Coast.
-California North Flo… [+1032 chars]"
-search_timestamp: "2022-12-28"
+published_at: 2022-12-08
+content: >
+  We have our winners!  The Bureau of Ocean Energy Management (BOEM) just announced the provisional winners of the first-ever offshore wind energy lease auction on the West Coast.  California North Flo… [+1032 chars]
+search_timestamp: 2022-12-28
 terms: "Humboldt | Morro Bay"
 ---
 

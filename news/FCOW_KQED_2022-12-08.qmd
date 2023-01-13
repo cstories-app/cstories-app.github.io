@@ -1,14 +1,16 @@
 ---
 source: "KQED"
 author: "Kevin Stark"
-title: "First California Offshore Wind Auction Nets Over $750 Million"
-description: "Gov. Gavin Newsom described the wind lease sale as a 'critical component' of the state hitting its goal of 90% clean energy by 2035 in what he hailed as a 'new era of climate action.'"
+title: >
+  First California Offshore Wind Auction Nets Over $750 Million
+description: >
+  Gov. Gavin Newsom described the wind lease sale as a 'critical component' of the state hitting its goal of 90% clean energy by 2035 in what he hailed as a 'new era of climate action.'
 url: "https://www.kqed.org/science/1980900/first-california-offshore-wind-auction-nets-over-750-million"
 image: "https://ww2.kqed.org/app/uploads/sites/35/2022/12/GettyImages-1407548832-1020x733.jpg"
-published_at: "2022-12-08"
-content: "Department Secretary Deb Haaland said in a statement that the aggressive bidding is a signal of industry momentum around American offshore wind.
-“A sustainable, clean energy future is within our gra… [+2662 chars]"
-search_timestamp: "2022-12-28"
+published_at: 2022-12-08
+content: >
+  Department Secretary Deb Haaland said in a statement that the aggressive bidding is a signal of industry momentum around American offshore wind.  “A sustainable, clean energy future is within our gra… [+2662 chars]
+search_timestamp: 2022-12-28
 terms: "Humboldt | Morro Bay"
 ---
 

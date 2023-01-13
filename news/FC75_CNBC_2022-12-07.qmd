@@ -1,13 +1,16 @@
 ---
 source: "CNBC"
 author: "Emma Newburger"
-title: "First-ever California offshore wind auction surpasses $757 million in bids"
-description: "The sale is a major milestone in the Biden administration's goal of building offshore wind turbines across the nation's coastlines to help power communities."
+title: >
+  First-ever California offshore wind auction surpasses $757 million in bids
+description: >
+  The sale is a major milestone in the Biden administration's goal of building offshore wind turbines across the nation's coastlines to help power communities.
 url: "https://www.cnbc.com/2022/12/07/california-offshore-wind-auction-surpasses-757-million-in-bids-.html"
 image: "https://image.cnbcfm.com/api/v1/image/106881812-1620821979813-gettyimages-147641412-8dc66917-36ca-4dbb-a003-26e2e848fcac.jpeg?v=1670448874&w=1920&h=1080"
-published_at: "2022-12-07"
-content: "The Biden administration on Wednesday announced more than $757 million in winning bids for its auction of offshore wind development rights in California, marking the third offshore wind lease sale th… [+2727 chars]"
-search_timestamp: "2022-12-28"
+published_at: 2022-12-07
+content: >
+  The Biden administration on Wednesday announced more than $757 million in winning bids for its auction of offshore wind development rights in California, marking the third offshore wind lease sale th… [+2727 chars]
+search_timestamp: 2022-12-28
 terms: "Humboldt | Morro Bay"
 ---
 

@@ -1,13 +1,16 @@
 ---
 source: "Fortune"
 author: "Matthew Lackner, The Conversation"
-title: "California is trying to create the country’s first offshore wind farms—Here’s how that works, and what it will take to make it happen"
-description: "Some of the strongest wind resources in the world are far from the shore."
+title: >
+  California is trying to create the country’s first offshore wind farms—Here’s how that works, and what it will take to make it happen
+description: >
+  Some of the strongest wind resources in the world are far from the shore.
 url: "https://fortune.com/2022/12/09/how-do-offshore-wind-turbines-work-california-offshore-wind-farms/"
 image: "https://content.fortune.com/wp-content/uploads/2022/12/GettyImages-522066448.jpg?resize=1200,600"
-published_at: "2022-12-09"
-content: "Northern California has some of the strongest offshore winds in the U.S., with immense potential to produce clean energy. But it also has a problem. Its continental shelf drops off quickly, making bu… [+5633 chars]"
-search_timestamp: "2022-12-28"
+published_at: 2022-12-09
+content: >
+  Northern California has some of the strongest offshore winds in the U.S., with immense potential to produce clean energy. But it also has a problem. Its continental shelf drops off quickly, making bu… [+5633 chars]
+search_timestamp: 2022-12-28
 terms: "Morro Bay"
 ---
 

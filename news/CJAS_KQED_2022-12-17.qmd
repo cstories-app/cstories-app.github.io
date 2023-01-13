@@ -1,13 +1,16 @@
 ---
 source: "KQED"
 author: "Attila Pelit"
-title: "California Just Approved a Sweeping Climate Change Plan. Here Are 6 Ways That Could Affect You"
-description: "Here are six ways Californians will be affected by the state's new climate change blueprint."
+title: >
+  California Just Approved a Sweeping Climate Change Plan. Here Are 6 Ways That Could Affect You
+description: >
+  Here are six ways Californians will be affected by the state's new climate change blueprint.
 url: "https://www.kqed.org/news/11935585/california-just-approved-a-sweeping-climate-change-plan-here-are-6-ways-that-could-affect-you"
 image: "https://ww2.kqed.org/app/uploads/sites/10/2022/12/GettyImages-812546100-1020x770.jpg"
-published_at: "2022-12-17"
-content: "The air board in September unveiled a proposal that would require new big rigs and other trucks to be zero emissions within the next 18 years. Under the proposed rule (PDF), manufacturers wouldn’t be… [+4664 chars]"
-search_timestamp: "2022-12-28"
+published_at: 2022-12-17
+content: >
+  The air board in September unveiled a proposal that would require new big rigs and other trucks to be zero emissions within the next 18 years. Under the proposed rule (PDF), manufacturers wouldn’t be… [+4664 chars]
+search_timestamp: 2022-12-28
 terms: "Humboldt | Morro Bay"
 ---
 

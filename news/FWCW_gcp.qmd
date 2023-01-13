@@ -1,14 +1,16 @@
 ---
 source: "gcaptain.com"
 author: "Bloomberg"
-title: "First West Coast Wind Auction Continuing with Over $400 Million in High Bids on First Day"
-description: "By Jennifer A. Dlouhy (Bloomberg) — Six companies are still vying for the opportunity to install floating wind turbines off the California coast after offering $402.1 million for the tracts Tuesday...."
+title: >
+  First West Coast Wind Auction Continuing with Over $400 Million in High Bids on First Day
+description: >
+  By Jennifer A. Dlouhy (Bloomberg) — Six companies are still vying for the opportunity to install floating wind turbines off the California coast after offering $402.1 million for the tracts Tuesday....
 url: "https://gcaptain.com/first-west-coast-wind-auction-continuing-with-over-400-million-in-high-bids-on-first-day/"
 image: "https://gcaptain.com/wp-content/uploads/2022/07/shutterstock_2179829399.jpg"
-published_at: "2022-12-07"
-content: "By Jennifer A. Dlouhy (Bloomberg) —
-Six companies are still vying for the opportunity to install floating wind turbines off the California coast after offering $402.1 million for the tracts Tuesday.… [+3586 chars]"
-search_timestamp: "2022-12-28"
+published_at: 2022-12-07
+content: >
+  By Jennifer A. Dlouhy (Bloomberg) —  Six companies are still vying for the opportunity to install floating wind turbines off the California coast after offering $402.1 million for the tracts Tuesday.… [+3586 chars]
+search_timestamp: 2022-12-28
 terms: "Morro Bay"
 ---
 

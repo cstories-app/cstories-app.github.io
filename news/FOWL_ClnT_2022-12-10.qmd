@@ -1,13 +1,16 @@
 ---
 source: "CleanTechnica"
 author: "Nexus Media"
-title: "Floating Offshore Wind Lease Sale Lands $757 Million in Winning Bids"
-description: "The first-ever auction for wind lease tracts off the West Coast concluded Wednesday, pulling down $757 million in winning bids. Government and industry officials touted the impressive bidding as evidence of the growing momentum in the offshore wind sector and…"
+title: >
+  Floating Offshore Wind Lease Sale Lands $757 Million in Winning Bids
+description: >
+  The first-ever auction for wind lease tracts off the West Coast concluded Wednesday, pulling down $757 million in winning bids. Government and industry officials touted the impressive bidding as evidence of the growing momentum in the offshore wind sector and…
 url: "https://cleantechnica.com/2022/12/09/floating-offshore-wind-lease-sale-lands-757-million-in-winning-bids/"
 image: "https://cleantechnica.com/files/2022/08/CT-image-offshore-wind-farm.jpg"
-published_at: "2022-12-10"
-content: "The first-ever auction for wind lease tracts off the West Coast concluded Wednesday, pulling down $757 million in winning bids. Government and industry officials touted the impressive bidding as evid… [+1645 chars]"
-search_timestamp: "2022-12-28"
+published_at: 2022-12-10
+content: >
+  The first-ever auction for wind lease tracts off the West Coast concluded Wednesday, pulling down $757 million in winning bids. Government and industry officials touted the impressive bidding as evid… [+1645 chars]
+search_timestamp: 2022-12-28
 terms: "Morro Bay"
 ---
 

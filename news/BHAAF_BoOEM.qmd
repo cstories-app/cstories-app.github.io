@@ -1,10 +1,12 @@
 ---
-title: "Biden-Harris Administration Announces First-Ever Offshore Wind Lease Sale in the Pacific"
+title: >
+  Biden-Harris Administration Announces First-Ever Offshore Wind Lease Sale in the Pacific
 source: "Bureau of Ocean Energy Management"
-published_at: "NA"
+published_at: 2022-12-30
 url: "https://www.boem.gov/newsroom/press-releases/biden-harris-administration-announces-first-ever-offshore-wind-lease-sale"
-description: "In a new development in the pursuit of a clean energy future, the Department of the Interior today announced that the BOEM will hold an offshore wind energy lease sale on Dec. 6, 2022, for areas on the OCS off central and northern California."
-image: "news_code/rss_img.png"
+description: >
+  In a new development in the pursuit of a clean energy future, the Department of the Interior today announced that the BOEM will hold an offshore wind energy lease sale on Dec. 6, 2022, for areas on the OCS off central and northern California.
+image: rss_img.png
 ---
 
 
