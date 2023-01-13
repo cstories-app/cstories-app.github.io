@@ -83,30 +83,14 @@ update_feeds <- function(feed_files,
 
 }
 
-# x <- rvest::read_html("https://lostcoastoutpost.com/weather-alerts/1088/")
-#
-# x %>% html_attr("title")
-#
-# read_html("https://lostcoastoutpost.com/weather-alerts/1071/") %>%
-#   html_nodes("title") %>%
-#   html_text()
-# rss %>%
-#   mutate(item_title = if_else(is.na(item_title),
-#                               read_html(item_link) %>%
-#                                 html_nodes("title") %>%
-#                                 html_text(), item_title))
-
-
-# Get feeds ---------------------------------------------------------------
-
-feed_files <- fs::dir_ls("news_code/rss_feeds/", glob = "*.txt")
-
-rss_items <- update_feeds(feed_files)
-
 create_rss_qmds <- function(rss_items, output_dir = "news") {
+
+  if(nrow(rss_items) == 0) return(cli::cli_alert_info("No new rss items to create."))
+
   rss_items %>%
     mutate(item_pub_date = as.character(item_pub_date)) %>%
-    add_column(image = "news_code/rss_img.png") %>%
+    add_column(image = "rss_img.png") %>%
+    mutate(item_pub_date = coalesce(item_pub_date, as.character(as_date(search_timestamp)))) %>% #FIXME need to denote that this isn't the pub date or find the pub date
     select(title = item_title,
            source = feed_title,
            published_at = item_pub_date,
@@ -114,12 +98,13 @@ create_rss_qmds <- function(rss_items, output_dir = "news") {
            description = item_description,
            image,
            rss_id) %>%
-    mutate(
-      description = description %>%
-        stringr::str_replace_all('"', '\\"')) %>%
     pivot_longer(-rss_id) %>%
-    mutate(value = paste0("\"", value, "\"")) %>%
-    unite(col = yaml, name, value, sep = ": ") %>%
+    #mutate(value = str_replace_all(value, '"', '\\"')) %>%
+    #mutate(value = paste0("\"", value, "\"")) %>%
+    mutate(yaml = case_when(name == "description" | name == "title" ~ paste0(name, ": >\n  ", value),
+                            name == "source" | name == "url" ~paste0(name, ": \"", value, "\""),
+                            TRUE ~ paste0(name, ": ", value))) %>%
+    #unite(col = yaml, name, value, sep = ": >") %>%
     group_by(rss_id) %>%
     summarize(yaml = paste(yaml, collapse = "\n")) %>%
     mutate(yaml = paste0("---\n", yaml, "\n---\n")) %>%
@@ -142,23 +127,43 @@ create_rss_qmds <- function(rss_items, output_dir = "news") {
     })
 }
 
-create_rss_qmds(rss_items)
+# x <- rvest::read_html("https://lostcoastoutpost.com/weather-alerts/1088/")
+#
+# x %>% html_attr("title")
+#
+# read_html("https://lostcoastoutpost.com/weather-alerts/1071/") %>%
+#   html_nodes("title") %>%
+#   html_text()
+# rss %>%
+#   mutate(item_title = if_else(is.na(item_title),
+#                               read_html(item_link) %>%
+#                                 html_nodes("title") %>%
+#                                 html_text(), item_title))
 
-#TODO: Fix issue with quotations in YAML (SEE BEOMSPCD_BoOEM.qmd and https://stackoverflow.com/questions/37427498/how-to-escape-double-and-single-quotes-in-yaml-within-the-same-string)
-#TODO: Check missing published_at / item_pub_date
+
+# Get feeds ---------------------------------------------------------------
+
+feed_files <- fs::dir_ls("news_code/rss_feeds/", glob = "*.txt")
+
+rss_items <- update_feeds(feed_files)
 
 # Filter feed for terms --------------------------------------------------
 
 env_terms <- c("offshore wind", "wind energy", "seascape", "viewshed", "effects on wildlife")
 loc_terms <- c("humboldt", "morro bay", "california")
 
-res_rss %>%
-  select(feed_title, item_title, item_description, item_category) %>%
+rss_items <- rss_items %>%
   mutate(env_n = str_count(str_to_lower(item_description), paste0(env_terms, collapse = "|"))) %>%
+  #mutate(loc_n = str_count(str_to_lower(item_description), paste0(loc_terms, collapse = "|"))) %>%
   filter(env_n > 0)
 
 
+# Create qmds -------------------------------------------------------------
 
 
+create_rss_qmds(rss_items)
+
+
+#TODO: Check missing published_at / item_pub_date
 
 

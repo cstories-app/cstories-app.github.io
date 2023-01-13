@@ -4,7 +4,7 @@
 
 # Setup -------------------------------------------------------------------
 librarian::shelf(
-  IntegralEnvision/integral, fs, httr2, janitor, lubridate, rrapply, tidyverse)
+  IntegralEnvision/integral, fs, httr2, janitor, lubridate, rrapply, tidyverse, cli)
 
 # Functions ---------------------------------------------------------------
 
@@ -22,7 +22,7 @@ update_newsapi_data <- function(terms,
   raw_news <- terms %>%
     map(function(search_terms) {
 
-      cli::cli_alert_info("Searching {search_terms}...")
+      cli_alert_info("Searching {search_terms}...")
 
       resp <- req %>%
         req_url_query(q = search_terms) %>%
@@ -83,6 +83,7 @@ update_newsapi_data <- function(terms,
 
 }
 
+
 create_newsapi_qmds <- function(new_qmd_items, output_dir = "news") {
 
   if(nrow(new_qmd_items) == 0) return(cli::cli_alert_info("No new news items to create."))
@@ -92,8 +93,13 @@ create_newsapi_qmds <- function(new_qmd_items, output_dir = "news") {
     mutate(terms = str_remove_all(terms, " AND \\('offshore wind' \\)") %>%
              str_remove_all("'")) %>%
     pivot_longer(-news_id) %>%
-    mutate(value = paste0("\"", value, "\"")) %>%
-    unite(col = yaml, name, value, sep = ": ") %>%
+    mutate(value = str_replace_all(value, "\\r|\\n", " ")) %>%
+    #mutate(value = str_replace_all(value, '"', '\\"')) %>%
+    #mutate(value = paste0("\"", value, "\"")) %>%
+    #unite(col = yaml, name, value, sep = ": ") %>%
+    mutate(yaml = case_when(name == "description" | name == "title" | name == "content" ~ paste0(name, ": >\n  ", value),
+                            name == "source" | name == "url" | name == "author" | name == "terms"  | name == "image" ~paste0(name, ": \"", value, "\""),
+                            TRUE ~ paste0(name, ": ", value))) %>%
     #mutate(yaml = str_wrap(yaml, exdent = 3)) %>%
     group_by(news_id) %>%
     summarize(yaml = paste(yaml, collapse = "\n")) %>%
@@ -115,7 +121,7 @@ Source: {{< meta source >}}\
       #fileid <- x %>% pull(news_id)
       write_lines(x$full_qmd, file = path_ext_set(path(output_dir, x$news_id), "qmd"))
 
-      cli::cli_alert_success("Successfully created {x$news_id}.qmd")
+      cli_alert_success("Successfully created {x$news_id}.qmd")
     })
 }
 
