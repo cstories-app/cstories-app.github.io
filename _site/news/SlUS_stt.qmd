@@ -1,13 +1,16 @@
 ---
 source: "seattlepi.com"
 author: "By GILLIAN FLACCUS, Associated Press"
-title: "Sale jumpstarts floating, offshore wind power in US waters"
-description: "PORTLAND, Ore. (AP) - Tuesday marks the first-ever U.S. auction of leases to develop commercial-scale floating wind farms, in the deep waters off the West Coast. The live, online auction for the five leases - three off California's central coast and two off i…"
+title: >
+  Sale jumpstarts floating, offshore wind power in US waters
+description: >
+  PORTLAND, Ore. (AP) - Tuesday marks the first-ever U.S. auction of leases to develop commercial-scale floating wind farms, in the deep waters off the West Coast. The live, online auction for the five leases - three off California's central coast and two off i…
 url: "https://www.seattlepi.com/news/article/Sale-jumpstarts-floating-offshore-wind-power-in-17632255.php"
 image: "https://s.hdnux.com/img/modules/siteheader/brand.png"
-published_at: "2022-12-05"
-content: "FILE - The five turbines of America's first offshore wind farm, owned by the Danish company, Orsted, stand off the coast of Block Island, R.I., in this, Oct. 17, 2022. The wind farm allowed residents… [+8093 chars]"
-search_timestamp: "2022-12-28"
+published_at: 2022-12-05
+content: >
+  FILE - The five turbines of America's first offshore wind farm, owned by the Danish company, Orsted, stand off the coast of Block Island, R.I., in this, Oct. 17, 2022. The wind farm allowed residents… [+8093 chars]
+search_timestamp: 2022-12-28
 terms: "Humboldt"
 ---
 

@@ -1,14 +1,16 @@
 ---
 source: "Associated Press"
 author: "By GILLIAN FLACCUS - Associated Press"
-title: "1st US floating offshore wind auction nets $757M off Calif"
-description: "The first-ever U.S. auction of leases to develop commercial-scale floating wind farms in the deep waters off the West Coast raised $757 million in bids, from mostly European companies. The auction offered two adjoining lease areas in northern California and…"
+title: >
+  1st US floating offshore wind auction nets $757M off Calif
+description: >
+  The first-ever U.S. auction of leases to develop commercial-scale floating wind farms in the deep waters off the West Coast raised $757 million in bids, from mostly European companies. The auction offered two adjoining lease areas in northern California and…
 url: "https://apnews.com/87f602496e34299f5429a3d8a67ae478"
 image: "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/c/a0/ca062b5f-a869-5205-8e4e-bb4f274a338e/638e7f62b7e00.image.jpg?crop=1921%2C1009%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
-published_at: "2022-12-08"
-content: "By GILLIAN FLACCUS - Associated Press
-PORTLAND, Ore. (AP) The first-ever U.S. auction of leases to develop commercial-scale floating wind farms in the deep waters off the West Coast attracted $757 m… [+3737 chars]"
-search_timestamp: "2022-12-28"
+published_at: 2022-12-08
+content: >
+  By GILLIAN FLACCUS - Associated Press  PORTLAND, Ore. (AP) The first-ever U.S. auction of leases to develop commercial-scale floating wind farms in the deep waters off the West Coast attracted $757 m… [+3737 chars]
+search_timestamp: 2022-12-28
 terms: "Morro Bay"
 ---
 

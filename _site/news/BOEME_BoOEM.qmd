@@ -1,10 +1,12 @@
 ---
-title: "BOEM Encourages Nominations for New National Academies Committee for Offshore Wind Energy and Fisheries"
+title: >
+  BOEM Encourages Nominations for New National Academies Committee for Offshore Wind Energy and Fisheries
 source: "Bureau of Ocean Energy Management"
-published_at: "NA"
+published_at: 2022-12-30
 url: "https://www.boem.gov/newsroom/notes-stakeholders/boem-encourages-nominations-new-national-academies-committee-offshore"
-description: "BOEM continues to seek opportunities to expand and improve its communication with the fishing community on offshore wind energy activities."
-image: "news_code/rss_img.png"
+description: >
+  BOEM continues to seek opportunities to expand and improve its communication with the fishing community on offshore wind energy activities.
+image: rss_img.png
 ---
 
 

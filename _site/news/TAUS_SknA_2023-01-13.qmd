@@ -1,0 +1,28 @@
+---
+source: "Seeking Alpha"
+author: "Global X ETFs"
+title: >
+  Tech Advancing, Unlocking Solar Power's Growth Potential
+description: >
+  The solar power sector is forecast to account for 52% of power capacity growth globally between 2022 and 2032.
+url: "https://seekingalpha.com/article/4569695-tech-advancing-unlocking-solar-power-growth-potential"
+image: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1338906757/image_1338906757.jpg?io=getty-c-w1280"
+published_at: 2023-01-13
+content: >
+  alphaspirit  Every hour, the Earth receives enough energy from the sun to cover the world’s entire annual energy consumption needs.1 This fact provides excitement about continued advancements in sola… [+18157 chars]
+terms: "Cost of electricity"
+search_timestamp: 2023-01-13 15:07:48
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}})
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

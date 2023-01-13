@@ -1,14 +1,16 @@
 ---
 source: "GlobeNewswire"
 author: "Statkraft AS"
-title: "Statkraft Ireland set to begin work on 56MW Midlands wind farm"
-description: "Statkraft Ireland has confirmed that construction will begin at Cushaling Wind Farm in counties Offaly and Kildare in January 2023. The nine-turbine......"
+title: >
+  Statkraft Ireland set to begin work on 56MW Midlands wind farm
+description: >
+  Statkraft Ireland has confirmed that construction will begin at Cushaling Wind Farm in counties Offaly and Kildare in January 2023. The nine-turbine......
 url: "https://www.globenewswire.com/news-release/2022/12/20/2576850/0/en/Statkraft-Ireland-set-to-begin-work-on-56MW-Midlands-wind-farm.html"
 image: "https://ml-eu.globenewswire.com/Resource/Download/83e51edf-56e2-4b17-a5f7-7127fce40649?size=1"
-published_at: "2022-12-20"
-content: "Statkraft Ireland has confirmed that construction will begin at Cushaling Wind Farm in counties Offaly and Kildare in January 2023.
-The nine-turbine development, which will deliver 55.8MW of urgentl… [+3913 chars]"
-search_timestamp: "2022-12-28"
+published_at: 2022-12-20
+content: >
+  Statkraft Ireland has confirmed that construction will begin at Cushaling Wind Farm in counties Offaly and Kildare in January 2023.  The nine-turbine development, which will deliver 55.8MW of urgentl… [+3913 chars]
+search_timestamp: 2022-12-28
 terms: "Cost of electricity"
 ---
 

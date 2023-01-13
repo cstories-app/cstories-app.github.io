@@ -1,10 +1,12 @@
 ---
-title: "Harbor District Announces Massive Offshore Wind Partnership; Project Would Lead to an 86-Acre Redevelopment of Old Pulp Mill Site"
+title: >
+  Harbor District Announces Massive Offshore Wind Partnership; Project Would Lead to an 86-Acre Redevelopment of Old Pulp Mill Site
 source: "Offshore Wind Energy - Humboldt Baykeeper"
-published_at: "2022-10-26"
+published_at: 2022-10-26
 url: "https://www.humboldtbaykeeper.org/offshore-wind-energy/1626-harbor-district-announces-massive-offshore-wind-partnership-project-would-lead-to-an-86-acre-redevelopment-of-old-pulp-mill-site-2"
-description: "This morning, the Humboldt Bay Harbor District has announced a partnership with a private company — Crowley Wind Services — to build a full-service facility to support offshore wind development all along the West Coast.The development would happen at the district’s Marine Terminal II — a.k.a., the old pulp mill property in Samoa, which it acquired in 2013 — and would be located next to the planned Nordic Aquafarms onshore Atlantic salmon factory.Read MoreClick HERE to see the site map."
-image: "news_code/rss_img.png"
+description: >
+  This morning, the Humboldt Bay Harbor District has announced a partnership with a private company — Crowley Wind Services — to build a full-service facility to support offshore wind development all along the West Coast.The development would happen at the district’s Marine Terminal II — a.k.a., the old pulp mill property in Samoa, which it acquired in 2013 — and would be located next to the planned Nordic Aquafarms onshore Atlantic salmon factory.Read MoreClick HERE to see the site map.
+image: rss_img.png
 ---
 
 
