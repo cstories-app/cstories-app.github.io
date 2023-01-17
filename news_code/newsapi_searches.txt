@@ -1,7 +1,0 @@
-"Humboldt" AND ("offshore wind" )
-"Morro Bay" AND ("offshore wind" )
-"Seascape" AND ("offshore wind" )
-"Viewshed" AND ("offshore wind" )
-"Effects on wildlife" AND ("offshore wind" )
-"Cost of electricity" AND ("offshore wind" )
-"Seabirds" AND ("offshore wind" )

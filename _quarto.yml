@@ -3,10 +3,6 @@ project:
   output-dir: _site
   resources:
     - "/.nojekyll"
-    - "/infographics/lib/*"
-    - "/infographics/svg/*"
-    - "/chat/*"
-    - "/news/*"
 
 website:
   title: "CStories.app"
@@ -14,9 +10,7 @@ website:
   navbar:
     left:
       - apps.qmd
-      - infographics.qmd
       - workshops.qmd
-      - news.qmd
     right:
       - about.qmd
   search:
