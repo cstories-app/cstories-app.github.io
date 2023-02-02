@@ -11,51 +11,19 @@ host-gmap: "https://goo.gl/maps/CxYhPY7LsprDSwkr6"
 image: "../images/place/RCAA_EurekaWomensClub.jpg"
 ---
 
-- Time: {{< meta workshop-time >}}, {{< meta workshop-date >}}
-- Host: [{{< meta workshop-host >}}]({{< meta host-url >}})
-- Location: {{< meta venue-name >}}\
-  [{{< meta venue-address >}}]({{< meta host-gmap >}})\
+-   Time: {{< meta workshop-time >}}, {{< meta workshop-date >}}
+-   Host: [{{< meta workshop-host >}}](%7B%7B%3C%20meta%20host-url%20%3E%7D%7D)
+-   Location: {{< meta venue-name >}}\
+    [{{< meta venue-address >}}](%7B%7B%3C%20meta%20host-gmap%20%3E%7D%7D)
+
+## Quick Links
+
+-   [**Slides**](https://docs.google.com/presentation/d/1CcmWXOnk91XCcI3E8BrqX71fR2F-y8GQyLQHLwkNUiI/edit?usp=sharing)
+
+-   [**Poll**](https://pollev.com/rupertsmudge433)
 
 [RSVP here](https://forms.gle/Wuvb6GdGZScFouFp9)
 
-![](`r rmarkdown::metadata$image[1]`)
+![](%60r%20rmarkdown::metadata$image%5B1%5D%60)
 
-<!-- ## Quick Links -->
-
-<!-- -   **Slides**:\ -->
-<!--     [CStories_RCAA.pdf](../files/CStories_RCAA.pdf) -->
-
-<!-- -   **Poll**:\ -->
-<!--     [pollev.com/rupertsmudge433](https://pollev.com/rupertsmudge433) -->
-
-<!-- -   **Video**:\ -->
-<!--     [BOEM Renewable Energy Whiteboard - YouTube](https://www.youtube.com/watch?v=GEAiyd4Yi5M&t=195s) -->
-
-<!-- -   **Input Tools** -->
-
-<!--     -   Portals -->
-
-<!--         -   [caoffshorewind.databasin.org](https://caoffshorewind.databasin.org) -->
-
-<!--         -   [marinecadastre.gov/oceanreports](https://marinecadastre.gov/oceanreports) -->
-
-<!--     -   Infographic -->
-
-<!--         -   [sanctuarywatch.ioos.us/webcr-channelislands](https://sanctuarywatch.ioos.us/webcr-channelislands/) -->
-
-<!-- -   **Output Tools** -->
-
-<!--     -   Infographic -->
-
-<!--         -   [sanctuarywatch.ioos.us/webcr-channelislands](https://sanctuarywatch.ioos.us/webcr-channelislands/) -->
-
-<!--     -   Weighted Map\ -->
-<!--         [ecoquants.shinyapps.io/nrel-uses](https://ecoquants.shinyapps.io/nrel-uses) -->
-
-<!--     -   Tradeoff App\ -->
-<!--         [shiny.marinebon.app/siting](https://shiny.marinebon.app/siting) -->
-
-<!--     - ... and more at [cstories.app/apps.html](https://cstories.app/apps.html) -->
-
-<!-- -   **Feedback**\ -->
-<!--     [forms.gle/Sf1QAnAaUBPyaZZBA](https://forms.gle/Sf1QAnAaUBPyaZZBA) -->
+## 

@@ -4,7 +4,7 @@
     "href": "workshops/ws3-rcaa.html",
     "title": "Workshop #3 at RCAA",
     "section": "",
-    "text": "Time: 5:30 - 7:30 pm, 2023-02-02\nHost: Redwood Community Action Agency\nLocation: Eureka Woman’s Club\n1531 J St, Eureka, CA 95501\n\n\nRSVP here"
+    "text": "Time: 5:30 - 7:30 pm, 2023-02-02\nHost: Redwood Community Action Agency\nLocation: Eureka Woman’s Club\n1531 J St, Eureka, CA 95501"
   },
   {
     "objectID": "workshops/ws2-rcaa.html",
@@ -173,5 +173,19 @@
     "title": "Triage",
     "section": "",
     "text": "Live app: https://ecoquants.shinyapps.io/snh-report"
+  },
+  {
+    "objectID": "index.html#quick-links-for-humboldt-workshop-2",
+    "href": "index.html#quick-links-for-humboldt-workshop-2",
+    "title": "CStories.app",
+    "section": "Quick Links for Humboldt Workshop #2",
+    "text": "Quick Links for Humboldt Workshop #2\n\nSlides\nPoll"
+  },
+  {
+    "objectID": "workshops/ws3-rcaa.html#quick-links",
+    "href": "workshops/ws3-rcaa.html#quick-links",
+    "title": "Workshop #3 at RCAA",
+    "section": "Quick Links",
+    "text": "Quick Links\n\nSlides\nPoll\n\nRSVP here"
   }
 ]
