@@ -45,7 +45,7 @@ listing:
 
 ## Quick Links for Humboldt Workshop #2 (2023-02-02)
 
-- [**Slides**](https://docs.google.com/presentation/d/1CcmWXOnk91XCcI3E8BrqX71fR2F-y8GQyLQHLwkNUiI/edit?usp=sharing)
+<!-- - [**Slides**](https://docs.google.com/presentation/d/1CcmWXOnk91XCcI3E8BrqX71fR2F-y8GQyLQHLwkNUiI/edit?usp=sharing) -->
 
 - [**Poll**](https://pollev.com/rupertsmudge433)
 
