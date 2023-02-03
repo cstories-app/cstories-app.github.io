@@ -118,34 +118,6 @@ ul.task-list li input[type="checkbox"] {
       window['quarto-listing-loaded']();
     }
   })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-list-news .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-published_at','listing-source','listing-image',{ data: ['index'] },{ data: ['categories'] }],
-      
-      searchColumns: [],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-list-news'] = new List('listing-list-news', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
   </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-9Z3CG75J46"></script>
 
@@ -218,7 +190,6 @@ gtag('config', 'G-9Z3CG75J46', { 'anonymize_ip': true});
   <li><a href="#quick-links-for-humboldt-workshop-2-2023-02-02" id="toc-quick-links-for-humboldt-workshop-2-2023-02-02" class="nav-link active" data-scroll-target="#quick-links-for-humboldt-workshop-2-2023-02-02">Quick Links for Humboldt Workshop #2 (2023-02-02)</a></li>
   <li><a href="#workshops" id="toc-workshops" class="nav-link" data-scroll-target="#workshops">Workshops</a></li>
   <li><a href="#applications" id="toc-applications" class="nav-link" data-scroll-target="#applications">Applications</a></li>
-  <li><a href="#news" id="toc-news" class="nav-link" data-scroll-target="#news">News</a></li>
   <li><a href="#contact" id="toc-contact" class="nav-link" data-scroll-target="#contact">Contact</a></li>
   </ul>
 </nav>
@@ -473,36 +444,6 @@ Assign weights to human uses, species distributions and habitats. Sum them up to
 </a>
 </div>
 </div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div>
-</section>
-<section id="news" class="level2">
-<h2 class="anchored" data-anchor-id="news">News</h2>
-<p>Recent news about offshore wind. (<a href="https://cstories.app/news.html">View all news</a>)</p>
-<div id="listing-list-news" class="quarto-listing quarto-listing-container-table">
-
-<table class="quarto-listing-table table">
-<thead>
-<tr>
-<th>
-Title
-</th>
-<th>
-Published
-</th>
-<th>
-source
-</th>
-<th>
-</th>
-</tr>
-</thead>
-<tbody class="list">
-</tbody>
-
-</table>
 <div class="listing-no-matching d-none">
 No matching items
 </div>
