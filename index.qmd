@@ -43,17 +43,18 @@ listing:
 
 ***Empowering Communities with Easy-to-Use Digital Tools to Participate in Marine Renewable Energy Planning & Development***
 
+## Quick Links for Humboldt Workshop #2 (2023-02-02)
+
+- [**Slides**](https://docs.google.com/presentation/d/1CcmWXOnk91XCcI3E8BrqX71fR2F-y8GQyLQHLwkNUiI/edit?usp=sharing)
+
+- [**Poll**](https://pollev.com/rupertsmudge433)
+
+
 ::: {.callout-caution}
 ## Check out our website product under development
 
 This website [cstories.app](https://cstories.app) is for organizing community feedback, whereas the website at [cstories.app/**beta**](https://cstories.app/beta) is where we're organizing product features (e.g. news, infographics, chat bot) into a dedicated website.
 :::
-
-## Quick Links for Humboldt Workshop #2
-
-- [**Slides**](https://docs.google.com/presentation/d/1CcmWXOnk91XCcI3E8BrqX71fR2F-y8GQyLQHLwkNUiI/edit?usp=sharing)
-
-- [**Poll**](https://pollev.com/rupertsmudge433)
 
 ## Workshops
 
