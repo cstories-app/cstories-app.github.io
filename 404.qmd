@@ -1,0 +1,8 @@
+---
+title: "File not found"
+---
+
+We're sorry, but the requested page was not found. Perhaps you want to visit one of these:
+
+- [CStories.app](https://cstories.app) 
+- [CStories.app/beta](https://cstories.app/beta/) 
