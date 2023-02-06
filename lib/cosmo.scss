@@ -1,0 +1,12 @@
+/*-- scss:defaults --*/
+// Base document colors
+$primary: rgb(0, 0, 0);
+
+/*-- scss:options --*/
+// gradient to match dark theme
+$enable-gradients: true;
+
+/*-- scss:gradient --*/
+// gradient to match dark theme
+$white: rgb(255, 255, 255);
+$gradient: linear-gradient(180deg, rgba($white, .35), rgba($white, 0));
