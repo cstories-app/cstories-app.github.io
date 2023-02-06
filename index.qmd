@@ -30,7 +30,7 @@ listing:
 ::: {.callout-caution}
 ## Check out our website product under development
 
-This website [cstories.app](https://cstories.app) is for organizing community feedback, whereas the website at [cstories.app/**beta**](https://cstories.app/beta) is where we're organizing product features (e.g. news, infographics, chat bot) into a dedicated website.
+This website [cstories.app](https://cstories.app) is for organizing workshops and feedback, whereas the website [cstories.app/**beta**](https://cstories.app/beta) is our dedicated product with features (e.g., chat bot, comments, infographics and news).
 :::
 
 ## Workshops

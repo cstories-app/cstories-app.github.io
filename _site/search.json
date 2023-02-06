@@ -7,6 +7,13 @@
     "text": "Time: 5:30 - 7:30 pm, 2023-02-02\nHost: Redwood Community Action Agency\nLocation: Eureka Woman’s Club\n1531 J St, Eureka, CA 95501"
   },
   {
+    "objectID": "workshops/ws3-rcaa.html#quick-links",
+    "href": "workshops/ws3-rcaa.html#quick-links",
+    "title": "Workshop #3 at RCAA",
+    "section": "Quick Links",
+    "text": "Quick Links\n\nSlides\nPoll\n\nRSVP here"
+  },
+  {
     "objectID": "workshops/ws2-rcaa.html",
     "href": "workshops/ws2-rcaa.html",
     "title": "Workshop #2 at RCAA",
@@ -68,13 +75,6 @@
     "title": "CStories.app",
     "section": "Applications",
     "text": "Applications\nHere are a few existing applications from other projects that we developed with functionality from which we’ll ask for feedback based on what does and does not work for development of a new application oriented around informing and empowering community voices.\n\n\n\n\n\n\n\n\n\n\nIndex Map\n\n\nThe Ocean Health Index uses a framework of 10 broad goals with status, pressures, trend and status. The flower plot visualizes the score of each goal as its extent, and the…\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInfographics\n\n\nVisualize the ecosystem with icons clickable to popup windows with data and details.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReporting\n\n\nSelect tags (technology, stressor, and/or receptor), draw location and generate a report.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTradeoffs\n\n\nA tradeoff plot can visualizes two objectives at once. Selecting win-win areas in the plot, such as high wind and low seabird sensitivity, highlights those places on the map.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTriage\n\n\nPrioritize issues requiring mitigation. Communicate between entities and produce a timeline with status.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeighted Map\n\n\nAssign weights to human uses, species distributions and habitats. Sum them up to determine most sensitive areas.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html#news",
-    "href": "index.html#news",
-    "title": "CStories.app",
-    "section": "News",
-    "text": "News\nRecent news about offshore wind. (View all news)\n\n\n\n\n\n\nTitle\n\n\nPublished\n\n\nsource\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html#contact",
@@ -173,26 +173,5 @@
     "title": "Triage",
     "section": "",
     "text": "Live app: https://ecoquants.shinyapps.io/snh-report"
-  },
-  {
-    "objectID": "index.html#quick-links-for-humboldt-workshop-2",
-    "href": "index.html#quick-links-for-humboldt-workshop-2",
-    "title": "CStories.app",
-    "section": "Quick Links for Humboldt Workshop #2",
-    "text": "Quick Links for Humboldt Workshop #2\n\nSlides\nPoll"
-  },
-  {
-    "objectID": "workshops/ws3-rcaa.html#quick-links",
-    "href": "workshops/ws3-rcaa.html#quick-links",
-    "title": "Workshop #3 at RCAA",
-    "section": "Quick Links",
-    "text": "Quick Links\n\nSlides\nPoll\n\nRSVP here"
-  },
-  {
-    "objectID": "index.html#quick-links-for-humboldt-workshop-2-2023-02-02",
-    "href": "index.html#quick-links-for-humboldt-workshop-2-2023-02-02",
-    "title": "CStories.app",
-    "section": "Quick Links for Humboldt Workshop #2 (2023-02-02)",
-    "text": "Quick Links for Humboldt Workshop #2 (2023-02-02)\n\n\nPoll\n\n\n\n\n\n\n\nCheck out our website product under development\n\n\n\nThis website cstories.app is for organizing community feedback, whereas the website at cstories.app/beta is where we’re organizing product features (e.g. news, infographics, chat bot) into a dedicated website."
   }
 ]

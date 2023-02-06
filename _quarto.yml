@@ -20,8 +20,8 @@ website:
 format:
   html:
     theme:
-      light: [flatly, flatly.scss]
-      dark: [darkly, darkly.scss]
+      light: spacelab # [flatly, flatly.scss]
+      dark: slate # superhero # [darkly, darkly.scss]
     toc: true
     comments:
       hypothesis:
