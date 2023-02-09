@@ -28,10 +28,20 @@ listing:
 
 ***Empowering Communities with Easy-to-Use Digital Tools to Participate in Marine Renewable Energy Planning & Development***
 
-::: {.callout-caution}
-## Check out our website product under development
+::: {.callout-note}
+## Quick Links
 
-This website [cstories.app](https://cstories.app) is for organizing workshops and feedback, whereas the website [cstories.app/**beta**](https://cstories.app/beta) is our dedicated product with features (e.g., chat bot, comments, infographics and news).
+For SBMM Workshop Feb 8, 2023 (Round 2):
+
+- [**Poll**](https://pollev.com/rupertsmudge433)
+:::
+
+::: {.callout-caution}
+## Check out our Beta website
+
+This website [CStories.app](https://cstories.app) is for organizing workshops and feedback.
+
+[CStories.app/**Beta**](https://cstories.app/beta) is our dedicated website product with features (e.g., AI chat bot, comments, interactive infographics and latest news).
 :::
 
 ## Workshops
