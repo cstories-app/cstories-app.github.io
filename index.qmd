@@ -28,14 +28,6 @@ listing:
 
 ***Empowering Communities with Easy-to-Use Digital Tools to Participate in Marine Renewable Energy Planning & Development***
 
-::: {.callout-note}
-## Quick Links
-
-For SBMM Workshop Feb 8, 2023 (Round 2):
-
-- [**Poll**](https://pollev.com/rupertsmudge433)
-:::
-
 ::: {.callout-caution}
 ## Check out our Beta website
 
