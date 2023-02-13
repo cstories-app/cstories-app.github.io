@@ -5,4 +5,4 @@ title: "File not found"
 We're sorry, but the requested page was not found. Perhaps you want to visit one of these:
 
 - [cstories.integral-corp.com](https://cstories.integral-corp.com) 
-- [cstories.integral-corp.com/beta](https://cstories.integral-corp.com/beta/) 
+- [cstories.integral-corp.com/beta/](https://cstories.integral-corp.com/beta/) 
