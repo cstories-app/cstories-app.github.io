@@ -1,5 +1,5 @@
 ---
-pagetitle: "CStories.app - Home"
+pagetitle: "CStories - Home"
 listing:
   - id: list-workshops
     contents:
@@ -31,9 +31,9 @@ listing:
 ::: {.callout-caution}
 ## Check out our Beta website
 
-This website [CStories.app](https://cstories.app) is for organizing workshops and feedback.
+This website [cstories.integral-corp.com](https://cstories.integral-corp.com) is for organizing workshops and feedback.
 
-[CStories.app/**Beta**](https://cstories.app/beta) is our dedicated website product with features (e.g., AI chat bot, comments, interactive infographics and latest news).
+The website [cstories.integral-corp.com/**beta**](https://cstories.integral-corp.com/beta) is our dedicated website product with features (e.g., AI chat bot, comments, interactive infographics and latest news).
 :::
 
 ## Workshops

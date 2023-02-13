@@ -3,5 +3,5 @@ title: "Redirect"
 ---
 
 <script>
-window.location.replace("http://cstories.app/beta");
+window.location.replace("http://cstories.integral-corp.com/beta");
 </script>

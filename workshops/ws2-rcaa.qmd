@@ -52,7 +52,7 @@ image: "../images/place/RCAA_EurekaWomensClub.jpg"
     -   Tradeoff App\
         [shiny.marinebon.app/siting](https://shiny.marinebon.app/siting)
     
-    - ... and more at [cstories.app/apps.html](https://cstories.app/apps.html)
+    - ... and more at [cstories.integral-corp.com/apps.html](https://cstories.integral-corp.com/apps.html)
 
 -   **Feedback**\
     [forms.gle/Sf1QAnAaUBPyaZZBA](https://forms.gle/Sf1QAnAaUBPyaZZBA)
